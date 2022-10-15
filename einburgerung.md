@@ -1,3 +1,15 @@
+Kelten, Latène
+
+Helvetier, Raetien, Seduner, Leponter
+
+Römer
+
+400 Burgunder
+
+Adelgeschlechter
+
+Laupenkrieg
+
 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden.
 
 Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
@@ -11,13 +23,34 @@ Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291
 
 https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
 
+Untertan Gebieten TODO
+Zugewandten Orten TODO
+
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
 1315 Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
 
+1386 Schlacht bei Sempach
+
+1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen)
+
+1415 Eroberung des Aargaus
+
+1468 Waldsauterkrieg
+
+1476 Burgundi Hurten Granson
+
+1499 Schwabenkrieg
+
+Frieden zu Basel
+
 1515  https://de.wikipedia.org/wiki/Schlacht_bei_Marignano 
 
 1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  -> Souveränität
+
+1798 Helvetische Republik (Tochterrepublik)
+
+1803 Schweizerische Eidgenossenschaft -> 1813
 
 1815 Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz
 
@@ -135,13 +168,116 @@ Bundesverfassung:
   Versammlungsfreiheit
   Vereinigungsfreiheit
 
+====
+
+Sizialversicherung
+AHV 1948 
+IV
+EL
+BVG
+UVG
+	Gebundene , Saule 3A
+	Freie , Saule 3B
+
+Krankenkasse
+	Grundversicherung
+	Zusatzversicherung
+	Arbeitlosenversicherung
+	Erwerbsersatz
+	Familienzulage
 
 ====
+
+Feste
+  Nationalfeiertag 1 Aug (Bundesfeier)
+  Weihnachten (25 Dez)
+  Neujahrstag (1 Jan)
+  Ostern 
+  Auffahrt
+  Pfingsten
+  Samichlaus (6 Dez)
+
+====
+
+Küche 
+  Käsefondue
+  Caquelon
+  Raclette
+  Rösti
+  Birchermüesli
+  Schokolade
+  
+  
+
+========
 
 
 Geographie
 
+Mittelland - 30% Fläche, 66% Bevölkerung
+Alpen - 60% Fläche
+Jura - 10% Fläche
+
+Bern: Bundeshaus: Bundesrat (7) + Bundesparlament (Nationalrat + Ständerat)
+
 https://de.wikipedia.org/wiki/Genf TODO
+
+
+AI Appenzeller Innerrhoden : Appenzell
+AG Aargau: Baden, Brugg, Vindonissa, Koblenz, Jura
+AR Appenzeller Ausserrhoden : Herisau-Troger
+
+BE Bern : Berg: Finsteraarmorn 4274m, Jungfrau 4158, Mönch 4107, Eiger
+Bielersee, Neuenburgsee
+
+BL Basel Landschaft
+BS Basel Stadt
+FR Freiburg
+GE Genf
+GL Glarus : Glarus
+GR Graubünden
+JU Jura: Delsberg
+LU Luzern: Kapellbrücke, Pilatus, Rigi
+NE Neuenburg : La Chaux de Fonds, Neuenburg
+NW Nidwalden : Stans
+OW Obwalden : Sarnen, Vierwaldstättensee, Brünig Pass, Titlis, Engelberg
+SG Sankt Gallen: St Gallen, Stiftskirche
+SH Schaffausen : Rheinfall
+SO Solothurn : Olten
+SZ Schwytz : Freienbach
+TG Thurgau : Frauenfeld
+TI Tessin
+UR Uri : Altdorf
+VD Waadt : Genfersee (Rhöne, Dranse), Lausanne, Vevey, Montreux
+VS Wallis : Brig, Visp, Zermatt
+ZG Zug: Zugersee
+
+ZH Zürich : 1728 Km2, 1.5 M , 
+  Flüsse: Limmar, Sihl, Glatt
+  Berge: Schnebelhorn, Bachtel, Hinwil, Albiskette (Uetlieberg) 
+  See: Pfäffikersee, Greifensee, Türlersee
+  Städte: Winterthur
+  Zürcher Weinland
+  Goldküuste (Zollikon, Küusnacht, Erlenbach)
+  Penüselküste
+  
+  
+  29% Evangelisch, 26% Catholisch
+  
+
+Legislative: Kantonsrat 180, 18 Wahlkreisen, Doppelproportionalen
+  Einzelinitiative, Zutelungsverfahren
+
+Executive: Regierungsrat ( 7, 4 Jahre)
+vom Volk gewählt
+
+Judikative: Obergericht
+
+Kanton: 162 Gemeinden
+
+Ustertag 1830 -> Verfassung
+Bundesverfassung 1848
+
 
 
 ==========
