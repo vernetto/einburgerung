@@ -40,32 +40,86 @@ Zugewandten Orten TODO
 
 1476 Burgundi Hurten Granson
 
+1477 Hasburgisch-Franzosische Gegensatz
+
 1499 Schwabenkrieg
 
 Frieden zu Basel
 
 1515  https://de.wikipedia.org/wiki/Schlacht_bei_Marignano 
 
+1516 Ewige Friede mit Franckreich
+
+1519 Zwingli -> Reformierte Kirche
+
+1529 - 1531 Zwei Kappelerkriegen
+
+1559 Calvin -> Genf Protestant, Hugonottes
+
+1600 Zweiteilung in 2 Konfessionen
+
+1648 Westfälische Friede
+
 1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  -> Souveränität
 
-1798 Helvetische Republik (Tochterrepublik)
+???? Wirtschafkriese
+
+1653 Bauernkrieg in CH
+
+1685 Aufhebung von Edikt von Nantes -> 60K Hugenotten vom FR in CH
+
+???? Absolutismus
+
+1782 Anna Göldi
+
+Aufklärung
+
+Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
+
+1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
 1803 Schweizerische Eidgenossenschaft -> 1813
 
-1815 Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz
+1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz
+
+1815 Tambora
+
+1845 Sonderbund (Liberalen Kantonen)
+
+1847 Sonderbuskrieg (Nov 1847)
 
 1848 Polizei und Armee auf der Strasse ???
 https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1863 IKRK https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
+1864 Fabrikgesetz, Juden , Anarchisten
+
+1891 Eisenbahnunfall Münchenstein
 
 1894 IOK https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee
 
+1889 Russische Grippe
 
 1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen
 
+1917 Ulrich Wille (General)
+
+1918 Armut - Landesstreik
+
+1919 Spanische Grippe - Wirtschaftskrise
+
 1920 Völkerbund https://de.wikipedia.org/wiki/V%C3%B6lkerbund in Genf
+
+1923 Conradi Affäre
+
+1932 Unruhen von Genf. Verding Kindern.
+
+1935 Nationalen Front (Fascisten)
+
+1938 Konferenz von Evian (Juden)
+
+1940 General Mobilmachung -> Reduit Plan. Operation Tannenbaum.
 
 1945 VN https://de.wikipedia.org/wiki/Vereinte_Nationen  in NY, Büro in Genf
 
@@ -83,7 +137,21 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1948 AHV  https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung 
 
+1945 -> 1970 10x Wirtschaft
 
+1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersucung, Kommission PUK
+
+1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
+
+1970 Einwanderung
+
+1969 Palestinensischen Attentätern  (Zürich, Kloten)
+
+1973 !olpreisekrise
+
+1975 7% Sturz BIP
+
+2001 Zuger Attentat
 
 
 ========== POLITIK
@@ -120,9 +188,9 @@ Gewalttrennung:
   Judikative (Bundesgericht) Prüfen gesetzte
 
 Wahlrecht: Regierung (KG) und Parlament (KGB) , 4 Jahren
-Stimmrecht: auch Änderungen in Bundesverfassung KG
-Initiativerecht: Volksinitiative
-Referendumrecht
+Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
+Initiativrecht: Volksinitiative (Volksmehr + Ständemehr)
+Referendumsrecht
 
 
 Volksinitiative -> Bundesverfassung ändern, 100K Unterschriften
@@ -159,18 +227,24 @@ AL https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz)
 
 Bundesverfassung:
   Recht am Leben und Freiheit
-  Rechtsgleichheit (no Discriminierung)
-  Gleichnerechtigung (Equal Opportunities)
+  Rechtsgleicheit (no Discriminierung)
+  Gleichberechtigung (Equal Opportunities)
   Recht auf Ehe
-  Glauben Freiheit und Gewissensfreiheit
+  Glaubensfreiheit und Gewissensfreiheit
   Meinungsfreiheit und Informationsfreiheit
-  Medienfreiheit
+  Medien Freiheit
   Versammlungsfreiheit
   Vereinigungsfreiheit
 
+Pflichten:
+an das Schweizer Gesetze halten
+Steuern
+Militärdienst
+
+
 ====
 
-Sizialversicherung
+Sozialversicherung
 AHV 1948 
 IV
 EL
@@ -264,6 +338,8 @@ ZH Zürich : 1728 Km2, 1.5 M ,
   
   29% Evangelisch, 26% Catholisch
   
+Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen (HADDBUM)
+
 
 Legislative: Kantonsrat 180, 18 Wahlkreisen, Doppelproportionalen
   Einzelinitiative, Zutelungsverfahren
