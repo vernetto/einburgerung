@@ -245,11 +245,11 @@ Militärdienst
 ====
 
 Sozialversicherung
-AHV 1948 
-IV
-EL
-BVG
-UVG
+AHV 1948 Alter Hinterlassene Vorsorge
+IV Invaliden Vorsorge
+EL Ergänzungsleistung
+BVG Berufliche Vorsorge
+UVG Unfallversicherungsgesetz https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
 	Gebundene , Saule 3A
 	Freie , Saule 3B
 
@@ -292,7 +292,6 @@ Mittelland - 30% Fläche, 66% Bevölkerung
 Alpen - 60% Fläche
 Jura - 10% Fläche
 
-Bern: Bundeshaus: Bundesrat (7) + Bundesparlament (Nationalrat + Ständerat)
 
 https://de.wikipedia.org/wiki/Genf TODO
 
@@ -353,6 +352,31 @@ Kanton: 162 Gemeinden
 
 Ustertag 1830 -> Verfassung
 Bundesverfassung 1848
+
+LEGISLATIVE
+	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
+	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH
+	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
+
+EXECUTIVE
+	BUND REGIERUNG : Bundesrat 7
+	KANTON REGIERUNG : Regierungsrat 7 ZH
+	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH
+
+JUDIKATIVE
+	BUND GERICHT : Bundesgericht 41 
+	KANTON GERICHT : Kantonsgericht/Obergericht
+	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
+
+Bundesrat Departement
+
+EDA = Auswärtige
+EDI = Intern
+EJPD = Justiz & Polizei
+VBS = Verteidigung Bevölkerungsschutz und Sport
+EFD = Finanz
+WBF = Wirtschaft Bildung Forschung
+UVEK = Umwelt Verkehr Energie Kommunikation
 
 
 
