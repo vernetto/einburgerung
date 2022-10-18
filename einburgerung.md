@@ -378,6 +378,148 @@ EFD = Finanz
 WBF = Wirtschaft Bildung Forschung
 UVEK = Umwelt Verkehr Energie Kommunikation
 
+======
+
+BRIEFMARKEN
+
+Rütli https://de.wikipedia.org/wiki/R%C3%BCtli
+Mythen https://de.wikipedia.org/wiki/Mythen 
+
+Louis_Favre https://de.wikipedia.org/wiki/Louis_Favre
+Alfred_Escher https://de.wikipedia.org/wiki/Alfred_Escher 
+
+Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall
+Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental 
+
+Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv)
+
+Chillon Castle https://de.wikipedia.org/wiki/Schloss_Chillon
+
+https://de.wikipedia.org/wiki/Rhonegletscher
+
+https://de.wikipedia.org/wiki/Gotthardbahn
+https://de.wikipedia.org/wiki/Gotthard-Basistunnel
+https://de.wikipedia.org/wiki/Ceneri-Basistunnel
+
+https://de.wikipedia.org/wiki/Viamala
+
+https://de.wikipedia.org/wiki/Rheinfall
+
+https://de.wikipedia.org/wiki/S%C3%A4ntis 
+
+https://de.wikipedia.org/wiki/Lugano 
+https://de.wikipedia.org/wiki/Luganersee
+
+https://de.wikipedia.org/wiki/Stanser_Verkommnis
+
+https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939
+
+1864 https://de.wikipedia.org/wiki/Genfer_Konventionen
+
+https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen
+https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch
+
+https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi
+
+https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker)
+
+https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz)
+
+https://de.wikipedia.org/wiki/Engadin
+
+https://de.wikipedia.org/wiki/Nyon
+
+https://de.wikipedia.org/wiki/Finsteraarhorn
+
+https://de.wikipedia.org/wiki/San-Bernardino-Pass
+
+https://de.wikipedia.org/wiki/Henri_Guisan
+
+https://de.wikipedia.org/wiki/Francesco_Borromini
+
+https://de.wikipedia.org/wiki/Othmar_Schoeck
+
+https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl
+
+https://de.wikipedia.org/wiki/Chr%C3%BCzberg
+
+https://de.wikipedia.org/wiki/Piz_Pal%C3%BC
+
+https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz
+
+https://www.edm.ch/fr/
+
+https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin
+https://de.wikipedia.org/wiki/Auguste_Forel
+https://de.wikipedia.org/wiki/Jules_Gonin
+https://de.wikipedia.org/wiki/Robert_Koch
+
+https://de.wikipedia.org/wiki/Alberto_Giacometti
+
+https://de.wikipedia.org/wiki/Gross_Spannort
+
+https://de.wikipedia.org/wiki/Leuk
+
+https://de.wikipedia.org/wiki/Sottoceneri
+https://de.wikipedia.org/wiki/Sopraceneri
+
+https://de.wikipedia.org/wiki/Toggenburg
+
+https://de.wikipedia.org/wiki/La_Chaux-de-Fonds
+https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum
+
+https://de.wikipedia.org/wiki/St._Moritz
+
+https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel
+
+https://de.wikipedia.org/wiki/Max_Bill
+
+
+HYMN Schweiz TODO
+https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/schweizer-landeshymne.html
+
+Trittst im Morgenrot daher,
+Seh'ich dich im Strahlenmeer,
+Dich, du Hocherhabener, Herrlicher!
+Wenn der Alpenfirn sich rötet,
+Betet, freie Schweizer, betet!
+Eure fromme Seele ahnt
+Eure fromme Seele ahnt
+Gott im hehren Vaterland,
+Gott, den Herrn, im hehren Vaterland.
+
+Kommst im Abendglühn daher,
+Find'ich dich im Sternenheer,
+Dich, du Menschenfreundlicher, Liebender!
+In des Himmels lichten Räumen
+Kann ich froh und selig träumen!
+Denn die fromme Seele ahnt
+Denn die fromme Seele ahnt
+Gott im hehren Vaterland,
+Gott, den Herrn, im hehren Vaterland.
+
+Ziehst im Nebelflor daher,
+Such'ich dich im Wolkenmeer,
+Dich, du Unergründlicher, Ewiger!
+Aus dem grauen Luftgebilde
+Tritt die Sonne klar und milde,
+Und die fromme Seele ahnt
+Und die fromme Seele ahnt
+Gott im hehren Vaterland,
+Gott, den Herrn, im hehren Vaterland.
+
+Fährst im wilden Sturm daher,
+Bist du selbst uns Hort und Wehr,
+Du, allmächtig Waltender, Rettender!
+In Gewitternacht und Grauen
+Lasst uns kindlich ihm vertrauen!
+Ja, die fromme Seele ahnt, 
+Ja, die fromme Seele ahnt,
+Gott im hehren Vaterland,
+Gott, den Herrn, im hehren Vaterland.
+
+
+
 
 
 ==========
