@@ -30,7 +30,7 @@ Zugewandten Orten TODO
 
 1315 Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
 
-1386 Schlacht bei Sempach
+1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen)
 
@@ -368,6 +368,16 @@ JUDIKATIVE
 	KANTON GERICHT : Kantonsgericht/Obergericht
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
+
+Viola Amherd -> VBS
+Simonetta Sommaruga -> UVEK
+Alain Berset -> EDI
+Ignazio Cassis -> EDA
+Ueli Maurer -> EFD
+Guy Parmelin -> WFB
+Karin Keller-Sutter -> EJPD
+
+
 Bundesrat Departement
 
 EDA = Auswärtige
@@ -473,6 +483,40 @@ https://de.wikipedia.org/wiki/St._Moritz
 https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel
 
 https://de.wikipedia.org/wiki/Max_Bill
+https://de.wikipedia.org/wiki/Werner_Witschi
+
+https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg)
+
+https://de.wikipedia.org/wiki/Beat_Fischer
+
+https://de.wikipedia.org/wiki/Oskar_Bider
+
+https://de.wikipedia.org/wiki/Saint-Ursanne
+
+https://de.wikipedia.org/wiki/Brig
+
+https://de.wikipedia.org/wiki/Joseph_Bovet
+
+https://de.wikipedia.org/wiki/Rainer_Maria_Rilke
+
+https://de.wikipedia.org/wiki/Othmar_Ammann
+https://de.wikipedia.org/wiki/Winterthur
+
+https://de.wikipedia.org/wiki/Sulzer_AG
+https://de.wikipedia.org/wiki/Schweizerische_Lokomotiv-_und_Maschinenfabrik
+https://de.wikipedia.org/wiki/Rieter
+https://de.wikipedia.org/wiki/Swica
+https://de.wikipedia.org/wiki/Zimmer_Biomet
+
+
+https://de.wikipedia.org/wiki/Veloland_Schweiz
+
+https://de.wikipedia.org/wiki/Albert_Anker
+https://de.wikipedia.org/wiki/Saint-Imier
+https://de.wikipedia.org/wiki/Ernest_Ansermet
+https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
+
+
 
 
 HYMN Schweiz TODO
