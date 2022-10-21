@@ -163,14 +163,53 @@ Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz) TOD
 Bundesrat  https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) TODO
 
 
-Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, CHF
+Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtshaft- und Währungspolitik CHF, Aussenpolitik
 
-Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit)
+Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei
+
+Gemeinde: Kehrichabfuhr, localen Strassen, Wasser und ElektrWizitäts Versorgung, Schulhäusern, Feuerwehr
 
 
 BUND: Bundesparlament
 KANTON: Parlament
 GEMEINDE: Parlament
+
+
+LEGISLATIVE
+	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
+	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH
+	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
+
+EXECUTIVE
+	BUND REGIERUNG : Bundesrat 7
+	KANTON REGIERUNG : Regierungsrat 7 ZH
+	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH
+
+JUDIKATIVE
+	BUND GERICHT : Bundesgericht 41 
+	KANTON GERICHT : Kantonsgericht/Obergericht
+	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
+
+
+Viola Amherd -> VBS
+Simonetta Sommaruga -> UVEK
+Alain Berset -> EDI
+Ignazio Cassis -> EDA
+Ueli Maurer -> EFD
+Guy Parmelin -> WFB
+Karin Keller-Sutter -> EJPD
+
+
+Bundesrat Departement
+
+EDA = Auswärtige
+EDI = Intern
+EJPD = Justiz & Polizei
+VBS = Verteidigung Bevölkerungsschutz und Sport
+EFD = Finanz
+WBF = Wirtschaft Bildung Forschung
+UVEK = Umwelt Verkehr Energie Kommunikation
+
 
 ====
 
@@ -183,9 +222,9 @@ wählt :	Bundesrat
 ====
 
 Gewalttrennung: 
-  Executive (Regierung + Bundesrat) Gesetzte durchsetzen
-  Legislative (Bundesparlament) Gesetzte bestimmen
-  Judikative (Bundesgericht) Prüfen gesetzte
+  Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
+  Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
+  Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
 
 Wahlrecht: Regierung (KG) und Parlament (KGB) , 4 Jahren
 Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
@@ -207,19 +246,19 @@ BDP Bürgerlich-Demokratische Partei  https://de.wikipedia.org/wiki/B%C3%BCrgerl
 
 CVP Christlichdemokratische Volkspartei https://de.wikipedia.org/wiki/Christlichdemokratische_Volkspartei
 
-BDP+CVP -> Die Mitte (2021) https://de.wikipedia.org/wiki/Die_Mitte
+BDP+CVP -> Die Mitte (2021) https://de.wikipedia.org/wiki/Die_Mitte 13.8%
 
 EVP https://de.wikipedia.org/wiki/Evangelische_Volkspartei
 
-FDP Die Liberalen  https://de.wikipedia.org/wiki/FDP.Die_Liberalen
+FDP Die Liberalen  https://de.wikipedia.org/wiki/FDP.Die_Liberalen 15.1%
 
 GLP Grünliberale Partei https://de.wikipedia.org/wiki/Gr%C3%BCnliberale_Partei
 
-Grüne Schweiz https://de.wikipedia.org/wiki/Gr%C3%BCne_Schweiz 
+Grüne Schweiz https://de.wikipedia.org/wiki/Gr%C3%BCne_Schweiz 13.2%
 
-SP Sozialdemokratische Partei der Schweiz  https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz
+SP Sozialdemokratische Partei der Schweiz  https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz 16.8%
 
-SVP  https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 
+SVP  https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 25.6%
 
 AL https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz) 
 
@@ -352,41 +391,6 @@ Kanton: 162 Gemeinden
 
 Ustertag 1830 -> Verfassung
 Bundesverfassung 1848
-
-LEGISLATIVE
-	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
-	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH
-	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
-
-EXECUTIVE
-	BUND REGIERUNG : Bundesrat 7
-	KANTON REGIERUNG : Regierungsrat 7 ZH
-	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH
-
-JUDIKATIVE
-	BUND GERICHT : Bundesgericht 41 
-	KANTON GERICHT : Kantonsgericht/Obergericht
-	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
-
-
-Viola Amherd -> VBS
-Simonetta Sommaruga -> UVEK
-Alain Berset -> EDI
-Ignazio Cassis -> EDA
-Ueli Maurer -> EFD
-Guy Parmelin -> WFB
-Karin Keller-Sutter -> EJPD
-
-
-Bundesrat Departement
-
-EDA = Auswärtige
-EDI = Intern
-EJPD = Justiz & Polizei
-VBS = Verteidigung Bevölkerungsschutz und Sport
-EFD = Finanz
-WBF = Wirtschaft Bildung Forschung
-UVEK = Umwelt Verkehr Energie Kommunikation
 
 ======
 
