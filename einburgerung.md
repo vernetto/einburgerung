@@ -32,6 +32,8 @@ Zugewandten Orten TODO
 
 1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach
 
+1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels 
+
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen)
 
 1415 Eroberung des Aargaus
@@ -167,7 +169,7 @@ Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staa
 
 Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei
 
-Gemeinde: Kehrichabfuhr, localen Strassen, Wasser und ElektrWizitäts Versorgung, Schulhäusern, Feuerwehr
+Gemeinde: Kehrichabfuhr, localen Strassen, Wasser und Elektrizitäts Versorgung, Schulhäusern, Feuerwehr
 
 
 BUND: Bundesparlament
@@ -177,7 +179,7 @@ GEMEINDE: Parlament
 
 LEGISLATIVE
 	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
-	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH
+	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
 	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
 EXECUTIVE
@@ -186,7 +188,7 @@ EXECUTIVE
 	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH
 
 JUDIKATIVE
-	BUND GERICHT : Bundesgericht 41 
+	BUND GERICHT : Bundesgericht 41 (6 Jahren)
 	KANTON GERICHT : Kantonsgericht/Obergericht
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
@@ -261,6 +263,11 @@ SP Sozialdemokratische Partei der Schweiz  https://de.wikipedia.org/wiki/Soziald
 SVP  https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 25.6%
 
 AL https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz) 
+
+
+
+https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
+
 
 ====
 
@@ -520,6 +527,21 @@ https://de.wikipedia.org/wiki/Saint-Imier
 https://de.wikipedia.org/wiki/Ernest_Ansermet
 https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
 
+https://de.wikipedia.org/wiki/Jean_Tinguely 
+https://de.wikipedia.org/wiki/Delsberg
+https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+https://de.wikipedia.org/wiki/Angelika_Kaufmann
+https://de.wikipedia.org/wiki/Blaise_Cendrars
+https://de.wikipedia.org/wiki/Frank_Buchser
+
+https://de.wikipedia.org/wiki/Lavertezzo
+https://de.wikipedia.org/wiki/Bremgarten_AG
+https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
+
+
+
+
+https://de.wikipedia.org/wiki/Emilie_Lieberherr
 
 
 
@@ -577,5 +599,50 @@ Gott, den Herrn, im hehren Vaterland.
 FILM
 
 https://de.wikipedia.org/wiki/Rolf_Lyssy  Regisseur  ( https://de.wikipedia.org/wiki/Die_Schweizermacher )
+
+
+===============
+
+TESTS
+
+https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
+
+==========
+
+NEWS
+
+https://de.wikipedia.org/wiki/Liste_von_Schweizer_Zeitungen
+
+https://www.tagesanzeiger.ch/schweiz
+
+https://www.swissinfo.ch/ger/direkte-demokratie_so-funktioniert-das-politische-system-der-schweiz/31029048
+
+https://www.youtube.com/watch?v=9D6jhjAn38M Ausstellung "Geschichte Schweiz" für Schulen
+
+
+===========
+
+
+https://de.wikipedia.org/wiki/Uster
+https://de.wikipedia.org/wiki/B%C3%BClach
+https://de.wikipedia.org/wiki/Sechsel%C3%A4utenplatz
+https://de.wikipedia.org/wiki/Robert_Grimm
+https://de.wikipedia.org/wiki/Gotthard-Basistunnel
+https://de.wikipedia.org/wiki/Lac_des_Dix
+https://de.wikipedia.org/wiki/Cosey
+
+https://de.wikipedia.org/wiki/Hans_Asper
+https://de.wikipedia.org/wiki/Exuperantius
+https://de.wikipedia.org/wiki/Felix_und_Regula
+
+
+
+
+=========
+ZÜRICH STADT
+https://de.wikipedia.org/wiki/Lindenhof_(Stadt_Z%C3%BCrich)
+https://de.wikipedia.org/wiki/Schipfe
+
+
 
 
