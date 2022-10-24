@@ -619,6 +619,9 @@ https://www.swissinfo.ch/ger/direkte-demokratie_so-funktioniert-das-politische-s
 
 https://www.youtube.com/watch?v=9D6jhjAn38M Ausstellung "Geschichte Schweiz" für Schulen
 
+https://www.youtube.com/watch?v=hYLXPpLKZ5Y «Swissness. Tradition und Innovation»
+
+
 
 ===========
 
@@ -635,13 +638,46 @@ https://de.wikipedia.org/wiki/Hans_Asper
 https://de.wikipedia.org/wiki/Exuperantius
 https://de.wikipedia.org/wiki/Felix_und_Regula
 
+https://de.wikipedia.org/wiki/Landsgemeinde
 
+https://de.wikipedia.org/wiki/Burgunderkriege
+https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
+https://de.wikipedia.org/wiki/Schlacht_bei_Murten
+https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
+
+https://de.wikipedia.org/wiki/Lina_B%C3%B6gli
+https://de.wikipedia.org/wiki/Elisabeth_Kopp
+
+https://de.wikipedia.org/wiki/Topographische_Karte_der_Schweiz
+
+https://de.wikipedia.org/wiki/Meyer_Guggenheim
+
+https://de.wikipedia.org/wiki/Josephine_Z%C3%BCrcher
+
+https://de.wikipedia.org/wiki/Bruno_Manser
 
 
 =========
 ZÜRICH STADT
 https://de.wikipedia.org/wiki/Lindenhof_(Stadt_Z%C3%BCrich)
 https://de.wikipedia.org/wiki/Schipfe
+
+https://swisscollections.ch/
+https://www.e-rara.ch/
+
+
+===========
+
+TODO
+
+https://www.youtube.com/watch?v=ctig2b2bPLY  Die Schweiz und ihr Nein zu Europa | 20 Jahre nach der EWR Abstimmung
+
+https://www.youtube.com/watch?v=OiVKr8mngFw Die Akte UBS – Das Ende des Schweizer Bankgeheimnisses | Doku | SRF Dok
+
+https://www.youtube.com/watch?v=8RsD2j2dvTU Die Macht des Volkes | Direkte Demokratie in der Schweiz | Doku | SRF Dok
+
+https://www.youtube.com/watch?v=9lchmlwUX5A Verteidigungsministerin Viola Amherd
+
 
 
 
