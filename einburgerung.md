@@ -682,3 +682,33 @@ https://www.youtube.com/watch?v=9lchmlwUX5A Verteidigungsministerin Viola Amherd
 
 
 
+==========
+
+https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle
+https://de.wikipedia.org/wiki/Museum_Tinguely
+https://de.wikipedia.org/wiki/Mario_Botta
+https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp
+
+https://de.wikipedia.org/wiki/Pipilotti_Rist
+
+https://de.wikipedia.org/wiki/Arnold_Winkelried
+
+https://de.wikipedia.org/wiki/Jeremias_Gotthelf
+
+https://de.wikipedia.org/wiki/Max_Frisch
+https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt
+
+https://de.wikipedia.org/wiki/Roger_Federer
+
+https://de.wikipedia.org/wiki/Gottfried_Keller
+
+https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe
+
+https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
+
+https://de.wikipedia.org/wiki/Kunstmuseum_Basel
+
+
+
+
+
