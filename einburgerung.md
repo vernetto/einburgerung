@@ -707,6 +707,44 @@ https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe
 https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
 
 https://de.wikipedia.org/wiki/Kunstmuseum_Basel
+https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
+https://de.wikipedia.org/wiki/Konrad_Witz
+
+https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
+https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
+
+
+https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich
+
+https://de.wikipedia.org/wiki/Museum_Rietberg
+
+https://de.wikipedia.org/wiki/Museum_Tinguely
+
+https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
+https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
+
+https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle
+
+https://de.wikipedia.org/wiki/Kunstmuseum_Bern
+
+https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
+
+https://de.wikipedia.org/wiki/Limmatquai
+
+https://de.wikipedia.org/wiki/Haus_zum_R%C3%BCden
+https://de.wikipedia.org/wiki/Zunfthaus_zur_Zimmerleuten
+
+https://de.wikipedia.org/wiki/Rudolf-Brun-Br%C3%BCcke
+
+https://de.wikipedia.org/wiki/Schloss_Greyerz
+
+https://de.wikipedia.org/wiki/Zug_(Stadt)
+https://de.wikipedia.org/wiki/Stiftsbibliothek_St._Gallen
+
+https://de.wikipedia.org/wiki/Gallus_(Heiliger)
+
+https://de.wikipedia.org/wiki/Augusta_Raurica
+
 
 
 
