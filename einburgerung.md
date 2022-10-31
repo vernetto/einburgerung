@@ -668,6 +668,17 @@ https://www.e-rara.ch/
 
 ===========
 
+Fakultatives Referendum 100 Tagen 50k Unterschriften
+
+Wenn die Stimmberechtigten gegen Beschlüsse des Parlaments sind, können sie das Referendum ergreifen (fakultatives Referendum). Die Stimmberechtigten müssen dann innerhalb von 100 Tagen 50 000 gültige Unterschriften sammeln. Diese Frist beginnt zu laufen mit dem Tag, an dem der betreffende Erlass amtlich veröffentlicht wird. Das Referendum kann auch von acht Kantonen gemeinsam verlangt werden. Das Gesetz tritt nur in Kraft, wenn es von der Mehrheit der Abstimmenden angenommen wird.
+
+Obligatorisches Referendum
+
+Eine Volksabstimmung muss durchgeführt werden, wenn das Parlament gewisse Erlasse verabschiedet, insbesondere wenn es die Verfassung ändert. Verfassungsänderungen treten nur in Kraft, wenn sie von der Mehrheit des Stimmvolks und der Mehrheit der Kantone in der Volksabstimmung angenommen werden.
+
+https://de.wikipedia.org/wiki/Kollegialit%C3%A4tsprinzip
+https://de.wikipedia.org/wiki/Konkordanzdemokratie
+https://de.wikipedia.org/wiki/Bundesgericht_(Schweiz)
 TODO
 
 https://www.youtube.com/watch?v=ctig2b2bPLY  Die Schweiz und ihr Nein zu Europa | 20 Jahre nach der EWR Abstimmung
