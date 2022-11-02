@@ -756,8 +756,19 @@ https://de.wikipedia.org/wiki/Gallus_(Heiliger)
 
 https://de.wikipedia.org/wiki/Augusta_Raurica
 
+https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin
+https://de.wikipedia.org/wiki/Meta_von_Salis
+https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern
 
+https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn
+https://de.wikipedia.org/wiki/Berninabahn
+https://de.wikipedia.org/wiki/Albulabahn
 
+https://de.wikipedia.org/wiki/Viamala
+https://de.wikipedia.org/wiki/Thusis
 
+https://de.wikipedia.org/wiki/Armon_Planta
+
+https://de.wikipedia.org/wiki/Kurt_Marti
 
 
