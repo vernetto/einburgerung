@@ -762,6 +762,8 @@ https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern
 
 https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn
 https://de.wikipedia.org/wiki/Berninabahn
+https://de.wikipedia.org/wiki/Bernina_Express
+
 https://de.wikipedia.org/wiki/Albulabahn
 
 https://de.wikipedia.org/wiki/Viamala
@@ -770,5 +772,11 @@ https://de.wikipedia.org/wiki/Thusis
 https://de.wikipedia.org/wiki/Armon_Planta
 
 https://de.wikipedia.org/wiki/Kurt_Marti
+
+
+https://de.wikipedia.org/wiki/Grossm%C3%BCnster
+https://de.wikipedia.org/wiki/Wasserkirche
+https://de.wikipedia.org/wiki/Fraum%C3%BCnster
+https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
 
 
