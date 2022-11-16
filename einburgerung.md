@@ -1,3 +1,32 @@
+- geborem in eine Bergregion in die Alpen - unabhangig, federalistich, mehrsprachlich
+- politisch gegen ein Zentral Statt, für Regional-Kantonale souveränität.
+- ich identifiziere mich mit die Ethische Werte : hart und kulg Arbeit, Innovation und Technologie
+- ich mag diese Natur, die Berge, die Weise, die Wäldern, die Bache, die Kuhe
+- die Schweiz ohne Koloniale Geschichte, neutral und in Friede
+- ehrlichkeit und respekt
+- bessere Lohne, weil alles ist mehr effizient und wir haben Spitz Technologien und höhe Produktivität
+- keine kunstliche Erschaffung von Arbeitplätze in der "Public Administration", um Stimme zu kaufen
+- Kinder unabhängig, und ermutigt, allein to erfahren und zu forschen
+- Fahrrad Kultur
+- Wilhelm Tell und Rütlischwur - kein Imperialismus, nur Freiheit und Unabhängigkeit
+- National Hymne
+- Klimawandel: mehr wasser, regen, seen
+
+Henri Dufour (Krieg vermeiden) und Henry Dunant (IKRK) - nicht Julius Caesar oder Garibaldi
+
+TODO: Verfassung lesen, Wilhelm Tell lesen
+
+Warum sind sie in die Schweiz gekommen?
+
+Politische Organismen am Stadt und Kanton Ebene ?
+
+Regierungsrat
+Stadtrat
+Initiative
+Referendum
+
+==========
+
 Kelten, Latène
 
 Helvetier, Raetien, Seduner, Leponter
@@ -185,7 +214,7 @@ LEGISLATIVE
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
 	KANTON REGIERUNG : Regierungsrat 7 ZH
-	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH
+	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
 
 JUDIKATIVE
 	BUND GERICHT : Bundesgericht 41 (6 Jahren)
@@ -373,7 +402,7 @@ ZG Zug: Zugersee
 
 ZH Zürich : 1728 Km2, 1.5 M , 
   Flüsse: Limmar, Sihl, Glatt
-  Berge: Schnebelhorn, Bachtel, Hinwil, Albiskette (Uetlieberg) 
+  Berge: Schnebelhorn 1292, Bachtel 1115, Hinwil, Albiskette (Uetlieberg 869) 
   See: Pfäffikersee, Greifensee, Türlersee
   Städte: Winterthur
   Zürcher Weinland
@@ -779,4 +808,34 @@ https://de.wikipedia.org/wiki/Wasserkirche
 https://de.wikipedia.org/wiki/Fraum%C3%BCnster
 https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
 
+TODO 
+
+https://de.wikipedia.org/wiki/Kanton_(Schweiz)
+
+https://de.wikipedia.org/wiki/Z%C3%BCrich
+https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft
+https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
+
+https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)
+https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)
+https://de.wikipedia.org/wiki/Geschichte_der_Schweiz
+https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung
+https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz)
+
+
+https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen
+
+https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel
+
+https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich
+
+https://www.stadt-zuerich.ch/einbuergerungen
+
+
+===========
+
+https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-1?urn=urn:srf:video:68be69b6-05fd-4885-aecb-6e5d861c6e64
+
+
+Warum wollen Sie 
 
