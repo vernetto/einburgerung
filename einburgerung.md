@@ -1,5 +1,6 @@
 - geborem in eine Bergregion in die Alpen - unabhangig, federalistich, mehrsprachlich
 - politisch gegen ein Zentral Statt, für Regional-Kantonale souveränität.
+- ich fühlte mich nie ein "typischer Italiener"
 - ich identifiziere mich mit die Ethische Werte : hart und kulg Arbeit, Innovation und Technologie
 - ich mag diese Natur, die Berge, die Weise, die Wäldern, die Bache, die Kuhe
 - die Schweiz ohne Koloniale Geschichte, neutral und in Friede
@@ -37,14 +38,13 @@ Römer
 
 Adelgeschlechter
 
-Laupenkrieg
 
-Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden.
+1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden.
 
 Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
 
 
-Tell https://de.wikipedia.org/wiki/Wilhelm_Tell
+1307 Wilhelm Tell, Hermann Gessler https://de.wikipedia.org/wiki/Wilhelm_Tell
 
 https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
 
@@ -57,21 +57,27 @@ Zugewandten Orten TODO
 
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
-1315 Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
+1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
+
+1339 Laupenkrieg
+
+1353 + Bern
 
 1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach
 
-1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels 
+1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels  Näfels
 
-1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen)
+1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
 1415 Eroberung des Aargaus
 
-1468 Waldsauterkrieg
+1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg
 
 1476 Burgundi Hurten Granson
 
 1477 Hasburgisch-Franzosische Gegensatz
+
+1481  + Freiburg, Solothurn
 
 1499 Schwabenkrieg
 
@@ -85,15 +91,17 @@ Frieden zu Basel
 
 1529 - 1531 Zwei Kappelerkriegen
 
+1536 Bern erobert Waadt
+
 1559 Calvin -> Genf Protestant, Hugonottes
 
 1600 Zweiteilung in 2 Konfessionen
 
-1648 Westfälische Friede
+1618-1648 30 Jährige Krieg
 
-1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  -> Souveränität
+1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
 
-???? Wirtschafkriese
+1648 Wirtschafkrise
 
 1653 Bauernkrieg in CH
 
@@ -107,11 +115,16 @@ Aufklärung
 
 Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
 
+1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzellen
+ 
+Untertanen Gebieten
+Zugewandten Orten
+
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
 1803 Schweizerische Eidgenossenschaft -> 1813
 
-1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz
+1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz  Deutschland+England+Frankreich+Russland
 
 1815 Tambora
 
@@ -120,9 +133,12 @@ Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
 1847 Sonderbuskrieg (Nov 1847)
 
 1848 Polizei und Armee auf der Strasse ???
+
 https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
-1863 IKRK https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
+1848 Bundesverfassung, Parlament und Regierung
+
+1863 IKRK Henry Dunant, Genf https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
 1864 Fabrikgesetz, Juden , Anarchisten
 
@@ -132,7 +148,7 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1889 Russische Grippe
 
-1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen
+1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen SBB
 
 1917 Ulrich Wille (General)
 
@@ -142,9 +158,11 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1920 Völkerbund https://de.wikipedia.org/wiki/V%C3%B6lkerbund in Genf
 
-1923 Conradi Affäre
+1923 Conradi Affäre https://de.wikipedia.org/wiki/Conradi-Aff%C3%A4re
 
 1932 Unruhen von Genf. Verding Kindern.
+
+1934 Segreto bancario
 
 1935 Nationalen Front (Fascisten)
 
@@ -176,14 +194,29 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1970 Einwanderung
 
+1971 Wahlrecht Frauen
+
+1981 Gleichrechtigung
+
 1969 Palestinensischen Attentätern  (Zürich, Kloten)
 
-1973 !olpreisekrise
+1971 Frauenstimm- und wahlrecht
 
-1975 7% Sturz BIP
+1973 Ölpreisekrise
+
+1974 EMRK Europäische Menschenrechtskonvention
+
+1975 -7% Sturz BIP
+
+1979 Kanton Jura
+
+1995 Gleichstellung von Mann und Frau
+
+1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
 2001 Zuger Attentat
 
+2020 Armee & Sicherheit, Krankenkassen & Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer + Zoll, CHF
 
 ========== POLITIK
 
@@ -205,7 +238,7 @@ BUND: Bundesparlament
 KANTON: Parlament
 GEMEINDE: Parlament
 
-
+TODO
 LEGISLATIVE
 	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
 	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
@@ -214,32 +247,32 @@ LEGISLATIVE
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
 	KANTON REGIERUNG : Regierungsrat 7 ZH
-	GEMEINDE REGIERUNG - Gemeinderat / Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
+	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
 
 JUDIKATIVE
 	BUND GERICHT : Bundesgericht 41 (6 Jahren)
 	KANTON GERICHT : Kantonsgericht/Obergericht
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
+Bundesrat:
+Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
+Simonetta Sommaruga -> UVEK Umwelt Verkehr Energie Kommunikation
+Alain Berset -> EDI Intern
+Ignazio Cassis -> EDA Auswärtige
+Ueli Maurer -> EFD Finanz
+Guy Parmelin -> WFB Wirtschaft Bildung Forschung
+Karin Keller-Sutter -> EJPD  Justiz & Polizei
 
-Viola Amherd -> VBS
-Simonetta Sommaruga -> UVEK
-Alain Berset -> EDI
-Ignazio Cassis -> EDA
-Ueli Maurer -> EFD
-Guy Parmelin -> WFB
-Karin Keller-Sutter -> EJPD
+Stadtrat ZH (EXECUTIVE)  9+2
+André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel Leupi, Raphael Golta, Corine Mauch, Michael Baumer, Karin Rykart, Andrea Töndury (Rechtskonsulent), Filippo Leutenegger, Andreas Hauri
+
+"Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. Jedes Mitglied steht einem Departement vor.
+
+Üblicherweise tritt der Stadtrat jeweils am Mittwochmorgen im Stadtratssaal des Stadthauses zu einer ordentlichen Sitzung zusammen. Den Vorsitz führt die Stadtpräsidentin. 
+
+Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
 
 
-Bundesrat Departement
-
-EDA = Auswärtige
-EDI = Intern
-EJPD = Justiz & Polizei
-VBS = Verteidigung Bevölkerungsschutz und Sport
-EFD = Finanz
-WBF = Wirtschaft Bildung Forschung
-UVEK = Umwelt Verkehr Energie Kommunikation
 
 
 ====
@@ -249,6 +282,11 @@ wählt :	Bundesrat
 		Bundespräsident + Vize
 		Bundesrichter
 		General der Armee
+
+Nationalrat Zürich 36 Sitze (2023)
+https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich
+
+
 
 ====
 
@@ -263,7 +301,7 @@ Initiativrecht: Volksinitiative (Volksmehr + Ständemehr)
 Referendumsrecht
 
 
-Volksinitiative -> Bundesverfassung ändern, 100K Unterschriften
+Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschriften
 
 Bund:	Volksmehr, Ständemehr (Kanton Mehrheit)
 Kanton:	in Kanton ZH 6K Unterschriften
@@ -279,19 +317,21 @@ CVP Christlichdemokratische Volkspartei https://de.wikipedia.org/wiki/Christlich
 
 BDP+CVP -> Die Mitte (2021) https://de.wikipedia.org/wiki/Die_Mitte 13.8%
 
-EVP https://de.wikipedia.org/wiki/Evangelische_Volkspartei
+EVP Evangelische Partei https://de.wikipedia.org/wiki/Evangelische_Volkspartei
 
 FDP Die Liberalen  https://de.wikipedia.org/wiki/FDP.Die_Liberalen 15.1%
 
 GLP Grünliberale Partei https://de.wikipedia.org/wiki/Gr%C3%BCnliberale_Partei
 
+GP Grüne Partei
+
 Grüne Schweiz https://de.wikipedia.org/wiki/Gr%C3%BCne_Schweiz 13.2%
 
 SP Sozialdemokratische Partei der Schweiz  https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz 16.8%
 
-SVP  https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 25.6%
+SVP Schweizerische Volkspartei https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 25.6%
 
-AL https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz) 
+AL Alternative Liste https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz) 
 
 
 
@@ -303,6 +343,7 @@ https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
 Bundesverfassung:
   Recht am Leben und Freiheit
   Rechtsgleicheit (no Discriminierung)
+  Niederlassungsfreiheit
   Gleichberechtigung (Equal Opportunities)
   Recht auf Ehe
   Glaubensfreiheit und Gewissensfreiheit
@@ -324,9 +365,10 @@ AHV 1948 Alter Hinterlassene Vorsorge
 IV Invaliden Vorsorge
 EL Ergänzungsleistung
 BVG Berufliche Vorsorge
+	Gebundene Vorsorge, Saule 3A
+	Freie Vorsorge, Saule 3B
 UVG Unfallversicherungsgesetz https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
-	Gebundene , Saule 3A
-	Freie , Saule 3B
+
 
 Krankenkasse
 	Grundversicherung
@@ -341,10 +383,10 @@ Feste
   Nationalfeiertag 1 Aug (Bundesfeier)
   Weihnachten (25 Dez)
   Neujahrstag (1 Jan)
-  Ostern 
-  Auffahrt
-  Pfingsten
-  Samichlaus (6 Dez)
+- Ostern (4 Apr)
+- Auffahrt (13 Mai)
+- Pfingsten (23 Mai) 
+- Samichlaus (6 Dez)
 
 ====
 
@@ -371,37 +413,35 @@ Jura - 10% Fläche
 https://de.wikipedia.org/wiki/Genf TODO
 
 
-AI Appenzeller Innerrhoden : Appenzell
-AG Aargau: Baden, Brugg, Vindonissa, Koblenz, Jura
-AR Appenzeller Ausserrhoden : Herisau-Troger
-
-BE Bern : Berg: Finsteraarmorn 4274m, Jungfrau 4158, Mönch 4107, Eiger
-Bielersee, Neuenburgsee
-
-BL Basel Landschaft
-BS Basel Stadt
-FR Freiburg
-GE Genf
-GL Glarus : Glarus
-GR Graubünden
-JU Jura: Delsberg
-LU Luzern: Kapellbrücke, Pilatus, Rigi
-NE Neuenburg : La Chaux de Fonds, Neuenburg
-NW Nidwalden : Stans
-OW Obwalden : Sarnen, Vierwaldstättensee, Brünig Pass, Titlis, Engelberg
-SG Sankt Gallen: St Gallen, Stiftskirche
-SH Schaffausen : Rheinfall
-SO Solothurn : Olten
-SZ Schwytz : Freienbach
-TG Thurgau : Frauenfeld
-TI Tessin
-UR Uri : Altdorf
-VD Waadt : Genfersee (Rhöne, Dranse), Lausanne, Vevey, Montreux
-VS Wallis : Brig, Visp, Zermatt
-ZG Zug: Zugersee
+AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
+AI Appenzeller Innerhoden DE : Appenzell 
+AR Appenzeller Ausserhoden DE : Herisau-Trogen
+BE Bern DE+FR: Finsteraarhorn 4278 m, Jungfrau 4158, Mönch 4107, Eiger; BIelersee, Neuenburgsee
+BL Basel Landschaft DE
+BS Basel Stadt DE
+FR Freiburg DE+FR
+GE Genf FR
+GL Glarus DE : Glarus
+GR Graubunden DE+RO+IT
+JU Jura FR : Delsberg
+LU Luzern DE : Kappelbrücke, Pilatus, Rigi
+NE Neuenburg FR : La Chaud de Fonds, Neuenburg
+NW Nidwalden (Unterwalden) DE : Stans
+OW Obwalden (Interwalden) DE : Sarnen, Vierwaldstättensee, Brünigpass, Titlis, Engelberg
+SG Saint Gallen DE : St Gallen, Stiftskirche
+SH Schaffhausen DE : Rheinfall
+SO Soloturn DE : Olten
+SZ Schwyz DE : Freinbach
+TG Thurgau DE : Frauenfeld
+TI Tessin IT : 
+UR Uri DE : Altdorf
+VD Waadt FR : Genfersee (Rhône, Dranse), Lausanne, Vevey, Montreux
+VS Wallis DE+FR : Brig, Visp, Zermatt
+ZG Zug DE : Zugersee
+ZH Zürich  DE 
 
 ZH Zürich : 1728 Km2, 1.5 M , 
-  Flüsse: Limmar, Sihl, Glatt
+  Flüsse: Limmat, Sihl, Glatt
   Berge: Schnebelhorn 1292, Bachtel 1115, Hinwil, Albiskette (Uetlieberg 869) 
   See: Pfäffikersee, Greifensee, Türlersee
   Städte: Winterthur
@@ -423,10 +463,18 @@ vom Volk gewählt
 
 Judikative: Obergericht
 
-Kanton: 162 Gemeinden
+Kanton ZH: 162 Gemeinden
 
 Ustertag 1830 -> Verfassung
 Bundesverfassung 1848
+
+
+62% Deutsch 
+23% Französisch 
+8% Italienisch 
+0.5% Rätoromanisch 
+24.8% Andere
+
 
 ======
 
@@ -454,6 +502,7 @@ https://de.wikipedia.org/wiki/Ceneri-Basistunnel
 https://de.wikipedia.org/wiki/Viamala
 
 https://de.wikipedia.org/wiki/Rheinfall
+https://de.wikipedia.org/wiki/Rhein 
 
 https://de.wikipedia.org/wiki/S%C3%A4ntis 
 
@@ -829,13 +878,58 @@ https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel
 
 https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich
 
+
+https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark
+
+
 https://www.stadt-zuerich.ch/einbuergerungen
+
+https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
+
+
+
+https://de.wikipedia.org/wiki/Dufourspitze   Gornerhorn 
+
+
+https://de.wikipedia.org/wiki/Kanton_Waadt
+https://de.wikipedia.org/wiki/Kanton_Glarus
+
+
+https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
+
+
+https://en.wikipedia.org/wiki/Frauenwinkel
+
+https://de.wikipedia.org/wiki/Jass
+https://de.wikipedia.org/wiki/Hornussen_(Sport)
+https://de.wikipedia.org/wiki/Schwingen
+https://de.wikipedia.org/wiki/Steinwerfen
+
+https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich
+
+Musikalische Instrumente
+https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli
+https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)
+https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
 
 
 ===========
 
+Schweizer machen
 https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-1?urn=urn:srf:video:68be69b6-05fd-4885-aecb-6e5d861c6e64
 
+https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-2?urn=urn:srf:video:afa84b9e-7bac-4220-a4c6-5141d36fced6
 
-Warum wollen Sie 
+https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-3?urn=urn:srf:video:cd7409d2-c1ea-4c45-b1a6-2ad9d0ebd0b9
+
+https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-4?urn=urn:srf:video:60a3a7f8-4a8c-403f-8811-72bb2bb4ba59&aspectRatio=16_9
+
+
+https://www.youtube.com/watch?v=eB7woQYdYbU  Come ha fatto la Svizzera a diventare ricca?
+
+Warum wollen Sie Schweizer werden
+
+Autobahn 1540 Km in der Schweiz
+
+https://ttsfree.com/ Schweizer Deutsch Stimme
 
