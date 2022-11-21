@@ -38,6 +38,7 @@ Römer
 
 Adelgeschlechter
 
+https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
 1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden.
 
@@ -244,21 +245,26 @@ LEGISLATIVE
 	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
 	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
+Doppelproportionalen
+Zuteilungsverfaren
+Einzelinitiative
+
+
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
-	KANTON REGIERUNG : Regierungsrat 7 ZH
+	KANTON REGIERUNG : Regierungsrat 7 ZH, 4 Jahre
 	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
 
 JUDIKATIVE
 	BUND GERICHT : Bundesgericht 41 (6 Jahren)
-	KANTON GERICHT : Kantonsgericht/Obergericht
+	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
 Bundesrat:
 Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
 Simonetta Sommaruga -> UVEK Umwelt Verkehr Energie Kommunikation
 Alain Berset -> EDI Intern
-Ignazio Cassis -> EDA Auswärtige
+Ignazio Cassis -> EDA Auswärtige (Bundespräsident)
 Ueli Maurer -> EFD Finanz
 Guy Parmelin -> WFB Wirtschaft Bildung Forschung
 Karin Keller-Sutter -> EJPD  Justiz & Polizei
@@ -390,7 +396,7 @@ Feste
 
 ====
 
-Küche 
+Küche
   Käsefondue
   Caquelon
   Raclette
@@ -398,7 +404,7 @@ Küche
   Birchermüesli
   Schokolade
   
-  
+https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/
 
 ========
 
@@ -455,7 +461,7 @@ ZH Zürich : 1728 Km2, 1.5 M ,
 Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen (HADDBUM)
 
 
-Legislative: Kantonsrat 180, 18 Wahlkreisen, Doppelproportionalen
+Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen
   Einzelinitiative, Zutelungsverfahren
 
 Executive: Regierungsrat ( 7, 4 Jahre)
@@ -912,6 +918,11 @@ https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli
 https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)
 https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
 
+Flüsse
+https://de.wikipedia.org/wiki/Reuss_(Fluss)
+https://de.wikipedia.org/wiki/Aare
+https://de.wikipedia.org/wiki/Limmat
+
 
 ===========
 
@@ -932,4 +943,88 @@ Warum wollen Sie Schweizer werden
 Autobahn 1540 Km in der Schweiz
 
 https://ttsfree.com/ Schweizer Deutsch Stimme
+
+
+============
+
+
+
+TEST
+
+Bundesgericht=Judikative. Prüft Bundesparlament+Bundesrat
+
+Bundesparlament=Legislative, Nationalrat+Ständerat
+
+Nationalrat=zählt 200 Mitglieder, Präsident Irène Kälin,  Vizepräsident(in) Martin Candinas, Eric Nussbaumer
+
+Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
+
+Bundesrat=Regierung,Executive. 7 Mitglieder. 
+
+Bundesverfassung
+
+Föderalismus=Kantone
+
+Gemeinde=169 in Kanton Zürich
+
+Gemeinderat=Parlament der Stadt Zürich, 125 Mitglieder
+
+Kantonsrat= 180 Mitglieder
+
+Referendum: Gesetz ändern
+
+Regierungsrat= (kantonal Bundesrat) 7 Mitglieder
+
+Rütlischwur= Uri Schwyz Unterwalden
+
+Sozialversicherungen: Arbeitslosenversicherung
+
+Stadtrat: (Stadt Bundesrat) 9 Mitglieder
+
+Volksinitiative: Bundesverfassung ändern
+
+============
+
+
+Rechtstaat -> Gesetze
+Föderalistisches Staat (Kantone)
+Bund -> Bundesparlament
+Kantone -> Parlament
+Gemeinde (nur grosse) -> Parlament
+
+Kantone: Autonomie (Schulsystem ÖV Gesundheit)
+
+Regierung = Bundesrat, 7 Mitgliedern 4 Jahre. Bundesräte & Bundesrätinnen
+Bundespräsident + Vize (1 Jahr)
+
+Bundesparlament (Bundesversammlung) : Nationalrat + Ständerat
+Wählt: Bundesrat, Bundespräsident + Vize, Bundesrichter, General der Armee
+
+Gewalttrennung: 
+Executive (Regierung + Bundesrat)
+Legislative (Bundesparlament)
+Judikative (Bundesgericht)
+
+Executive = Gesetze durchsetzen 
+Legislative = Gesetze bestimmen
+Judikative = Gesetze prüfen
+
+Rechte:
+Wahlrecht: die Regierung (K+G) + das Parlament (K+G+B) , 4 Jahre
+Stimmrecht: auch änderungen in Bundesverfassung, K+G
+Initiativerecht: Volksinitiative
+Referendumrecht: 
+
+Auf der Bundesebene
+
+
+Volksinitiative= Bundesverfassung ändern
+100K Unterschriften 
+
+Bund: Volksmehr + Ständemehr (Kanton Mehrheit)
+
+K+G in ZH 6k Unterschriften und 3k für SZH 
+
+Referendum = Neue Gesetz
+100 Tage Zeit und 50k Unterschriften
 
