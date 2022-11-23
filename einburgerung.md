@@ -40,18 +40,15 @@ Adelgeschlechter
 
 https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
-1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden.
+1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
 
 Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
-
 
 1307 Wilhelm Tell, Hermann Gessler https://de.wikipedia.org/wiki/Wilhelm_Tell
 
 https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
 
 Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291)  Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
-
-https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
 
 Untertan Gebieten TODO
 Zugewandten Orten TODO
@@ -70,23 +67,36 @@ Zugewandten Orten TODO
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
+1403-1478 Ennetbirgische Feldzüge - Expansion ins Tessin
 1415 Eroberung des Aargaus
+
+1449-1450 Alter Zürichkriege
 
 1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg
 
-1476 Burgundi Hurten Granson
-
+1474-78 Burgunderkriege Hurten Granson
 1477 Hasburgisch-Franzosische Gegensatz
 
-1481  + Freiburg, Solothurn
+https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
+1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzell
+
+Untertanen Gebieten
+Zugewandten Orten
+
+
+1481  + Freiburg, Solothurn, Stanser Verkommnis
 
 1499 Schwabenkrieg
 
 Frieden zu Basel
 
+1490-1525 Mailänderkriege 
+
+1498-99 Schwabenkrieg
+
 1515  https://de.wikipedia.org/wiki/Schlacht_bei_Marignano 
 
-1516 Ewige Friede mit Franckreich
+1516 Ewige Friede mit Frankreich
 
 1519 Zwingli -> Reformierte Kirche
 
@@ -98,17 +108,21 @@ Frieden zu Basel
 
 1600 Zweiteilung in 2 Konfessionen
 
-1618-1648 30 Jährige Krieg
+1618-1648 30 Jährige Krieg, https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren
 
 1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
 
 1648 Wirtschafkrise
 
-1653 Bauernkrieg in CH
+1653 Schweizer Bauernkrieg 
+
+1656 https://de.wikipedia.org/wiki/Villmergerkriege
 
 1685 Aufhebung von Edikt von Nantes -> 60K Hugenotten vom FR in CH
 
-???? Absolutismus
+1712 zweite Villmergerkriege oder Toggenburgerkrieg https://de.wikipedia.org/wiki/Toggenburgerkrieg
+
+1712-1798 Absolutismus (Ancien Régime)
 
 1782 Anna Göldi
 
@@ -116,10 +130,6 @@ Aufklärung
 
 Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
 
-1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzellen
- 
-Untertanen Gebieten
-Zugewandten Orten
 
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
@@ -129,6 +139,14 @@ Zugewandten Orten
 
 1815 Tambora
 
+1814-1830 Restaurationszeit
+
+1815 Bundesvertrag
+
+1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+
+1830-47 https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte)
+
 1845 Sonderbund (Liberalen Kantonen)
 
 1847 Sonderbuskrieg (Nov 1847)
@@ -137,11 +155,13 @@ Zugewandten Orten
 
 https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
-1848 Bundesverfassung, Parlament und Regierung
+1848 Bundesstaat, Bundesverfassung, Parlament und Regierung
 
 1863 IKRK Henry Dunant, Genf https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
 1864 Fabrikgesetz, Juden , Anarchisten
+
+1874 Totalrevision Bundesverfassung
 
 1891 Eisenbahnunfall Münchenstein
 
@@ -154,6 +174,8 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 1917 Ulrich Wille (General)
 
 1918 Armut - Landesstreik
+
+1919 Proportionalwahlrecht
 
 1919 Spanische Grippe - Wirtschaftskrise
 
@@ -189,6 +211,8 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1945 -> 1970 10x Wirtschaft
 
+1960-74 EFTA, OECD, Europarat, Freihandel EG, OSZE, EMRK
+
 1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersucung, Kommission PUK
 
 1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
@@ -211,11 +235,17 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1979 Kanton Jura
 
+1992 Weltbank und IWF
+
 1995 Gleichstellung von Mann und Frau
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
+1999 Bilaterale Verträge mit EU
+
 2001 Zuger Attentat
+
+2002 UNO beitritt
 
 2020 Armee & Sicherheit, Krankenkassen & Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer + Zoll, CHF
 
@@ -241,9 +271,9 @@ GEMEINDE: Parlament
 
 TODO
 LEGISLATIVE
-	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
-	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
-	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
+BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
+KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
+GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
 Doppelproportionalen
 Zuteilungsverfaren
@@ -251,14 +281,14 @@ Einzelinitiative
 
 
 EXECUTIVE
-	BUND REGIERUNG : Bundesrat 7
-	KANTON REGIERUNG : Regierungsrat 7 ZH, 4 Jahre
-	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
+BUND REGIERUNG : Bundesrat 7
+KANTON REGIERUNG : Regierungsrat 7 ZH, 4 Jahre
+GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
 
 JUDIKATIVE
-	BUND GERICHT : Bundesgericht 41 (6 Jahren)
-	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
-	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
+BUND GERICHT : Bundesgericht 41 (6 Jahren)
+KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
+GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
 Bundesrat:
 Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
@@ -285,9 +315,9 @@ Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt.
 
 Bundesparlament / Bundesversammlung : Nationalrat + Ständerat
 wählt :	Bundesrat
-		Bundespräsident + Vize
-		Bundesrichter
-		General der Armee
+	Bundespräsident + Vize
+	Bundesrichter
+	General der Armee
 
 Nationalrat Zürich 36 Sitze (2023)
 https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich
@@ -297,9 +327,9 @@ https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat
 ====
 
 Gewalttrennung: 
-  Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
-  Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
-  Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
+Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
+Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
+Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
 
 Wahlrecht: Regierung (KG) und Parlament (KGB) , 4 Jahren
 Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
@@ -347,16 +377,16 @@ https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
 ====
 
 Bundesverfassung:
-  Recht am Leben und Freiheit
-  Rechtsgleicheit (no Discriminierung)
-  Niederlassungsfreiheit
-  Gleichberechtigung (Equal Opportunities)
-  Recht auf Ehe
-  Glaubensfreiheit und Gewissensfreiheit
-  Meinungsfreiheit und Informationsfreiheit
-  Medien Freiheit
-  Versammlungsfreiheit
-  Vereinigungsfreiheit
+Recht am Leben und Freiheit
+Rechtsgleicheit (no Discriminierung)
+Niederlassungsfreiheit
+Gleichberechtigung (Equal Opportunities)
+Recht auf Ehe
+Glaubensfreiheit und Gewissensfreiheit
+Meinungsfreiheit und Informationsfreiheit
+Medien Freiheit
+Versammlungsfreiheit
+Vereinigungsfreiheit
 
 Pflichten:
 an das Schweizer Gesetze halten
@@ -371,24 +401,24 @@ AHV 1948 Alter Hinterlassene Vorsorge
 IV Invaliden Vorsorge
 EL Ergänzungsleistung
 BVG Berufliche Vorsorge
-	Gebundene Vorsorge, Saule 3A
-	Freie Vorsorge, Saule 3B
+Gebundene Vorsorge, Saule 3A
+Freie Vorsorge, Saule 3B
 UVG Unfallversicherungsgesetz https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
 
 
 Krankenkasse
-	Grundversicherung
-	Zusatzversicherung
-	Arbeitlosenversicherung
-	Erwerbsersatz
-	Familienzulage
+Grundversicherung
+Zusatzversicherung
+Arbeitlosenversicherung
+Erwerbsersatz
+Familienzulage
 
 ====
 
 Feste
-  Nationalfeiertag 1 Aug (Bundesfeier)
-  Weihnachten (25 Dez)
-  Neujahrstag (1 Jan)
+Nationalfeiertag 1 Aug (Bundesfeier)
+Weihnachten (25 Dez)
+Neujahrstag (1 Jan)
 - Ostern (4 Apr)
 - Auffahrt (13 Mai)
 - Pfingsten (23 Mai) 
@@ -397,13 +427,13 @@ Feste
 ====
 
 Küche
-  Käsefondue
-  Caquelon
-  Raclette
-  Rösti
-  Birchermüesli
-  Schokolade
-  
+Käsefondue
+Caquelon
+Raclette
+Rösti
+Birchermüesli
+Schokolade
+
 https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/
 
 ========
@@ -447,22 +477,22 @@ ZG Zug DE : Zugersee
 ZH Zürich  DE 
 
 ZH Zürich : 1728 Km2, 1.5 M , 
-  Flüsse: Limmat, Sihl, Glatt
-  Berge: Schnebelhorn 1292, Bachtel 1115, Hinwil, Albiskette (Uetlieberg 869) 
-  See: Pfäffikersee, Greifensee, Türlersee
-  Städte: Winterthur
-  Zürcher Weinland
-  Goldküuste (Zollikon, Küusnacht, Erlenbach)
-  Penüselküste
-  
-  
-  29% Evangelisch, 26% Catholisch
-  
+Flüsse: Limmat, Sihl, Glatt
+Berge: Schnebelhorn 1292, Bachtel 1115, Hinwil, Albiskette (Uetlieberg 869) 
+See: Pfäffikersee, Greifensee, Türlersee
+Städte: Winterthur
+Zürcher Weinland
+Goldküuste (Zollikon, Küusnacht, Erlenbach)
+Penüselküste
+
+
+29% Evangelisch, 26% Catholisch
+
 Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen (HADDBUM)
 
 
 Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen
-  Einzelinitiative, Zutelungsverfahren
+Einzelinitiative, Zutelungsverfahren
 
 Executive: Regierungsrat ( 7, 4 Jahre)
 vom Volk gewählt
@@ -754,7 +784,7 @@ https://www.e-rara.ch/
 
 Fakultatives Referendum 100 Tagen 50k Unterschriften
 
-Wenn die Stimmberechtigten gegen Beschlüsse des Parlaments sind, können sie das Referendum ergreifen (fakultatives Referendum). Die Stimmberechtigten müssen dann innerhalb von 100 Tagen 50 000 gültige Unterschriften sammeln. Diese Frist beginnt zu laufen mit dem Tag, an dem der betreffende Erlass amtlich veröffentlicht wird. Das Referendum kann auch von acht Kantonen gemeinsam verlangt werden. Das Gesetz tritt nur in Kraft, wenn es von der Mehrheit der Abstimmenden angenommen wird.
+Wenn die Stimmberechtigten gegen Beschlüsse des Parlaments sind, können sie das Referendum ergreifen (fakultatives Referendum). Die Stimmberechtigten müssen dann innerhalb von 100 Tagen 50000 gültige Unterschriften sammeln. Diese Frist beginnt zu laufen mit dem Tag, an dem der betreffende Erlass amtlich veröffentlicht wird. Das Referendum kann auch von acht Kantonen gemeinsam verlangt werden. Das Gesetz tritt nur in Kraft, wenn es von der Mehrheit der Abstimmenden angenommen wird.
 
 Obligatorisches Referendum
 
@@ -789,9 +819,6 @@ https://de.wikipedia.org/wiki/Pipilotti_Rist
 https://de.wikipedia.org/wiki/Arnold_Winkelried
 
 https://de.wikipedia.org/wiki/Jeremias_Gotthelf
-
-https://de.wikipedia.org/wiki/Max_Frisch
-https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt
 
 https://de.wikipedia.org/wiki/Roger_Federer
 
@@ -853,9 +880,15 @@ https://de.wikipedia.org/wiki/Albulabahn
 https://de.wikipedia.org/wiki/Viamala
 https://de.wikipedia.org/wiki/Thusis
 
-https://de.wikipedia.org/wiki/Armon_Planta
 
+SCHRIFTSTELLER
+https://de.wikipedia.org/wiki/Armon_Planta
 https://de.wikipedia.org/wiki/Kurt_Marti
+https://de.wikipedia.org/wiki/Max_Frisch
+https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt
+https://de.wikipedia.org/wiki/Johanna_Spyri
+
+
 
 
 https://de.wikipedia.org/wiki/Grossm%C3%BCnster
