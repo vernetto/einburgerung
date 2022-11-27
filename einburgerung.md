@@ -1,43 +1,32 @@
-- geborem in eine Bergregion in die Alpen - unabhangig, federalistich, mehrsprachlich
-- politisch gegen ein Zentral Statt, für Regional-Kantonale souveränität.
-- ich fühlte mich nie ein "typischer Italiener"
-- ich identifiziere mich mit die Ethische Werte : hart und kulg Arbeit, Innovation und Technologie
-- ich mag diese Natur, die Berge, die Weise, die Wäldern, die Bache, die Kuhe
+Warum wollen sie sich einbürgern lassen ?
+
+- geboren in eine Bergregion in den Alpen - unabhangig, föderalistisch, mehrsprachig
+- politisch gegen einen Zentralstaat, für regional-kantonale Souveränität, direkte Demokratie
+- Ich habe mich nie als "typisch italienisch" gefühlt
+- Ich identifiziere mich mit den ethischen Werten: harte und intelligente Arbeit, ehrlichkeit und respekt,  Innovation und Technologie
+- Ich mag diese Natur, die Berge, die Wege, die Wälder, die Bäche, die Kühe
 - die Schweiz ohne Koloniale Geschichte, neutral und in Friede
-- ehrlichkeit und respekt
 - bessere Lohne, weil alles ist mehr effizient und wir haben Spitz Technologien und höhe Produktivität
 - keine kunstliche Erschaffung von Arbeitplätze in der "Public Administration", um Stimme zu kaufen
 - Kinder unabhängig, und ermutigt, allein to erfahren und zu forschen
 - Fahrrad Kultur
-- Wilhelm Tell und Rütlischwur - kein Imperialismus, nur Freiheit und Unabhängigkeit
-- National Hymne
 - Klimawandel: mehr wasser, regen, seen
-
-Henri Dufour (Krieg vermeiden) und Henry Dunant (IKRK) - nicht Julius Caesar oder Garibaldi
-
-TODO: Verfassung lesen, Wilhelm Tell lesen
+- Helden der Schweiz sind Henri Dufour (Krieg vermeiden) und Henry Dunant (IKRK), nicht Julius Caesar oder Garibaldi
 
 Warum sind sie in die Schweiz gekommen?
 
 Politische Organismen am Stadt und Kanton Ebene ?
 
-Regierungsrat
-Stadtrat
-Initiative
-Referendum
-
 ==========
 
+Kesslerloch (Madgeleine) , Pfeilbauer
 Kelten, Latène
-
 Helvetier, Raetien, Seduner, Leponter
-
 Römer
-
-400 Burgunder
-
+400 Burgunder, Alamannen
+746 Fränkischen Reiches
+Burgunder und Habsburger
 Adelgeschlechter
-
 https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
 1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
@@ -50,32 +39,30 @@ https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
 
 Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291)  Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
 
-Untertan Gebieten TODO
-Zugewandten Orten TODO
-
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
 1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
 
-1339 Laupenkrieg
+1339 Laupenkrieg https://de.wikipedia.org/wiki/Laupenkrieg (Bern gegen Habsburg)
 
 1353 + Bern
 
 1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach
-
 1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels  Näfels
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
-1403-1478 Ennetbirgische Feldzüge - Expansion ins Tessin
+1403-1478 Ennetbirgische Feldzüge - Expansion ins Tessin https://de.wikipedia.org/wiki/Ennetbirgische_Feldz%C3%BCge
+
 1415 Eroberung des Aargaus
 
-1449-1450 Alter Zürichkriege
+1449-1450 Alter Zürichkriege https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg (Zürich mit Habsburger gegen Eidgenossen)
 
 1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg
 
-1474-78 Burgunderkriege Hurten Granson
-1477 Hasburgisch-Franzosische Gegensatz
+1474-78 Burgunderkriege https://de.wikipedia.org/wiki/Burgunderkriege Murten  https://de.wikipedia.org/wiki/Schlacht_bei_Murten Grandson https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
+
+1516-1756 Habsburgisch-französischer Gegensatz https://de.wikipedia.org/wiki/Habsburgisch-franz%C3%B6sischer_Gegensatz
 
 https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
 1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzell
@@ -652,6 +639,8 @@ https://de.wikipedia.org/wiki/Lavertezzo
 https://de.wikipedia.org/wiki/Bremgarten_AG
 https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
 
+https://de.wikipedia.org/wiki/Berner_Troubadours
+https://de.wikipedia.org/wiki/Mani_Matter
 
 
 
@@ -947,8 +936,9 @@ https://de.wikipedia.org/wiki/Steinwerfen
 https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich
 
 Musikalische Instrumente
-https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli
-https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)
+https://de.wikipedia.org/wiki/Alphorn
+https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli Schwyzerörgeli
+https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)  Büchel 
 https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
 
 Flüsse
