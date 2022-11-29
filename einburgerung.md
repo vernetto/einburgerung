@@ -67,8 +67,8 @@ Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291
 https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
 1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzell
 
-Untertanen Gebieten
-Zugewandten Orten
+Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet
+Zugewandten Orte https://de.wikipedia.org/wiki/Zugewandter_Ort
 
 
 1481  + Freiburg, Solothurn, Stanser Verkommnis
@@ -117,20 +117,17 @@ Aufklärung
 
 Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
 
-
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
 1803 Schweizerische Eidgenossenschaft -> 1813
 
 1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz  Deutschland+England+Frankreich+Russland
+1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+1815 Bundesvertrag
 
 1815 Tambora
 
 1814-1830 Restaurationszeit
-
-1815 Bundesvertrag
-
-1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
 
 1830-47 https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte)
 
@@ -144,11 +141,13 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1848 Bundesstaat, Bundesverfassung, Parlament und Regierung
 
+1849-1859 https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour
+
 1863 IKRK Henry Dunant, Genf https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
 1864 Fabrikgesetz, Juden , Anarchisten
 
-1874 Totalrevision Bundesverfassung
+1874 Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874
 
 1891 Eisenbahnunfall Münchenstein
 
@@ -158,19 +157,19 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen SBB
 
-1917 Ulrich Wille (General)
+1917 Ulrich Wille (General) Grenzbesetzung  https://de.wikipedia.org/wiki/Ulrich_Wille
 
-1918 Armut - Landesstreik
+1918 Armut - Landesstreik https://de.wikipedia.org/wiki/Landesstreik
 
 1919 Proportionalwahlrecht
 
 1919 Spanische Grippe - Wirtschaftskrise
 
-1920 Völkerbund https://de.wikipedia.org/wiki/V%C3%B6lkerbund in Genf
+1920 Völkerbund (League of Nations) https://de.wikipedia.org/wiki/V%C3%B6lkerbund in Genf
 
 1923 Conradi Affäre https://de.wikipedia.org/wiki/Conradi-Aff%C3%A4re
 
-1932 Unruhen von Genf. Verding Kindern.
+1932 Unruhen von Genf. Verdingkinder https://de.wikipedia.org/wiki/Verdingung .
 
 1934 Segreto bancario
 
@@ -178,7 +177,9 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 
 1938 Konferenz von Evian (Juden)
 
-1940 General Mobilmachung -> Reduit Plan. Operation Tannenbaum.
+1940 General Mobilmachung -> Reduit Plan. https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum
+
+1940 https://de.wikipedia.org/wiki/Henri_Guisan
 
 1945 VN https://de.wikipedia.org/wiki/Vereinte_Nationen  in NY, Büro in Genf
 
@@ -428,6 +429,8 @@ https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/
 
 Geographie
 
+Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, Alpen
+
 Mittelland - 30% Fläche, 66% Bevölkerung
 Alpen - 60% Fläche
 Jura - 10% Fläche
@@ -576,7 +579,6 @@ https://de.wikipedia.org/wiki/Auguste_Forel
 https://de.wikipedia.org/wiki/Jules_Gonin
 https://de.wikipedia.org/wiki/Robert_Koch
 
-https://de.wikipedia.org/wiki/Alberto_Giacometti
 
 https://de.wikipedia.org/wiki/Gross_Spannort
 
@@ -623,7 +625,21 @@ https://de.wikipedia.org/wiki/Zimmer_Biomet
 
 https://de.wikipedia.org/wiki/Veloland_Schweiz
 
+KUNSTLER:
+https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Johann Heinrich Füssli 
+https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Arnold Böcklin 
 https://de.wikipedia.org/wiki/Albert_Anker
+https://de.wikipedia.org/wiki/Ferdinand_Hodler 
+https://de.wikipedia.org/wiki/Alberto_Giacometti
+https://de.wikipedia.org/wiki/HR_Giger H.R. Giger  (Alien, Schloss Öerlichon )
+https://de.wikipedia.org/wiki/Paul_Klee
+
+Jean Tinguely https://de.wikipedia.org/wiki/Jean_Tinguely
+Meret Oppenheim, Feldtasse https://de.wikipedia.org/wiki/Meret_Oppenheim
+Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp
+Giovanni Segantini (Engadin) https://de.wikipedia.org/wiki/Giovanni_Segantini
+Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist
+
 https://de.wikipedia.org/wiki/Saint-Imier
 https://de.wikipedia.org/wiki/Ernest_Ansermet
 https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
@@ -639,8 +655,6 @@ https://de.wikipedia.org/wiki/Lavertezzo
 https://de.wikipedia.org/wiki/Bremgarten_AG
 https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
 
-https://de.wikipedia.org/wiki/Berner_Troubadours
-https://de.wikipedia.org/wiki/Mani_Matter
 
 
 
@@ -822,6 +836,8 @@ https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
 https://de.wikipedia.org/wiki/Konrad_Witz
 
 https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
+https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
+
 https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
 
 
@@ -874,10 +890,24 @@ SCHRIFTSTELLER
 https://de.wikipedia.org/wiki/Armon_Planta
 https://de.wikipedia.org/wiki/Kurt_Marti
 https://de.wikipedia.org/wiki/Max_Frisch
-https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt
+https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt Friedrich Dürrenmatt 
 https://de.wikipedia.org/wiki/Johanna_Spyri
+Milena Moser
+Franz Holler (Oerlikon)
 
 
+MUSIKER:
+
+Komponisten:
+https://de.wikipedia.org/wiki/Arthur_Honegger
+https://de.wikipedia.org/wiki/Othmar_Schoeck
+https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
+
+https://de.wikipedia.org/wiki/Mani_Matter
+https://de.wikipedia.org/wiki/Berner_Troubadours
+https://de.wikipedia.org/wiki/Stephan_Eicher Stephan Eicher
+Yello The Race: Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
+Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger
 
 
 https://de.wikipedia.org/wiki/Grossm%C3%BCnster
@@ -945,6 +975,17 @@ Flüsse
 https://de.wikipedia.org/wiki/Reuss_(Fluss)
 https://de.wikipedia.org/wiki/Aare
 https://de.wikipedia.org/wiki/Limmat
+
+Architekten
+https://de.wikipedia.org/wiki/Le_Corbusier
+https://de.wikipedia.org/wiki/Atelier_5
+https://de.wikipedia.org/wiki/Mario_Botta
+https://de.wikipedia.org/wiki/Diener_%26_Diener
+https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron Herzog & de Meuron 
+https://de.wikipedia.org/wiki/Max_Bill Max Bill 
+
+
+
 
 
 ===========
