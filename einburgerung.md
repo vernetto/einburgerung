@@ -87,7 +87,7 @@ Frieden zu Basel
 
 1519 Zwingli -> Reformierte Kirche
 
-1529 - 1531 Zwei Kappelerkriegen
+1529 - 1531 Zwei Kappelerkriegen, zwischen Zürich und den Innerschweizer Kantonen
 
 1536 Bern erobert Waadt
 
@@ -115,7 +115,10 @@ Frieden zu Basel
 
 Aufklärung
 
-Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
+https://de.wikipedia.org/wiki/Albrecht_von_Haller Arzt
+https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau
+
+Zürich = Athen an der Limmat
 
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
@@ -135,13 +138,11 @@ Albrecht von Haller, J-J- Rousseau, Athen an der Limmat
 
 1847 Sonderbuskrieg (Nov 1847)
 
-1848 Polizei und Armee auf der Strasse ???
-
-https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
-
-1848 Bundesstaat, Bundesverfassung, Parlament und Regierung
+1848 Bundesstaat, Bundesverfassung, Parlament und Regierung; Post
 
 1849-1859 https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour
+
+1859 Ende des Reislaufens 
 
 1863 IKRK Henry Dunant, Genf https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
@@ -176,6 +177,7 @@ https://de.wikipedia.org/wiki/Geschichte_der_Schweiz TODO
 1935 Nationalen Front (Fascisten)
 
 1938 Konferenz von Evian (Juden)
+1938 Rätoromanische
 
 1940 General Mobilmachung -> Reduit Plan. https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum
 
@@ -229,7 +231,7 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
-1999 Bilaterale Verträge mit EU
+1999 Bilaterale Verträge mit EU, Totalrevision Bundesverfassung
 
 2001 Zuger Attentat
 
@@ -831,30 +833,28 @@ https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe
 
 https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
 
-https://de.wikipedia.org/wiki/Kunstmuseum_Basel
+Museen
+https://de.wikipedia.org/wiki/Kunstmuseum_Basel Kunstmuseum Basel 
+https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
+https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
+https://de.wikipedia.org/wiki/Museum_Rietberg
+https://de.wikipedia.org/wiki/Museum_Tinguely
+https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
+https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
+https://de.wikipedia.org/wiki/Kunstmuseum_Bern
+https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
+
 https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
 https://de.wikipedia.org/wiki/Konrad_Witz
 
-https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
+Theater
 https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
-
-https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
-
-
 https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich
 
-https://de.wikipedia.org/wiki/Museum_Rietberg
 
-https://de.wikipedia.org/wiki/Museum_Tinguely
-
-https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
-https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
 
 https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle
 
-https://de.wikipedia.org/wiki/Kunstmuseum_Bern
-
-https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
 
 https://de.wikipedia.org/wiki/Limmatquai
 
