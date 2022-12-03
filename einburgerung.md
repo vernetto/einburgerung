@@ -26,7 +26,7 @@ Römer
 400 Burgunder, Alamannen
 746 Fränkischen Reiches
 Burgunder und Habsburger
-Adelgeschlechter
+Deutsche Adelgeschlechter
 https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
 1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
@@ -35,20 +35,21 @@ Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
 
 1307 Wilhelm Tell, Hermann Gessler https://de.wikipedia.org/wiki/Wilhelm_Tell
 
-https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
+https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen (Das Buch enthält eine Chronik mit der ältesten Überlieferung der Tellsgeschichte.)
 
-Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291)  Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
+Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1291)  Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
 
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
-1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten  
+1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten (zwischen den Eidgenossen und den Habsburgern)  
 
 1339 Laupenkrieg https://de.wikipedia.org/wiki/Laupenkrieg (Bern gegen Habsburg)
 
-1353 + Bern
+1352-3 + Glarus + Bern 
 
-1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach
-1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels  Näfels
+1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich)
+
+1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels ( Habsburgern und den Eidgenossen. ) Näfels
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
@@ -58,18 +59,16 @@ Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte 1353-1481  Uri (1291
 
 1449-1450 Alter Zürichkriege https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg (Zürich mit Habsburger gegen Eidgenossen)
 
-1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg
+1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg (gegen Habsburger)
 
 1474-78 Burgunderkriege https://de.wikipedia.org/wiki/Burgunderkriege Murten  https://de.wikipedia.org/wiki/Schlacht_bei_Murten Grandson https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
 
 1516-1756 Habsburgisch-französischer Gegensatz https://de.wikipedia.org/wiki/Habsburgisch-franz%C3%B6sischer_Gegensatz
 
 https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
-1513-1798 Dreizehn Alte Orte : Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg, Solothurn, Schaffausen, Basel, Appenzell
 
 Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet
 Zugewandten Orte https://de.wikipedia.org/wiki/Zugewandter_Ort
-
 
 1481  + Freiburg, Solothurn, Stanser Verkommnis
 
