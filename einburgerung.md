@@ -70,7 +70,7 @@ https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (148
 Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet
 Zugewandten Orte https://de.wikipedia.org/wiki/Zugewandter_Ort
 
-1481  + Freiburg, Solothurn, Stanser Verkommnis
+1481  + Freiburg, Solothurn, Stanser Verkommnis https://de.wikipedia.org/wiki/Stanser_Verkommnis
 
 1499 Schwabenkrieg
 
@@ -547,7 +547,7 @@ https://de.wikipedia.org/wiki/S%C3%A4ntis
 https://de.wikipedia.org/wiki/Lugano 
 https://de.wikipedia.org/wiki/Luganersee
 
-https://de.wikipedia.org/wiki/Stanser_Verkommnis
+
 
 https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939
 
