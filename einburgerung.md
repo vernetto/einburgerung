@@ -138,6 +138,8 @@ Zürich = Athen an der Limmat
 
 1847 Sonderbuskrieg (Nov 1847)
 
+1847 Eisenbahnlinie, Alfred Escher https://de.wikipedia.org/wiki/Alfred_Escher , ETH, Credit Suisse
+
 1848 Bundesstaat, Bundesverfassung, Parlament und Regierung; Post
 
 1849-1859 https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour
@@ -148,9 +150,12 @@ Zürich = Athen an der Limmat
 
 1864 Fabrikgesetz, Juden , Anarchisten
 
+1871 Bourbaki-Armee
+
 1874 Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874
 
-1891 Eisenbahnunfall Münchenstein
+
+1891 Eisenbahnunfall Münchenstein. Volksinitiative
 
 1894 IOK https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee
 
@@ -158,7 +163,7 @@ Zürich = Athen an der Limmat
 
 1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen SBB
 
-1917 Ulrich Wille (General) Grenzbesetzung  https://de.wikipedia.org/wiki/Ulrich_Wille
+1917 Ulrich Wille (General) Grenzbesetzung , bewaffnete Neutralität https://de.wikipedia.org/wiki/Ulrich_Wille
 
 1918 Armut - Landesstreik https://de.wikipedia.org/wiki/Landesstreik
 
@@ -172,7 +177,7 @@ Zürich = Athen an der Limmat
 
 1932 Unruhen von Genf. Verdingkinder https://de.wikipedia.org/wiki/Verdingung .
 
-1934 Segreto bancario
+1934 Schweizer Bankgeheimnis
 
 1935 Nationalen Front (Fascisten)
 
@@ -201,6 +206,8 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1945 -> 1970 10x Wirtschaft
 
+1958 Trudy Späth (Frau Politiker)
+
 1960-74 EFTA, OECD, Europarat, Freihandel EG, OSZE, EMRK
 
 1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersucung, Kommission PUK
@@ -210,8 +217,6 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 1970 Einwanderung
 
 1971 Wahlrecht Frauen
-
-1981 Gleichrechtigung
 
 1969 Palestinensischen Attentätern  (Zürich, Kloten)
 
@@ -225,6 +230,10 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1979 Kanton Jura
 
+1981 Gleichrechtigung
+
+1984 Elisabeth Kopp  (este Frau in den Bundesrat)
+
 1992 Weltbank und IWF
 
 1995 Gleichstellung von Mann und Frau
@@ -236,6 +245,8 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 2001 Zuger Attentat
 
 2002 UNO beitritt
+
+2014 Schweizer Bankgeheimnis aufgehoben 
 
 2020 Armee & Sicherheit, Krankenkassen & Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer + Zoll, CHF
 
@@ -512,7 +523,7 @@ Rütli https://de.wikipedia.org/wiki/R%C3%BCtli
 Mythen https://de.wikipedia.org/wiki/Mythen 
 
 Louis_Favre https://de.wikipedia.org/wiki/Louis_Favre
-Alfred_Escher https://de.wikipedia.org/wiki/Alfred_Escher 
+
 
 Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall
 Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental 
