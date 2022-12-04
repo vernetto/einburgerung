@@ -399,8 +399,8 @@ Pflichten:
 
 Sozialversicherung
 1 Säule
-	AHV 1948 Alter Hinterlassene Vorsorge 
-	IV Invaliden Vorsorge
+	AHV 1948 Alter Hinterlassene Vorsorge (Grundrente > 64/65).  Bezahlen müssen alle arbeitender Personen >18 oder alle > 21
+	IV Invaliden Vorsorge :
 	EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
 
 2 Säule
