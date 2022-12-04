@@ -416,17 +416,44 @@ UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) h
 EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
 FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
 KV Krankenversicherung: Grundversicherung, Zusatzversicherung
+Sozialhilfe
+
+RAV Regionales Arbeitsvermittlungszentrum
+
+
+==========
+
+Bund ist für Berufsbildung zuständig
+Vorschule (Kindergarden) 2 Jahre
+Primarschule (4-6 Jahre) + Sekundarstufe I (3-5 Jahre) : 9 Jahre
+Sekundarstufe II 5 Jahre (Maturitätsschulen, Fachmittelschulen, Berufsfachschule, Lehre, Berufsmaturität)
+Tertiärstufe 9 Jahre (Universität, Fachhochschulen, Höhere Fachschulen)
+
+Betriebslehre
+Gymnasien
+Fachmittelschulen
+Weiterbildung, Erwachsenenbildung
+ 
+
 
 ====
 
 Feste
 Nationalfeiertag 1 Aug (Bundesfeier)
 Weihnachten (25 Dez)
+Stephanstag (26 Dec)
 Neujahrstag (1 Jan)
 - Ostern (4 Apr)
+- Tag der Arbeit (1 Mai)
 - Auffahrt (13 Mai)
 - Pfingsten (23 Mai) 
 - Samichlaus (6 Dez)
+- Berhtoldstag (2 Jan)
+- Karfreitag
+- Fronleichnam
+- Mariä Himmelsfahrt
+
+
 
 ====
 
