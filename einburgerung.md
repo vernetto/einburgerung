@@ -398,13 +398,20 @@ Pflichten:
 ====
 
 Sozialversicherung
-AHV 1948 Alter Hinterlassene Vorsorge (1 Säule)
-IV Invaliden Vorsorge
-EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
+1 Säule
+	AHV 1948 Alter Hinterlassene Vorsorge 
+	IV Invaliden Vorsorge
+	EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
+
+2 Säule
+	BVG PK Pensionskasse Berufliche Vorsorge 
+
+3 Säule	
+	Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden. 
+
+	Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
+
 ALV Arbeitslosenversicherung
-BVG PK Pensionskasse Berufliche Vorsorge (2 Säule)
-Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden. 
-Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
 UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
 EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
 FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
