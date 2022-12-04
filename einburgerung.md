@@ -1,4 +1,4 @@
-Warum wollen sie sich einbürgern lassen ?
+Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 
 - geboren in eine Bergregion in den Alpen - unabhangig, föderalistisch, mehrsprachig
 - politisch gegen einen Zentralstaat, für regional-kantonale Souveränität, direkte Demokratie
@@ -225,7 +225,7 @@ Zürich = Athen an der Limmat
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
-1999 Bilaterale Verträge mit EU, Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999
+1999 Bilaterale Verträge mit EU, Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999 Stellung der Bundesversammlung gegenüber dem Bundesrat wesentlich gestärkt wurde
 
 2001 Zuger Attentat
 
@@ -250,42 +250,51 @@ Titel 5 ist den Bundesbehörden gewidmet und umreisst die Organisation und Komp
 
 Titel 6 enthält die Revisionsmöglichkeiten der Verfassung (Art. 192–195, siehe unten) und die Übergangsbestimmungen (Art. 196 und Art. 197). 
 
-Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz) TODO
+Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz) 
+Bundesparlament / Bundesversammlung : Nationalrat + Ständerat
+wählt :	Bundesrat
+	Bundespräsident + Vize
+	Bundesrichter
+	General der Armee
+	
+Bundesrat  https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) 
 
-Bundesrat  https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) TODO
 
 
-Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtshaft- und Währungspolitik CHF, Aussenpolitik
+Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtschaft- und Währungspolitik CHF, Aussenpolitik
 
 Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei
 
-Gemeinde: Kehrichabfuhr, localen Strassen, Wasser und Elektrizitäts Versorgung, Schulhäusern, Feuerwehr
+Gemeinde: Kehrichtabfuhr, localen Strassen, Wasser und Elektrizitäts Versorgung, Schulhäusern, Feuerwehr
 
 
 BUND: Bundesparlament
 KANTON: Parlament
 GEMEINDE: Parlament
 
-TODO
 LEGISLATIVE
-BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
-KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
-GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
+	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
+	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
+	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
-Doppelproportionalen
-Zuteilungsverfaren
-Einzelinitiative
+Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen
+Einzelinitiative, Zutelungsverfahren
+
+	Doppelproportionalen Zuteilungsverfaren https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
+	Einzelinitiative
 
 
 EXECUTIVE
-BUND REGIERUNG : Bundesrat 7
-KANTON REGIERUNG : Regierungsrat 7 ZH, 4 Jahre
-GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
+	BUND REGIERUNG : Bundesrat 7
+	KANTON REGIERUNG : Regierungsrat https://www.zh.ch/de/regierungsrat.html 7 ZH, 4 Jahre: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
+
+	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
+
 
 JUDIKATIVE
-BUND GERICHT : Bundesgericht 41 (6 Jahren)
-KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
-GEMEINDE GERICHT : Amtgericht/Bezirksgericht
+	BUND GERICHT : Bundesgericht 41 (6 Jahren)
+	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
+	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
 Bundesrat:
 Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
@@ -296,7 +305,7 @@ Ueli Maurer -> EFD Finanz
 Guy Parmelin -> WFB Wirtschaft Bildung Forschung
 Karin Keller-Sutter -> EJPD  Justiz & Polizei
 
-Stadtrat ZH (EXECUTIVE)  9+2
+Stadtrat ZH (EXECUTIVE)  9+2 https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
 André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel Leupi, Raphael Golta, Corine Mauch, Michael Baumer, Karin Rykart, Andrea Töndury (Rechtskonsulent), Filippo Leutenegger, Andreas Hauri
 
 "Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. Jedes Mitglied steht einem Departement vor.
@@ -306,19 +315,11 @@ André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel 
 Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
 
 
-
-
-====
-
-Bundesparlament / Bundesversammlung : Nationalrat + Ständerat
-wählt :	Bundesrat
-	Bundespräsident + Vize
-	Bundesrichter
-	General der Armee
-
-Nationalrat Zürich 36 Sitze (2023)
+Nationalrat Zürich 36 Sitze (ab 2023)
 https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich
 
+
+Bundespolizei. Kantonspolizei. Stadt oder Gemeindepolizei. Verkehrspolizei.
 
 
 ====
@@ -333,14 +334,13 @@ Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
 Initiativrecht: Volksinitiative (Volksmehr + Ständemehr)
 Referendumsrecht
 
-
 Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschriften
 
 Bund:	Volksmehr, Ständemehr (Kanton Mehrheit)
 Kanton:	in Kanton ZH 6K Unterschriften
 Gemeinde:	in Stadt ZH 3K Unterschriften
 
-Referendum= neue Gesetzte, 100 Tage Zeit, 50K Unterschrift
+Referendum = neue Gesetzte, 100 Tage Zeit, 50K Unterschrift
 
 Parteien
 
@@ -374,41 +374,41 @@ https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
 ====
 
 Bundesverfassung:
-Recht am Leben und Freiheit
-Rechtsgleicheit (no Discriminierung)
-Niederlassungsfreiheit
-Gleichberechtigung (Equal Opportunities)
-Recht auf Ehe
-Glaubensfreiheit und Gewissensfreiheit
-Meinungsfreiheit und Informationsfreiheit
-Medien Freiheit
-Versammlungsfreiheit
-Vereinigungsfreiheit
+Rechten:
+	Recht am Leben und Freiheit
+	Rechtsgleicheit (no Discriminierung)
+	Niederlassungsfreiheit
+	Gleichberechtigung (Equal Opportunities)
+	Recht auf Ehe
+	Glaubensfreiheit und Gewissensfreiheit
+	Meinungsfreiheit und Informationsfreiheit
+	Medien Freiheit
+	Versammlungsfreiheit
+	Vereinigungsfreiheit
 
 Pflichten:
-an das Schweizer Gesetze halten
-Steuern
-Militärdienst
+	an das Schweizer Gesetze halten
+	Steuern
+	Schulpflicht
+	Militärdienst
+	Versicherungspflicht
+	Meldepflicht
 
 
 ====
 
 Sozialversicherung
-AHV 1948 Alter Hinterlassene Vorsorge
+AHV 1948 Alter Hinterlassene Vorsorge (1 Säule)
 IV Invaliden Vorsorge
-EL Ergänzungsleistung
-BVG Berufliche Vorsorge
-Gebundene Vorsorge, Saule 3A
-Freie Vorsorge, Saule 3B
-UVG Unfallversicherungsgesetz https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
-
-
-Krankenkasse
-Grundversicherung
-Zusatzversicherung
-Arbeitlosenversicherung
-Erwerbsersatz
-Familienzulage
+EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
+ALV Arbeitslosenversicherung
+BVG PK Pensionskasse Berufliche Vorsorge (2 Säule)
+Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden. 
+Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
+UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
+EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
+FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
+KV Krankenversicherung: Grundversicherung, Zusatzversicherung
 
 ====
 
@@ -440,18 +440,20 @@ Geographie
 
 Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, Alpen
 
++ Po Ebene (Tessin) und OberRhein (Basel)
+
 Mittelland - 30% Fläche, 66% Bevölkerung
 Alpen - 60% Fläche
 Jura - 10% Fläche
 
 
-https://de.wikipedia.org/wiki/Genf TODO
+https://de.wikipedia.org/wiki/Genf 
 
 
 AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
 AI Appenzeller Innerhoden DE : Appenzell 
 AR Appenzeller Ausserhoden DE : Herisau-Trogen
-BE Bern DE+FR: Finsteraarhorn 4278 m, Jungfrau 4158, Mönch 4107, Eiger; BIelersee, Neuenburgsee
+BE Bern DE+FR: Finsteraarhorn 4278 m, Jungfrau 4158, Mönch 4107, Eiger; Bielersee, Neuenburgsee
 BL Basel Landschaft DE
 BS Basel Stadt DE
 FR Freiburg DE+FR
@@ -487,22 +489,12 @@ Penüselküste
 
 29% Evangelisch, 26% Catholisch
 
-Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen (HADDBUM)
+https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
+Kanton ZH: 162 Gemeinden, 12 Bezirke 
+Zürich, Winterthur, Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen, Hinwil, Pfäffikon, Andelfingen
 
 
-Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen
-Einzelinitiative, Zutelungsverfahren
-
-Executive: Regierungsrat ( 7, 4 Jahre)
-vom Volk gewählt
-
-Judikative: Obergericht
-
-Kanton ZH: 162 Gemeinden
-
-Ustertag 1830 -> Verfassung
-Bundesverfassung 1848
-
+Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag -> Verfassung
 
 62% Deutsch 
 23% Französisch 
@@ -515,114 +507,110 @@ Bundesverfassung 1848
 
 BRIEFMARKEN
 
-Rütli https://de.wikipedia.org/wiki/R%C3%BCtli
-Mythen https://de.wikipedia.org/wiki/Mythen 
+Rütli https://de.wikipedia.org/wiki/R%C3%BCtli Bergwiese in Uri
+Mythen https://de.wikipedia.org/wiki/Mythen  Schwyz
 
-Louis_Favre https://de.wikipedia.org/wiki/Louis_Favre
+Louis_Favre https://de.wikipedia.org/wiki/Louis_Favre Bauunternehmer Gotthardtunnels 
 
+Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall Wasserfall im Berner Oberland
+Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental  Berner Oberland
 
-Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall
-Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental 
+Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv) Luzern
 
-Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv)
+Chillon Castle https://de.wikipedia.org/wiki/Schloss_Chillon Waadt Genfersee
 
-Chillon Castle https://de.wikipedia.org/wiki/Schloss_Chillon
+https://de.wikipedia.org/wiki/Rhonegletscher Wallis
 
-https://de.wikipedia.org/wiki/Rhonegletscher
+https://de.wikipedia.org/wiki/Gotthardbahn Immensee- Arth-Goldau - Chiasso
+https://de.wikipedia.org/wiki/Gotthard-Basistunnel Altdorf-Biasca
+https://de.wikipedia.org/wiki/Ceneri-Basistunnel Giubiasco-Lugano
 
-https://de.wikipedia.org/wiki/Gotthardbahn
-https://de.wikipedia.org/wiki/Gotthard-Basistunnel
-https://de.wikipedia.org/wiki/Ceneri-Basistunnel
+https://de.wikipedia.org/wiki/Viamala Graubünden (Chur-Splügen/San Bernardino)
 
-https://de.wikipedia.org/wiki/Viamala
+https://de.wikipedia.org/wiki/Rheinfall Schaffhausen 
+https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graubünden)
 
-https://de.wikipedia.org/wiki/Rheinfall
-https://de.wikipedia.org/wiki/Rhein 
-
-https://de.wikipedia.org/wiki/S%C3%A4ntis 
-
+https://de.wikipedia.org/wiki/S%C3%A4ntis Säntis 2501m Berg in Appenzellen/StGallen
 https://de.wikipedia.org/wiki/Lugano 
+
 https://de.wikipedia.org/wiki/Luganersee
 
+https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939 Landi 39
 
+1864 https://de.wikipedia.org/wiki/Genfer_Konventionen Genfer Abkommen
 
-https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939
+https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen Staatsmann und Heerführer, "Schweizerkönig"
+ 
+https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch Jörg Jenatsch  evangelischer Pfarrer, Militärführer und Politiker
 
-1864 https://de.wikipedia.org/wiki/Genfer_Konventionen
+https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi Pädagoge
 
-https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen
-https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch
-
-https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi
-
-https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker)
+https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker) 
 
 https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz)
 
-https://de.wikipedia.org/wiki/Engadin
+https://de.wikipedia.org/wiki/Engadin 
+https://de.wikipedia.org/wiki/Inn
 
 https://de.wikipedia.org/wiki/Nyon
 
-https://de.wikipedia.org/wiki/Finsteraarhorn
+https://de.wikipedia.org/wiki/Finsteraarhorn 4273m
 
-https://de.wikipedia.org/wiki/San-Bernardino-Pass
+https://de.wikipedia.org/wiki/San-Bernardino-Pass Graubünden 
 
-https://de.wikipedia.org/wiki/Henri_Guisan
+https://de.wikipedia.org/wiki/Henri_Guisan WWII General
 
-https://de.wikipedia.org/wiki/Francesco_Borromini
+https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt
 
-https://de.wikipedia.org/wiki/Othmar_Schoeck
+https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist
 
-https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl
+https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Germaine de Staël, Schriftstellerin
 
-https://de.wikipedia.org/wiki/Chr%C3%BCzberg
+https://de.wikipedia.org/wiki/Chr%C3%BCzberg Chrüzberg, StGallen
 
-https://de.wikipedia.org/wiki/Piz_Pal%C3%BC
+https://de.wikipedia.org/wiki/Piz_Pal%C3%BC Piz Palü 3900 m, Graubünden
+https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
 
-https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz
+https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz Volkszählung in der Schweiz
 
-https://www.edm.ch/fr/
+https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin Arzt (Pest)
+https://de.wikipedia.org/wiki/Auguste_Forel Psychiater, Abstinenzbewegung 
+https://de.wikipedia.org/wiki/Jules_Gonin Augenarzt
 
-https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin
-https://de.wikipedia.org/wiki/Auguste_Forel
-https://de.wikipedia.org/wiki/Jules_Gonin
-https://de.wikipedia.org/wiki/Robert_Koch
+https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
 
-
-https://de.wikipedia.org/wiki/Gross_Spannort
-
-https://de.wikipedia.org/wiki/Leuk
+https://de.wikipedia.org/wiki/Leuk Wallis
 
 https://de.wikipedia.org/wiki/Sottoceneri
 https://de.wikipedia.org/wiki/Sopraceneri
 
-https://de.wikipedia.org/wiki/Toggenburg
+https://de.wikipedia.org/wiki/Toggenburg StGallen
 
-https://de.wikipedia.org/wiki/La_Chaux-de-Fonds
-https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum
+https://de.wikipedia.org/wiki/La_Chaux-de-Fonds Neuenburg
+https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum La Chaux-de-Fonds 
 
-https://de.wikipedia.org/wiki/St._Moritz
+https://de.wikipedia.org/wiki/St._Moritz Graubünden Engadin
 
-https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel
+https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel Eugène Borel, Politiker Neuenburg
 
-https://de.wikipedia.org/wiki/Max_Bill
-https://de.wikipedia.org/wiki/Werner_Witschi
+https://de.wikipedia.org/wiki/Max_Bill Architekt
+https://de.wikipedia.org/wiki/Werner_Witschi Maler, Eisenplastiker
 
-https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg)
+https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg) Mönch 4107 Berner Alpen
 
-https://de.wikipedia.org/wiki/Beat_Fischer
+https://de.wikipedia.org/wiki/Beat_Fischer Gründer der Post Bern 1673
 
-https://de.wikipedia.org/wiki/Oskar_Bider
+https://de.wikipedia.org/wiki/Oskar_Bider Flugpionier
 
-https://de.wikipedia.org/wiki/Saint-Ursanne
+https://de.wikipedia.org/wiki/Saint-Ursanne Jura
 
-https://de.wikipedia.org/wiki/Brig
+https://de.wikipedia.org/wiki/Brig Wallis
 
-https://de.wikipedia.org/wiki/Joseph_Bovet
+https://de.wikipedia.org/wiki/Joseph_Bovet Komponist
 
-https://de.wikipedia.org/wiki/Rainer_Maria_Rilke
+https://de.wikipedia.org/wiki/Rainer_Maria_Rilke Lyriker 
 
-https://de.wikipedia.org/wiki/Othmar_Ammann
+https://de.wikipedia.org/wiki/Othmar_Ammann Brückenbauer (Verrazzano)
 https://de.wikipedia.org/wiki/Winterthur
 
 https://de.wikipedia.org/wiki/Sulzer_AG
@@ -766,9 +754,7 @@ https://de.wikipedia.org/wiki/Felix_und_Regula
 
 https://de.wikipedia.org/wiki/Landsgemeinde
 
-https://de.wikipedia.org/wiki/Burgunderkriege
-https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
-https://de.wikipedia.org/wiki/Schlacht_bei_Murten
+
 https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
 
 https://de.wikipedia.org/wiki/Lina_B%C3%B6gli
@@ -836,7 +822,7 @@ https://de.wikipedia.org/wiki/Roger_Federer
 
 https://de.wikipedia.org/wiki/Gottfried_Keller
 
-https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe
+https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe Schutzpatron Schweiz
 
 https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
 
@@ -916,7 +902,7 @@ https://de.wikipedia.org/wiki/Stephan_Eicher Stephan Eicher
 Yello The Race: Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
 Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger
 
-
+Kirche
 https://de.wikipedia.org/wiki/Grossm%C3%BCnster
 https://de.wikipedia.org/wiki/Wasserkirche
 https://de.wikipedia.org/wiki/Fraum%C3%BCnster
@@ -925,18 +911,10 @@ https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
 TODO 
 
 https://de.wikipedia.org/wiki/Kanton_(Schweiz)
-
 https://de.wikipedia.org/wiki/Z%C3%BCrich
 https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft
 https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
-
-https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)
-https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)
 https://de.wikipedia.org/wiki/Geschichte_der_Schweiz
-https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung
-https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz)
-
-
 https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen
 
 https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel
@@ -960,11 +938,10 @@ https://de.wikipedia.org/wiki/Kanton_Waadt
 https://de.wikipedia.org/wiki/Kanton_Glarus
 
 
-https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
-
 
 https://en.wikipedia.org/wiki/Frauenwinkel
 
+Sports
 https://de.wikipedia.org/wiki/Jass
 https://de.wikipedia.org/wiki/Hornussen_(Sport)
 https://de.wikipedia.org/wiki/Schwingen
@@ -982,6 +959,8 @@ Flüsse
 https://de.wikipedia.org/wiki/Reuss_(Fluss)
 https://de.wikipedia.org/wiki/Aare
 https://de.wikipedia.org/wiki/Limmat
+https://de.wikipedia.org/wiki/Glatt_(Rhein) 
+https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss
 
 Architekten
 https://de.wikipedia.org/wiki/Le_Corbusier
@@ -990,9 +969,6 @@ https://de.wikipedia.org/wiki/Mario_Botta
 https://de.wikipedia.org/wiki/Diener_%26_Diener
 https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron Herzog & de Meuron 
 https://de.wikipedia.org/wiki/Max_Bill Max Bill 
-
-
-
 
 
 ===========
@@ -1008,8 +984,6 @@ https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-4?urn=urn:srf:video:
 
 
 https://www.youtube.com/watch?v=eB7woQYdYbU  Come ha fatto la Svizzera a diventare ricca?
-
-Warum wollen Sie Schweizer werden
 
 Autobahn 1540 Km in der Schweiz
 
@@ -1043,19 +1017,16 @@ Gemeinderat=Parlament der Stadt Zürich, 125 Mitglieder
 Kantonsrat= 180 Mitglieder
 
 Referendum: Gesetz ändern
+Volksinitiative: Bundesverfassung ändern
 
 Regierungsrat= (kantonal Bundesrat) 7 Mitglieder
-
-Rütlischwur= Uri Schwyz Unterwalden
 
 Sozialversicherungen: Arbeitslosenversicherung
 
 Stadtrat: (Stadt Bundesrat) 9 Mitglieder
 
-Volksinitiative: Bundesverfassung ändern
 
 ============
-
 
 Rechtstaat -> Gesetze
 Föderalistisches Staat (Kantone)
@@ -1087,7 +1058,6 @@ Initiativerecht: Volksinitiative
 Referendumrecht: 
 
 Auf der Bundesebene
-
 
 Volksinitiative= Bundesverfassung ändern
 100K Unterschriften 
