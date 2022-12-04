@@ -237,7 +237,18 @@ Zürich = Athen an der Limmat
 
 ========== POLITIK
 
-Bundesverfassung  https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft TODO
+Bundesverfassung  https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft 
+Titel 1 enthält allgemeine Bestimmungen, wie etwa zum Staatszweck (Art. 2), zur Stellung der Kantone (Art. 3), zu den Landessprachen (Art. 4) und zu den Grundsätzen rechtsstaatlichen Handelns (Art. 5). 
+
+Titel 2 umschreibt die Grundrechte (Art. 7–36), die Bürgerrechte (Art. 37–40) und die Sozialziele (Art. 41).  
+
+Titel 3 nennt sich «Bund, Kantone und Gemeinden» und regelt in den Art. 43–135 die Kompetenzaufteilung zwischen den drei staatlichen Gliederungsebenen. Darin ist insbesondere die umfassende Liste der Zuständigkeiten des Bundes (Art. 54–125) von Bedeutung: Jeder Erlass des Bundes muss sich auf eine solche Norm stützen. Existiert keine explizite Bundeskompetenz in einem bestimmten Gebiet, so sind dafür die Kantone zuständig und der Bund ist darin nicht befugt, gesetzgeberisch tätig zu werden. Die Kompetenzen des Bundes sind im Laufe der Zeit ständig erweitert worden, und auch heute ist diese Liste relativ häufigen Änderungen unterworfen – sei es durch Anstoss der Bundesbehörden mittels obligatorischen Referendums oder durch Volksinitiativen.
+
+Titel 4 ist mit «Volk und Stände» überschrieben und regelt in Art. 136 die politischen Rechte des Volkes und der Kantone, insbesondere die direktdemokratischen Volksrechte (Initiative und Referendum). 
+
+Titel 5 ist den Bundesbehörden gewidmet und umreisst die Organisation und Kompetenzen der Bundesversammlung (Legislative, Art. 143–173), des Bundesrates und der Bundesverwaltung (Exekutive, Art. 174–187) sowie des Bundesgerichtes und der anderen richterlichen Behörden (Judikative, Art. 188–191 sowie Art. 191a–c). 
+
+Titel 6 enthält die Revisionsmöglichkeiten der Verfassung (Art. 192–195, siehe unten) und die Übergangsbestimmungen (Art. 196 und Art. 197). 
 
 Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz) TODO
 
