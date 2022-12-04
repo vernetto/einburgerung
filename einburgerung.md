@@ -67,92 +67,83 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte  Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
 
-Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet
-Zugewandten Orte https://de.wikipedia.org/wiki/Zugewandter_Ort
+Zugewandten Orte https://de.wikipedia.org/wiki/Zugewandter_Ort St Gallen, Wallis, Graubunden, Genf, Neuenburg, Thurgau
 
-1481  + Freiburg, Solothurn, Stanser Verkommnis https://de.wikipedia.org/wiki/Stanser_Verkommnis
+Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau, Unterwallis, Tessin
 
-1499 Schwabenkrieg
+1481  + Freiburg, Solothurn, Stanser Verkommnis https://de.wikipedia.org/wiki/Stanser_Verkommnis (8 Orte, innere Konflikt zu vermeiden)
 
-Frieden zu Basel
+1499 Schwabenkrieg https://de.wikipedia.org/wiki/Schwabenkrieg (Habsburgs+Schwäbish gegen Eidgenossen 10 Orten). Frieden zu Basel https://de.wikipedia.org/wiki/Frieden_zu_Basel
 
-1490-1525 Mailänderkriege 
+1490-1525 Mailänderkriege (Ennetbirgische_Feldzüge)
+	1515  https://de.wikipedia.org/wiki/Schlacht_bei_Marignano 
+	1516 Ewige Friede mit Frankreich (13 Orte gegen Frankreich) https://de.wikipedia.org/wiki/Ewige_Richtung_mit_Frankreich
 
-1498-99 Schwabenkrieg
+1519 Zwingli https://de.wikipedia.org/wiki/Huldrych_Zwingli -> Reformierte Kirche
 
-1515  https://de.wikipedia.org/wiki/Schlacht_bei_Marignano 
+1529 - 1531 Zwei Kappelerkriegen, zwischen Zürich und den Innerschweizer Kantonen https://de.wikipedia.org/wiki/Erster_Kappelerkrieg https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg
 
-1516 Ewige Friede mit Frankreich
+1536 Bern erobert Waadt ( https://de.wikipedia.org/wiki/Guillaume_Farel und https://de.wikipedia.org/wiki/Pierre_Viret Reformatoren) 
 
-1519 Zwingli -> Reformierte Kirche
+1559 Calvin https://de.wikipedia.org/wiki/Johannes_Calvin -> Genf Protestant, Hugenottes https://de.wikipedia.org/wiki/Hugenotten (Französischen Protestanten)
 
-1529 - 1531 Zwei Kappelerkriegen, zwischen Zürich und den Innerschweizer Kantonen
+1618-1648 30 Jährige Krieg https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg
+	https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren (zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden)
+	1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
 
-1536 Bern erobert Waadt
+1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg
 
-1559 Calvin -> Genf Protestant, Hugonottes
+1656 Erste https://de.wikipedia.org/wiki/Villmergerkriege zwei Kriege zwischen reformierten und katholischen Orten 1) 1656 2) 1712
 
-1600 Zweiteilung in 2 Konfessionen
-
-1618-1648 30 Jährige Krieg, https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren
-
-1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
-
-1648 Wirtschafkrise
-
-1653 Schweizer Bauernkrieg 
-
-1656 https://de.wikipedia.org/wiki/Villmergerkriege
-
-1685 Aufhebung von Edikt von Nantes -> 60K Hugenotten vom FR in CH
+1685 Aufhebung von Edikt von Nantes https://de.wikipedia.org/wiki/Edikt_von_Nantes -> 60K Hugenotten vom FR in CH
 
 1712 zweite Villmergerkriege oder Toggenburgerkrieg https://de.wikipedia.org/wiki/Toggenburgerkrieg
 
-1712-1798 Absolutismus (Ancien Régime)
+1712-1798 Absolutismus (Ancien Régime) https://de.wikipedia.org/wiki/Ancien_R%C3%A9gime
 
-1782 Anna Göldi
+1782 Anna Göldi https://de.wikipedia.org/wiki/Anna_G%C3%B6ldi
 
-Aufklärung
-
-https://de.wikipedia.org/wiki/Albrecht_von_Haller Arzt
-https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau
+Aufklärung https://de.wikipedia.org/wiki/Aufkl%C3%A4rung
 
 Zürich = Athen an der Limmat
+	https://de.wikipedia.org/wiki/Albrecht_von_Haller Arzt
+	https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau
 
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
-1803 Schweizerische Eidgenossenschaft -> 1813
+1803-1813 Schweizerische Eidgenossenschaft (MediationsZeit)
 
 1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz  Deutschland+England+Frankreich+Russland
-1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+	1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+
+1814-1830 Restaurationszeit
+
 1815 Bundesvertrag
 
 1815 Tambora
 
-1814-1830 Restaurationszeit
-
 1830-47 https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte)
 
-1845 Sonderbund (Liberalen Kantonen)
+1845 Sonderbund (Katolischen gegen Liberalen Kantonen) https://de.wikipedia.org/wiki/Sonderbund
 
-1847 Sonderbuskrieg (Nov 1847)
+1847 Sonderbundskrieg (Nov 1847) https://de.wikipedia.org/wiki/Sonderbundskrieg
 
 1847 Eisenbahnlinie, Alfred Escher https://de.wikipedia.org/wiki/Alfred_Escher , ETH, Credit Suisse
 
 1848 Bundesstaat, Bundesverfassung, Parlament und Regierung; Post
 
-1849-1859 https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour
+1849-1859 https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour Kartograf, General 
 
-1859 Ende des Reislaufens 
+1859 Ende des Reislaufens (Export von Schweizer Söldnern)
 
 1863 IKRK Henry Dunant, Genf https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung https://de.wikipedia.org/wiki/Henry_Dunant 
 
 1864 Fabrikgesetz, Juden , Anarchisten
 
-1871 Bourbaki-Armee
+1871 Bourbaki-Armee https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est
 
 1874 Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874
-
+(Glaubens- und Gewissensfreiheit , Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe,  fakultativen Referenden)
 
 1891 Eisenbahnunfall Münchenstein. Volksinitiative
 
@@ -180,26 +171,21 @@ Zürich = Athen an der Limmat
 
 1935 Nationalen Front (Fascisten)
 
-1938 Konferenz von Evian (Juden)
+1938 Konferenz von Evian (Juden) https://de.wikipedia.org/wiki/Konferenz_von_%C3%89vian
 1938 Rätoromanische
 
-1940 General Mobilmachung -> Reduit Plan. https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum
+1940 General Mobilmachung -> Reduit Plan https://de.wikipedia.org/wiki/Schweizer_R%C3%A9duit. https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum
 
-1940 https://de.wikipedia.org/wiki/Henri_Guisan
+1940 https://de.wikipedia.org/wiki/Henri_Guisan Oberbefehlshaber der Schweizer Armee. 
 
 1945 VN https://de.wikipedia.org/wiki/Vereinte_Nationen  in NY, Büro in Genf
 
 1948 WHO https://de.wikipedia.org/wiki/Weltgesundheitsorganisation 
-
-https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_geistiges_Eigentum
-
-https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Meteorologie
-
-https://de.wikipedia.org/wiki/Weltpostverein
-
-https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion
-
-https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
+	https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_geistiges_Eigentum
+	https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Meteorologie
+	https://de.wikipedia.org/wiki/Weltpostverein
+	https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion
+	https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1948 AHV  https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung 
 
@@ -207,9 +193,9 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1958 Trudy Späth (Frau Politiker)
 
-1960-74 EFTA, OECD, Europarat, Freihandel EG, OSZE, EMRK
+1960-74 EFTA Europäische Freihandelsassoziation, OECD Organisation für wirtschaftliche Zusammenarbeit und Entwicklung, Europarat, Freihandel EG Europäischen Gemeinschaften, OSZE Organisation für Sicherheit und Zusammenarbeit in Europa, EMRK Europäische Menschenrechtskonvention
 
-1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersucung, Kommission PUK
+1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersuchung, Kommission PUK
 
 1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
 
@@ -239,7 +225,7 @@ https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
-1999 Bilaterale Verträge mit EU, Totalrevision Bundesverfassung
+1999 Bilaterale Verträge mit EU, Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999
 
 2001 Zuger Attentat
 
