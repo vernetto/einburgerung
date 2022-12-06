@@ -259,7 +259,7 @@ wählt :	Bundesrat
 	
 Bundesrat  https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) 
 
-
+Ständerat Zürich: Daniel Jositsch, Ruedi Noser
 
 Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtschaft- und Währungspolitik CHF, Aussenpolitik
 
@@ -287,14 +287,19 @@ Einzelinitiative, Zutelungsverfahren
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
 	KANTON REGIERUNG : Regierungsrat https://www.zh.ch/de/regierungsrat.html 7 ZH, 4 Jahre: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
-
 	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
 
 
 JUDIKATIVE
-	BUND GERICHT : Bundesgericht 41 (6 Jahren)
+	BUND GERICHT : Bundesgericht 41 Mitglieder (6 Jahren)
 	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
+
+
+Bundesversammlung Bundesrat     Bundesgericht
+Kantonsrat        Regierungsrat Kantonsgericht
+Gemeinderat       Stadtrat      Bezirksgericht
+
 
 Bundesrat:
 Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
@@ -370,6 +375,8 @@ AL Alternative Liste https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz)
 
 https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
 
+1869 erste ZH Kantonsverfassung 
+2006 neue Verfassung des Kantons Zürich
 
 ====
 
@@ -1048,7 +1055,7 @@ Gemeinde=169 in Kanton Zürich
 
 Gemeinderat=Parlament der Stadt Zürich, 125 Mitglieder
 
-Kantonsrat= 180 Mitglieder
+Kantonsrat ZH= 180 Mitglieder
 
 Referendum: Gesetz ändern
 Volksinitiative: Bundesverfassung ändern
@@ -1057,7 +1064,7 @@ Regierungsrat= (kantonal Bundesrat) 7 Mitglieder
 
 Sozialversicherungen: Arbeitslosenversicherung
 
-Stadtrat: (Stadt Bundesrat) 9 Mitglieder
+Stadtrat Zürich (Stadt Bundesrat) 9 Mitglieder
 
 
 ============
