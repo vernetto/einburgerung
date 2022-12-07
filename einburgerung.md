@@ -295,10 +295,10 @@ JUDIKATIVE
 	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
-
-Bundesversammlung Bundesrat     Bundesgericht
-Kantonsrat        Regierungsrat Kantonsgericht
-Gemeinderat       Stadtrat      Bezirksgericht
+					  (alle Rat)       ( alle Gericht)
+Bundesversammlung 246 Bundesrat  7       Bundesgericht 41
+Kantonsrat 180        Regierungsrat 7    Kantonsgericht/Obergericht 40
+Gemeinderat 125       Stadtrat  9        Bezirksgericht
 
 
 Bundesrat:
@@ -309,6 +309,8 @@ Ignazio Cassis -> EDA Auswärtige (Bundespräsident)
 Ueli Maurer -> EFD Finanz
 Guy Parmelin -> WFB Wirtschaft Bildung Forschung
 Karin Keller-Sutter -> EJPD  Justiz & Polizei
+
+Jede Mittwoch sie haben Sitzung. Kollegialitätsprinzip: auch wenn sie nicht zustimmen, sie müssen die Entscheid vertreten "wir sind ser Meinung, dass..."
 
 Stadtrat ZH (EXECUTIVE)  9+2 https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
 André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel Leupi, Raphael Golta, Corine Mauch, Michael Baumer, Karin Rykart, Andrea Töndury (Rechtskonsulent), Filippo Leutenegger, Andreas Hauri
