@@ -291,7 +291,7 @@ EXECUTIVE
 
 
 JUDIKATIVE
-	BUND GERICHT : Bundesgericht 41 Mitglieder (6 Jahren)
+	BUND GERICHT : Bundesgericht 38/41 Mitglieder (6 Jahren)
 	KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
 	GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
@@ -403,6 +403,13 @@ Pflichten:
 	Versicherungspflicht
 	Meldepflicht
 
++ Zivilgesetzbuch ZGB
+  Obligationenrech OR
+  Strafgesetzbuch StGB
+  Strassenverkehrsgesetz SVG
+  Berufbildungsgesetz BBG
+  Ausländer- und Integrationsgesetz AIG
+  
 
 ====
 
