@@ -571,7 +571,6 @@ https://de.wikipedia.org/wiki/Ceneri-Basistunnel Giubiasco-Lugano
 https://de.wikipedia.org/wiki/Viamala Graubünden (Chur-Splügen/San Bernardino)
 
 https://de.wikipedia.org/wiki/Rheinfall Schaffhausen 
-https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graubünden)
 
 https://de.wikipedia.org/wiki/S%C3%A4ntis Säntis 2501m Berg in Appenzellen/StGallen
 https://de.wikipedia.org/wiki/Lugano 
@@ -990,6 +989,7 @@ https://de.wikipedia.org/wiki/Hornussen_(Sport)
 https://de.wikipedia.org/wiki/Schwingen
 https://de.wikipedia.org/wiki/Steinwerfen
 
+
 https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich
 
 Musikalische Instrumente
@@ -999,11 +999,50 @@ https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)  Büchel
 https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
 
 Flüsse
-https://de.wikipedia.org/wiki/Reuss_(Fluss)
-https://de.wikipedia.org/wiki/Aare
-https://de.wikipedia.org/wiki/Limmat
+Längste Flüsse (der):  https://de.wikipedia.org/wiki/Liste_der_Fl%C3%BCsse_in_der_Schweiz
+
+der Rhein (375 km) https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graubünden)
+Aare (288) https://de.wikipedia.org/wiki/Aare
+Rhone (264) (Rhonegletscher, Wallis)
+Reuss (158) https://de.wikipedia.org/wiki/Reuss_(Fluss) (Luzern) entspringt im Gotthardmassiv im Südwesten des Kantons Uri und mündet bei Windisch und Gebenstorf im Kanton Aargau als rechter Nebenfluss in die Aare
+Limmat (140) https://de.wikipedia.org/wiki/Limmat
+Saane (Röstigraben) 128
+Thur (125)
 https://de.wikipedia.org/wiki/Glatt_(Rhein) 
 https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss
+
+Grösste Berge: https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz
+Dufourspitze 4638m
+Dom 4545m
+Liskamm 4527m
+Weisshorn 4505m
+Matterhorn 4478m
+Dent Blanche
+
+
+Grösste Seen (der): https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Seen_in_der_Schweiz
+der Genfersee (345 Km2)
+Neuenburgersee (215 Km2) (innerhalb die Schweiz)
+Bodensee (172 Km2)
+Vierwaldstättersee (113 Km2)
+Zurichsee (88)
+Thunersee (47)
+Lago Maggiore (Langensee) (42 in der Schweiz)
+
+
+Grösste Städte: https://de.wikipedia.org/wiki/Liste_der_St%C3%A4dte_in_der_Schweiz
+Zürich 415K 
+Genf 200K
+Basel 172K
+Lausanne 150K
+Bern (Zähringerstädte) 140K
+Winterthur 110K
+Luzern 80K
+Sankt Gallen 75K
+Lugano 63K
+Biel (Bienne) 55K
+
+
 
 Architekten
 https://de.wikipedia.org/wiki/Le_Corbusier
@@ -1012,6 +1051,44 @@ https://de.wikipedia.org/wiki/Mario_Botta
 https://de.wikipedia.org/wiki/Diener_%26_Diener
 https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron Herzog & de Meuron 
 https://de.wikipedia.org/wiki/Max_Bill Max Bill 
+
+
+
+KOMIK:
+Hazel Brugger https://de.wikipedia.org/wiki/Hazel_Brugger
+Marco Rima (Corona-Skeptiker) https://de.wikipedia.org/wiki/Marco_Rima
+Emil (Die Schweizermacher)
+Ursus und Nadeschkin https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin
+
+
+
+FILMS:
+Xavier Koller (Reise der Hoffnung)
+Joel Basman (Wolkenbruch) https://de.wikipedia.org/wiki/Joel_Basman
+Rolf Lissy https://de.wikipedia.org/wiki/Rolf_Lyssy
+Liselotte Pulver (lachend) https://de.wikipedia.org/wiki/Liselotte_Pulver (Uli der Pächter)
+Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz
+Mummenschanz
+
+SPORT:
+Roger Federer (Tennis) https://de.wikipedia.org/wiki/Roger_Federer
+Simone Niggli-Luder https://de.wikipedia.org/wiki/Simone_Niggli-Luder Orientierung Laufer (Karte und Kompass)
+Nicola Spirig https://de.wikipedia.org/wiki/Nicola_Spirig_Hug
+
+
+
+
+WEITER PERSÖNLICHKEITEN
+Johann Heinrich Pestalozzi (Schüle für alle) https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi
+Henry Dunant (Rotes Kreuz) https://de.wikipedia.org/wiki/Henry_Dunant
+Michel Mayor https://de.wikipedia.org/wiki/Michel_Mayor
+Didier Queloz https://de.wikipedia.org/wiki/Didier_Queloz
+Ursula Keller (laser light) https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin)
+Carla del Ponte (ONU) https://de.wikipedia.org/wiki/Carla_Del_Ponte
+Emilie Lieberherr (Frauenstimmerecht, Stadtrat) https://de.wikipedia.org/wiki/Emilie_Lieberherr
+
+
+
 
 
 ===========
