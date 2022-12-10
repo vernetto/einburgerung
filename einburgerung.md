@@ -269,6 +269,11 @@ https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_i
 Gemeinde: Kehrichtabfuhr, localen Strassen Unterhaltung, Wasser und Elektrizitätsversorgung, bau von Schulhäusern, Feuerwehr
 
 
+Gewalttrennung: 
+Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
+Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
+Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
+
 
 LEGISLATIVE
 	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246
@@ -323,6 +328,33 @@ https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat
 
 Bundespolizei. Kantonspolizei. Stadt oder Gemeindepolizei. Verkehrspolizei.
 
+
+Mitglieder des Gemeinderats von Zürich https://www.gemeinderat-zuerich.ch/mitglieder/
+Mitglieder des Stadtrats von Zürich https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html
+
+https://www.parlament.ch/de
+
+
+
+https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
+Stadtpolizei Zürich: https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html
+
+
+sk.zh.ch Staatskalender
+
+Kanton Zürich : 1729 Km2, 1.5 M ( 400K die Stadt)
+12 die Bezirke (der Bezirk)
+162 die Gemeinde (die Gemeinde)
+Regierungsrat Kanton Zürich : 
+
+Ernst Stocker Präsident und Vorsteher der Finanzdirektion
+Mario Fehr Vizepräsident und Vorsteher der Sicherheitsdirektion
+Carmen Walker Späh Vorsteherin der Volkswirtschaftsdirektion
+Dr. Silvia Steiner Vorsteherin der Bildungsdirektion
+Jacqueline Fehr Vorsteherin der Direktion der Justiz und des Innern
+Natalie Rickli Vorsteherin der Gesundheitsdirektion
+Dr. Martin Neukom Vorsteher der Baudirektion
+
 ==========
 
 Bücher:
@@ -331,7 +363,6 @@ Bücher:
 
 Bundestaller (Münze zu Ehren der Schweiz) 1500 Jakob Stanfer, Soldaten
 Schweiz ist eine Willensnation. Eidgenossen.
-
 
 =========
 
@@ -355,49 +386,10 @@ Sternsinger und Dreikönigssingen https://de.wikipedia.org/wiki/Sternsinger
 
 https://de.wikipedia.org/wiki/Silvesterklaus  
 
-POLITIK IN DER SCHWEIZ
-
-Mitglieder des Gemeinderats von Zürich https://www.gemeinderat-zuerich.ch/mitglieder/
-Mitglieder des Stadtrats von Zürich https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html
-
-https://www.parlament.ch/de
-
-
-
-https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
-Stadtpolizei Zürich: https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html
-
-sk.zh.ch Staatskalender
-
-Kanton Zürich : 1729 Km2, 1.5 M ( 400K die Stadt)
-12 die Bezirke (der Bezirk)
-162 die Gemeinde (die Gemeinde)
-Regierungsrat Kanton Zürich : 
-
-Ernst Stocker Präsident und Vorsteher der Finanzdirektion
-Mario Fehr Vizepräsident und Vorsteher der Sicherheitsdirektion
-Carmen Walker Späh Vorsteherin der Volkswirtschaftsdirektion
-Dr. Silvia Steiner Vorsteherin der Bildungsdirektion
-Jacqueline Fehr Vorsteherin der Direktion der Justiz und des Innern
-Natalie Rickli Vorsteherin der Gesundheitsdirektion
-Dr. Martin Neukom Vorsteher der Baudirektion
 
 https://www.bielertagblatt.ch/sites/bielertagblatt.ch/files/31/4f/314fdac1366aff7dda08e7a021a55031.pdf  tests Kanton Bern
 
 ===========
-
-
-
-
-
-
-
-====
-
-Gewalttrennung: 
-Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
-Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
-Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
 
 Wahlrecht: Regierung (KG) und Parlament (KGB) , 4 Jahren
 Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
