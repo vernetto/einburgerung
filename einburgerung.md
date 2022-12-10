@@ -3,8 +3,8 @@ Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 - geboren in eine Bergregion in den Alpen - unabhangig, föderalistisch, mehrsprachig
 - politisch gegen einen Zentralstaat, für regional-kantonale Souveränität, direkte Demokratie
 - Ich habe mich nie als "typisch italienisch" gefühlt
-- Ich identifiziere mich mit den ethischen Werten: harte und intelligente Arbeit, ehrlichkeit und respekt,  Innovation und Technologie
-- Ich mag diese Natur, die Berge, die Wege, die Wälder, die Bäche, die Kühe
+- Ich identifiziere mich mit den ethischen Werten: harte und intelligente Arbeit, ehrlichkeit und respekt, Innovation und Technologie
+- Ich mag diese Natur, die Berge, die Weiden, die Wälder, die Bäche, die Kühe
 - die Schweiz ohne Koloniale Geschichte, neutral und in Friede
 - bessere Lohne, weil alles ist mehr effizient und wir haben Spitz Technologien und höhe Produktivität
 - keine kunstliche Erschaffung von Arbeitplätze in der "Public Administration", um Stimme zu kaufen
@@ -15,7 +15,6 @@ Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 
 Warum sind sie in die Schweiz gekommen?
 
-Politische Organismen am Stadt und Kanton Ebene ?
 
 ==========
 
@@ -23,8 +22,8 @@ Kesslerloch (Madgeleine) , Pfeilbauer
 Kelten, Latène
 Helvetier, Raetien, Seduner, Leponter
 Römer
-400 Burgunder, Alamannen
-746 Fränkischen Reiches
+400 Burgunder https://de.wikipedia.org/wiki/Burgunden , Alamannen https://de.wikipedia.org/wiki/Alamannen
+746 Fränkischen Reiches https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich
 Burgunder und Habsburger
 Deutsche Adelgeschlechter
 https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
@@ -49,7 +48,7 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich)
 
-1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels ( Habsburgern und den Eidgenossen. ) Näfels
+1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels Näfels ( Habsburgern und den Eidgenossen. ) 
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
@@ -59,7 +58,7 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 1449-1450 Alter Zürichkriege https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg (Zürich mit Habsburger gegen Eidgenossen)
 
-1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg (gegen Habsburger)
+1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg (Eidgenossenschaft gegen Habsburger)
 
 1474-78 Burgunderkriege https://de.wikipedia.org/wiki/Burgunderkriege Murten  https://de.wikipedia.org/wiki/Schlacht_bei_Murten Grandson https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
 
@@ -88,12 +87,12 @@ Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau
 1559 Calvin https://de.wikipedia.org/wiki/Johannes_Calvin -> Genf Protestant, Hugenottes https://de.wikipedia.org/wiki/Hugenotten (Französischen Protestanten)
 
 1618-1648 30 Jährige Krieg https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg
-	https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren (zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden)
+	https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren ( kriegerischen Auseinandersetzungen zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden im Rahmen des Dreissigjährigen Krieges)
 	1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
 
-1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg
+1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg Volksaufstand 
 
-1656 Erste https://de.wikipedia.org/wiki/Villmergerkriege zwei Kriege zwischen reformierten und katholischen Orten 1) 1656 2) 1712
+1656 Erste https://de.wikipedia.org/wiki/Villmergerkriege zwei Kriege zwischen reformierten und katholischen Orten 1) 1656 2) 1712 (Villmergen in Aargau)
 
 1685 Aufhebung von Edikt von Nantes https://de.wikipedia.org/wiki/Edikt_von_Nantes -> 60K Hugenotten vom FR in CH
 
@@ -111,7 +110,7 @@ Zürich = Athen an der Limmat
 
 1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
 
-1803-1813 Schweizerische Eidgenossenschaft (MediationsZeit)
+1803-1813 Schweizerische Eidgenossenschaft (Mediationszeit)
 
 1815 Wiener Kongress, Bewaffnete Neutralität, Unabhängige Schweiz https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz  Deutschland+England+Frankreich+Russland
 	1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
@@ -140,7 +139,7 @@ Zürich = Athen an der Limmat
 
 1864 Fabrikgesetz, Juden , Anarchisten
 
-1871 Bourbaki-Armee https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est
+1871 Bourbaki-Armee https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est ( Deutsch-Französischen Krieg von 1870/71 )
 
 1874 Totalrevision Bundesverfassung https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874
 (Glaubens- und Gewissensfreiheit , Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe,  fakultativen Referenden)
@@ -149,7 +148,7 @@ Zürich = Athen an der Limmat
 
 1894 IOK https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee
 
-1889 Russische Grippe
+1889 Russische Grippe (3000 Tote)
 
 1902 https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen SBB
 
@@ -157,7 +156,7 @@ Zürich = Athen an der Limmat
 
 1918 Armut - Landesstreik https://de.wikipedia.org/wiki/Landesstreik
 
-1919 Proportionalwahlrecht
+1919 Proportionalwahlrecht "Wahl unter einem Wahlsystem, bei dem die Sitze möglichst genau in dem Verhältnis zugeteilt werden, in dem abgestimmt wurde"
 
 1919 Spanische Grippe - Wirtschaftskrise
 
@@ -187,7 +186,7 @@ Zürich = Athen an der Limmat
 	https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion
 	https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
 
-1948 AHV  https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung 
+1948 AHV  https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung
 
 1945 -> 1970 10x Wirtschaft
 
@@ -195,7 +194,7 @@ Zürich = Athen an der Limmat
 
 1960-74 EFTA Europäische Freihandelsassoziation, OECD Organisation für wirtschaftliche Zusammenarbeit und Entwicklung, Europarat, Freihandel EG Europäischen Gemeinschaften, OSZE Organisation für Sicherheit und Zusammenarbeit in Europa, EMRK Europäische Menschenrechtskonvention
 
-1961 Mirage Affaire ( 870 M CH) , Parlamentarische Untersuchung, Kommission PUK
+1961 Mirage Affaire (870 M CH), Parlamentarische Untersuchung, Kommission PUK
 
 1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
 
@@ -203,9 +202,9 @@ Zürich = Athen an der Limmat
 
 1971 Wahlrecht Frauen
 
-1969 Palestinensischen Attentätern  (Zürich, Kloten)
+1969 Palestinensischen Attentätern (Zürich, Kloten)
 
-1971 Frauenstimm- und wahlrecht
+1971 Frauenstimm- und wahlrecht https://de.wikipedia.org/wiki/Frauenstimmrecht_in_der_Schweiz
 
 1973 Ölpreisekrise
 
@@ -215,13 +214,13 @@ Zürich = Athen an der Limmat
 
 1979 Kanton Jura
 
-1981 Gleichrechtigung
+1981 Gleichstellung von Frau und Mann  https://www.edi.admin.ch/edi/de/home/themen/gleichstellung/gleichstellung-von-frau-und-mann.html 
 
-1984 Elisabeth Kopp  (este Frau in den Bundesrat)
+1984 Elisabeth Kopp (este Frau in den Bundesrat)
 
 1992 Weltbank und IWF
 
-1995 Gleichstellung von Mann und Frau
+1996 trat das Gleichstellungsgesetz in Kraft "verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
 
@@ -233,7 +232,6 @@ Zürich = Athen an der Limmat
 
 2014 Schweizer Bankgeheimnis aufgehoben 
 
-2020 Armee & Sicherheit, Krankenkassen & Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer + Zoll, CHF
 
 ========== POLITIK
 
@@ -252,43 +250,40 @@ Titel 6 enthält die Revisionsmöglichkeiten der Verfassung (Art. 192–195, si
 
 Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz) 
 Bundesparlament / Bundesversammlung : Nationalrat + Ständerat
-wählt :	Bundesrat
+wählt :	Bundesrat https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) 
 	Bundespräsident + Vize
 	Bundesrichter
 	General der Armee
+
+https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude (in chrome)
 	
-Bundesrat  https://de.wikipedia.org/wiki/Bundesrat_(Schweiz) 
+Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
-Ständerat Zürich: Daniel Jositsch, Ruedi Noser
+Aufgabenteilung:
+Bund: Militär + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtschaft- und Währungspolitik CHF, Aussenpolitik, Strassenverkehr, Berufsbildung
 
-Bund: Armee + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtschaft- und Währungspolitik CHF, Aussenpolitik
+Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei, Gesundheitswesen
 
-Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei
+https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten
 
-Gemeinde: Kehrichtabfuhr, localen Strassen, Wasser und Elektrizitäts Versorgung, Schulhäusern, Feuerwehr
+Gemeinde: Kehrichtabfuhr, localen Strassen Unterhaltung, Wasser und Elektrizitätsversorgung, bau von Schulhäusern, Feuerwehr
 
 
-BUND: Bundesparlament
-KANTON: Parlament
-GEMEINDE: Parlament
 
 LEGISLATIVE
-	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung
+	BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246
 	KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
 	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
-Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen
-Einzelinitiative, Zutelungsverfahren
-
-	Doppelproportionalen Zuteilungsverfaren https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
-	Einzelinitiative
-
+	Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen (Pukelsheim, Oberzuteilung/Unterzuteilung)
+	Einzelinitiative, Zutelungsverfahren
+		Doppelproportionalen Zuteilungsverfaren https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
+		Einzelinitiative
 
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
 	KANTON REGIERUNG : Regierungsrat https://www.zh.ch/de/regierungsrat.html 7 ZH, 4 Jahre: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
 	GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
-
 
 JUDIKATIVE
 	BUND GERICHT : Bundesgericht 38/41 Mitglieder (6 Jahren)
@@ -328,6 +323,74 @@ https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat
 
 Bundespolizei. Kantonspolizei. Stadt oder Gemeindepolizei. Verkehrspolizei.
 
+==========
+
+Bücher:
+* Schweiz in sicht (Komik Buch)
+* Auf zur Schweiz (Geschichte)
+
+Bundestaller (Münze zu Ehren der Schweiz) 1500 Jakob Stanfer, Soldaten
+Schweiz ist eine Willensnation. Eidgenossen.
+
+
+=========
+
+Gebräuche und Feste
+
+Morgestraich https://de.wikipedia.org/wiki/Morgestraich Basler Fasnacht
+Tschäggätta https://de.wikipedia.org/wiki/L%C3%B6tschental#Tsch%C3%A4gg%C3%A4tta Lötschental 
+Sechseläuten https://de.wikipedia.org/wiki/Sechsel%C3%A4uten Zürich
+Chalandamarz https://de.wikipedia.org/wiki/Chalandamarz Graubünden
+Zwänzgerle https://de.wikipedia.org/wiki/Zw%C3%A4nzgerle Zürich
+Unspunnenfest https://de.wikipedia.org/wiki/Unspunnenfest Interlaken 
+Kuhkämpfe https://de.wikipedia.org/wiki/Kuhkampf Wallis
+Almauftrieb https://de.wikipedia.org/wiki/Almauftrieb Alpen
+Zibelemärit https://de.wikipedia.org/wiki/Zibelem%C3%A4rit Bern
+Räbenlicht https://de.wikipedia.org/wiki/R%C3%A4benlicht
+Räbechilbi https://de.wikipedia.org/wiki/R%C3%A4bechilbi Richterswil
+Samichlaus und Schmutzli https://www.samichlaus-langnau.ch/ 
+
+Guetzli https://de.wikipedia.org/wiki/Guetzli
+Sternsinger und Dreikönigssingen https://de.wikipedia.org/wiki/Sternsinger
+
+https://de.wikipedia.org/wiki/Silvesterklaus  
+
+POLITIK IN DER SCHWEIZ
+
+Mitglieder des Gemeinderats von Zürich https://www.gemeinderat-zuerich.ch/mitglieder/
+Mitglieder des Stadtrats von Zürich https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html
+
+https://www.parlament.ch/de
+
+
+
+https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
+Stadtpolizei Zürich: https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html
+
+sk.zh.ch Staatskalender
+
+Kanton Zürich : 1729 Km2, 1.5 M ( 400K die Stadt)
+12 die Bezirke (der Bezirk)
+162 die Gemeinde (die Gemeinde)
+Regierungsrat Kanton Zürich : 
+
+Ernst Stocker Präsident und Vorsteher der Finanzdirektion
+Mario Fehr Vizepräsident und Vorsteher der Sicherheitsdirektion
+Carmen Walker Späh Vorsteherin der Volkswirtschaftsdirektion
+Dr. Silvia Steiner Vorsteherin der Bildungsdirektion
+Jacqueline Fehr Vorsteherin der Direktion der Justiz und des Innern
+Natalie Rickli Vorsteherin der Gesundheitsdirektion
+Dr. Martin Neukom Vorsteher der Baudirektion
+
+https://www.bielertagblatt.ch/sites/bielertagblatt.ch/files/31/4f/314fdac1366aff7dda08e7a021a55031.pdf  tests Kanton Bern
+
+===========
+
+
+
+
+
+
 
 ====
 
@@ -341,7 +404,11 @@ Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
 Initiativrecht: Volksinitiative (Volksmehr + Ständemehr)
 Referendumsrecht
 
-Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschriften
+Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschriften innerhalb von 18 Monaten 
+ 
+https://www.bk.admin.ch/bk/de/home/politische-rechte/volksinitiativen.html#:~:text=Die%20gesammelten%20Unterschriften%20werden%2C%20nachdem,die%20Volksinitiative%20zustande%20gekommen%20ist.
+
+
 
 Bund:	Volksmehr, Ständemehr (Kanton Mehrheit)
 Kanton:	in Kanton ZH 6K Unterschriften
@@ -387,8 +454,8 @@ Rechten:
 	Recht am Leben und Freiheit
 	Rechtsgleicheit (no Discriminierung)
 	Niederlassungsfreiheit
-	Gleichberechtigung (Equal Opportunities)
-	Recht auf Ehe
+	Gleichberechtigung (Equal Opportunities) 1981
+	Recht auf Ehe 1988
 	Glaubensfreiheit und Gewissensfreiheit
 	Meinungsfreiheit und Informationsfreiheit
 	Medien Freiheit
@@ -529,15 +596,21 @@ ZH Zürich  DE
 
 ZH Zürich : 1728 Km2, 1.5 M , 
 Flüsse: Limmat, Sihl, Glatt
-Berge: Schnebelhorn 1292, Bachtel 1115, Hinwil, Albiskette (Uetlieberg 869) 
+Berge: Schnebelhorn 1292, Bachtel 1115, und das Hörnli 1133m, Hinwil, Albiskette (Uetlieberg 869), Lägern (Juraausläufer) 866m
 See: Pfäffikersee, Greifensee, Türlersee
-Städte: Winterthur
+Städte: Zürich (420k) Winterthur (114k) Uster (35k) Dübendorf (29k) Dietikon (28k) ( Effretikon ??? Horgen ???)
+
 Zürcher Weinland
 Goldküuste (Zollikon, Küusnacht, Erlenbach)
 Penüselküste
 
+Kantonen: St Gallen, Schaffausen, Aargau, Zug, Thurgau, Schwyz
 
 29% Evangelisch, 26% Catholisch
+https://de.wikipedia.org/wiki/Religionen_in_der_Schweiz
+
+
+
 
 https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
 Kanton ZH: 162 Gemeinden, 12 Bezirke 
@@ -1012,11 +1085,15 @@ der Rhein (375 km) https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graub
 Aare (288) https://de.wikipedia.org/wiki/Aare
 Rhone (264) (Rhonegletscher, Wallis)
 Reuss (158) https://de.wikipedia.org/wiki/Reuss_(Fluss) (Luzern) entspringt im Gotthardmassiv im Südwesten des Kantons Uri und mündet bei Windisch und Gebenstorf im Kanton Aargau als rechter Nebenfluss in die Aare
-Limmat (140) https://de.wikipedia.org/wiki/Limmat
+Limmat (140) https://de.wikipedia.org/wiki/Limmat -> Aare
 Saane (Röstigraben) 128
-Thur (125)
+Thur (125)-> Rhein
 https://de.wikipedia.org/wiki/Glatt_(Rhein) 
-https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss
+https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss -> Rhein
+Sihl (-> Limmat)
+
+Seen:
+Zürichsee (Gebiet Schwyz/St Gallen)  Greifensee  Pfäffikersee 
 
 Grösste Berge: https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz
 Dufourspitze 4638m
@@ -1195,4 +1272,8 @@ K+G in ZH 6k Unterschriften und 3k für SZH
 
 Referendum = Neue Gesetz
 100 Tage Zeit und 50k Unterschriften
+
+
+to remove all wikipedia links: 
+sed 's/http[^ ]*//g'
 
