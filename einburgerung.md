@@ -46,7 +46,7 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 1352-3 + Glarus + Bern 
 
-1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich)
+1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich) Arnold Winkelried https://de.wikipedia.org/wiki/Arnold_Winkelried 
 
 1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels Näfels ( Habsburgern und den Eidgenossen. ) 
 
@@ -285,6 +285,12 @@ LEGISLATIVE
 		Doppelproportionalen Zuteilungsverfaren https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
 		Einzelinitiative
 
+Nationalrat=Präsident Irène Kälin (Grün),  Vizepräsident(in) Martin Candinas (die Mitte), Eric Nussbaumer (SP)
+
+Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
+
+
+
 EXECUTIVE
 	BUND REGIERUNG : Bundesrat 7
 	KANTON REGIERUNG : Regierungsrat https://www.zh.ch/de/regierungsrat.html 7 ZH, 4 Jahre: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
@@ -400,8 +406,6 @@ Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschri
  
 https://www.bk.admin.ch/bk/de/home/politische-rechte/volksinitiativen.html#:~:text=Die%20gesammelten%20Unterschriften%20werden%2C%20nachdem,die%20Volksinitiative%20zustande%20gekommen%20ist.
 
-
-
 Bund:	Volksmehr, Ständemehr (Kanton Mehrheit)
 Kanton:	in Kanton ZH 6K Unterschriften
 Gemeinde:	in Stadt ZH 3K Unterschriften
@@ -411,7 +415,6 @@ Referendum = neue Gesetzte, 100 Tage Zeit, 50K Unterschrift
 Parteien
 
 BDP Bürgerlich-Demokratische Partei  https://de.wikipedia.org/wiki/B%C3%BCrgerlich-Demokratische_Partei
-
 CVP Christlichdemokratische Volkspartei https://de.wikipedia.org/wiki/Christlichdemokratische_Volkspartei
 
 BDP+CVP -> Die Mitte (2021) https://de.wikipedia.org/wiki/Die_Mitte 13.8%
@@ -474,7 +477,7 @@ Pflichten:
 
 Sozialversicherung
 1 Säule
-	AHV 1948 Alter Hinterlassene Vorsorge (Grundrente > 64/65).  Bezahlen müssen alle arbeitender Personen >18 oder alle > 21
+	AHV 1948 Alter Hinterlassene Vorsorge (Grundrente > 64/65).  Bezahlen müssen alle arbeitender Personen > 18 oder alle > 21
 	IV Invaliden Vorsorge :
 	EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
 
@@ -495,7 +498,6 @@ Sozialhilfe
 
 RAV Regionales Arbeitsvermittlungszentrum
 
-
 ==========
 
 Bund ist für Berufsbildung zuständig
@@ -508,8 +510,6 @@ Betriebslehre
 Gymnasien
 Fachmittelschulen
 Weiterbildung, Erwachsenenbildung
- 
-
 
 ====
 
@@ -533,31 +533,26 @@ Neujahrstag (1 Jan)
 ====
 
 Küche
-Käsefondue
-Caquelon
-Raclette
-Rösti
-Birchermüesli
-Schokolade
+	Käsefondue
+	Caquelon
+	Raclette
+	Rösti
+	Birchermüesli
+	Schokolade
 
 https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/
 
 ========
 
-
 Geographie
 
 Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, Alpen
 
-+ Po Ebene (Tessin) und OberRhein (Basel)
++ Po Ebene (Tessin) und Oberrhein (Basel)
 
 Mittelland - 30% Fläche, 66% Bevölkerung
 Alpen - 60% Fläche
 Jura - 10% Fläche
-
-
-https://de.wikipedia.org/wiki/Genf 
-
 
 AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
 AI Appenzeller Innerhoden DE : Appenzell 
@@ -573,7 +568,7 @@ JU Jura FR : Delsberg
 LU Luzern DE : Kappelbrücke, Pilatus, Rigi
 NE Neuenburg FR : La Chaud de Fonds, Neuenburg
 NW Nidwalden (Unterwalden) DE : Stans
-OW Obwalden (Interwalden) DE : Sarnen, Vierwaldstättensee, Brünigpass, Titlis, Engelberg
+OW Obwalden (Unterwalden) DE : Sarnen, Vierwaldstättensee, Brünigpass, Titlis, Engelberg
 SG Saint Gallen DE : St Gallen, Stiftskirche
 SH Schaffhausen DE : Rheinfall
 SO Soloturn DE : Olten
@@ -601,15 +596,12 @@ Kantonen: St Gallen, Schaffausen, Aargau, Zug, Thurgau, Schwyz
 29% Evangelisch, 26% Catholisch
 https://de.wikipedia.org/wiki/Religionen_in_der_Schweiz
 
-
-
-
 https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
 Kanton ZH: 162 Gemeinden, 12 Bezirke 
 Zürich, Winterthur, Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen, Hinwil, Pfäffikon, Andelfingen
 
 
-Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag -> Verfassung
+Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag ->  zehntausend Männer der zürcherischen Landschaft verlangten mit dem «Memorial von Uster» eine neue Verfassung
 
 62% Deutsch 
 23% Französisch 
@@ -619,161 +611,178 @@ Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag -> Verfassung
 
 
 ======
+KUNSTLER:
+Hans Asper https://de.wikipedia.org/wiki/Hans_Asper Maler
+Johann Heinrich Füssli https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Maler (Nachtmahr)
+Arnold Böcklin https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Maler (Die Toteninsel)
+Albert Anker https://de.wikipedia.org/wiki/Albert_Anker Maler (Das Schulexamen)
+Ferdinand Hodler https://de.wikipedia.org/wiki/Ferdinand_Hodler Maler (Die Nacht, Der Tag)
+Alberto Giacometti https://de.wikipedia.org/wiki/Alberto_Giacometti Bildhauer (Frau auf dem Wagen)
+H.R. Giger https://de.wikipedia.org/wiki/HR_Giger  bildender Künstler  (Alien, Schloss Öerlichon )
+Paul Klee https://de.wikipedia.org/wiki/Paul_Klee Maler
+Jean Tinguely https://de.wikipedia.org/wiki/Jean_Tinguely Bildhauer (kinetischen Kunst)
+Meret Oppenheim, Feldtasse https://de.wikipedia.org/wiki/Meret_Oppenheim Künstlerin (Tisch mit Vogelfüssen)
+Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp Künstlerin (Dada-Kopf)
+Giovanni Segantini https://de.wikipedia.org/wiki/Giovanni_Segantini Maler (Engadin) (Die Heuernte)
+Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist Künstlerin
+Niki de Saint Phalle https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle Künstlerin (Nana-Engel)
+Frank Buchser https://de.wikipedia.org/wiki/Frank_Buchser Maler
+Werner Witschi https://de.wikipedia.org/wiki/Werner_Witschi Maler, Eisenplastiker
+Hans Holbein der Jüngere https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere Maler
+Konrad Witz https://de.wikipedia.org/wiki/Konrad_Witz Maler
 
-BRIEFMARKEN
+Architekten:
+Francesco Borromini https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt
+Mario Botta https://de.wikipedia.org/wiki/Mario_Botta Architekt
+Le Corbusier https://de.wikipedia.org/wiki/Le_Corbusier Architekt (Chapelle Notre-Dame-du-Haut de Ronchamp)
+Atelier 5 https://de.wikipedia.org/wiki/Atelier_5 Architekten
+Diener & Diener https://de.wikipedia.org/wiki/Diener_%26_Diener Architekten
+Herzog & de Meuron https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron 
+Max Bill https://de.wikipedia.org/wiki/Max_Bill Architekt
+
+
+Schriftstellers:
+Jeremias Gotthelf https://de.wikipedia.org/wiki/Jeremias_Gotthelf Schriftsteller
+Conrad Ferdinand Meyer https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer Dichter
+Blaise Cendrars https://de.wikipedia.org/wiki/Blaise_Cendrars Schriftsteller
+Germaine de Staël https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Schriftstellerin
+Armon Planta https://de.wikipedia.org/wiki/Armon_Planta Heimatforscher Engadin
+Kurt Marti https://de.wikipedia.org/wiki/Kurt_Marti Pfarrer 
+Max Frisch https://de.wikipedia.org/wiki/Max_Frisch  Schriftsteller und Architekt ( Biedermann und die Brandstifter)
+Friedrich Dürrenmatt https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt  (Das Versprechen)
+Johanna Spyri https://de.wikipedia.org/wiki/Johanna_Spyri
+Lina Bögli https://de.wikipedia.org/wiki/Lina_B%C3%B6gli Reiseschriftstellerin
+Milena Moser https://de.wikipedia.org/wiki/Milena_Moser Schriftstellerin
+
+
+Musiker
+Ernest Ansermet https://de.wikipedia.org/wiki/Ernest_Ansermet Dirigent
+Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist
+
+
+KOMIK:
+Hazel Brugger https://de.wikipedia.org/wiki/Hazel_Brugger Kabarettistin
+Marco Rima (Corona-Skeptiker) https://de.wikipedia.org/wiki/Marco_Rima Kabarettist
+Emil Steinberger  https://de.wikipedia.org/wiki/Die_Schweizermacher (Die Schweizermacher)
+Ursus und Nadeschkin https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin Kabarett
+
+
+FILMS:
+Xavier Koller https://de.wikipedia.org/wiki/Xavier_Koller Regisseur (Reise der Hoffnung)
+Joel Basman (Wolkenbruch) https://de.wikipedia.org/wiki/Joel_Basman Schauspieler 
+Rolf Lissy https://de.wikipedia.org/wiki/Rolf_Lyssy Regisseur (Die Schweizermacher)
+Liselotte Pulver (lachend) https://de.wikipedia.org/wiki/Liselotte_Pulver (Uli der Pächter) https://de.wikipedia.org/wiki/Uli_der_P%C3%A4chter_(Film) 
+Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz Schauspieler
+Mummenschanz https://de.wikipedia.org/wiki/Mummenschanz 
+
+SPORT:
+Roger Federer (Tennis) https://de.wikipedia.org/wiki/Roger_Federer
+Simone Niggli-Luder https://de.wikipedia.org/wiki/Simone_Niggli-Luder Orientierung Laufer (Karte und Kompass)
+Nicola Spirig Hug https://de.wikipedia.org/wiki/Nicola_Spirig_Hug Triathletin 
+
+WEITER PERSÖNLICHKEITEN:
+Henry Dunant (Rotes Kreuz) https://de.wikipedia.org/wiki/Henry_Dunant IKRK
+Michel Mayor https://de.wikipedia.org/wiki/Michel_Mayor Astronom
+Didier Queloz https://de.wikipedia.org/wiki/Didier_Queloz Astronom
+Ursula Keller https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin) Physikerin (laser light)
+Carla del Ponte (ONU) https://de.wikipedia.org/wiki/Carla_Del_Ponte  Botschafterin
+Emilie Lieberherr https://de.wikipedia.org/wiki/Emilie_Lieberherr Politikerin (Frauenstimmerecht, Stadtrat) 
+
+
+
+===========
+
+
+Miscellaneous
+
+Ganterbrücke https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
+Genf https://de.wikipedia.org/wiki/Genf
 
 Rütli https://de.wikipedia.org/wiki/R%C3%BCtli Bergwiese in Uri
 Mythen https://de.wikipedia.org/wiki/Mythen  Schwyz
+Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv) Luzern
+Rhonegletscher https://de.wikipedia.org/wiki/Rhonegletscher Wallis
 
-Louis_Favre https://de.wikipedia.org/wiki/Louis_Favre Bauunternehmer Gotthardtunnels 
+Louis Favre https://de.wikipedia.org/wiki/Louis_Favre Bauunternehmer Gotthardtunnels 
 
 Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall Wasserfall im Berner Oberland
 Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental  Berner Oberland
 
-Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv) Luzern
-
 Chillon Castle https://de.wikipedia.org/wiki/Schloss_Chillon Waadt Genfersee
 
-https://de.wikipedia.org/wiki/Rhonegletscher Wallis
+Gotthardbahn https://de.wikipedia.org/wiki/Gotthardbahn Immensee- Arth-Goldau - Chiasso
+Gotthard-Basistunnel https://de.wikipedia.org/wiki/Gotthard-Basistunnel Altdorf-Biasca
+Ceneri-Basistunnel https://de.wikipedia.org/wiki/Ceneri-Basistunnel Giubiasco-Lugano
 
-https://de.wikipedia.org/wiki/Gotthardbahn Immensee- Arth-Goldau - Chiasso
-https://de.wikipedia.org/wiki/Gotthard-Basistunnel Altdorf-Biasca
-https://de.wikipedia.org/wiki/Ceneri-Basistunnel Giubiasco-Lugano
+Viamala https://de.wikipedia.org/wiki/Viamala Graubünden (Chur-Splügen/San Bernardino)
 
-https://de.wikipedia.org/wiki/Viamala Graubünden (Chur-Splügen/San Bernardino)
+Rheinfall https://de.wikipedia.org/wiki/Rheinfall Schaffhausen 
 
-https://de.wikipedia.org/wiki/Rheinfall Schaffhausen 
+Säntis https://de.wikipedia.org/wiki/S%C3%A4ntis  2501m Berg in Appenzellen/StGallen
+Lugano https://de.wikipedia.org/wiki/Lugano 
+Luganersee https://de.wikipedia.org/wiki/Luganersee
 
-https://de.wikipedia.org/wiki/S%C3%A4ntis Säntis 2501m Berg in Appenzellen/StGallen
-https://de.wikipedia.org/wiki/Lugano 
+Landi 39 https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939 
+Genfer Abkommen 1864 https://de.wikipedia.org/wiki/Genfer_Konventionen 
 
-https://de.wikipedia.org/wiki/Luganersee
-
-https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939 Landi 39
-
-1864 https://de.wikipedia.org/wiki/Genfer_Konventionen Genfer Abkommen
-
-https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen Staatsmann und Heerführer, "Schweizerkönig"
+Ludwig Pfyffer von Altishofen https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen Staatsmann und Heerführer, "Schweizerkönig"
  
-https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch Jörg Jenatsch  evangelischer Pfarrer, Militärführer und Politiker
+Jörg Jenatsch https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch evangelischer Pfarrer, Militärführer und Politiker,  Retter Graubündens im Dreissigjährigen Krieg 1630
 
-https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi Pädagoge
+Pestalozzi https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi Pädagoge
 
-https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker) 
+Wettstein https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker) 
 
-https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz)
+Schloss Neuenburg https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz)
 
-https://de.wikipedia.org/wiki/Engadin 
-https://de.wikipedia.org/wiki/Inn
+Engadin  https://de.wikipedia.org/wiki/Engadin 
+Inn https://de.wikipedia.org/wiki/Inn
+Nyon https://de.wikipedia.org/wiki/Nyon
+Finsteraarhorn https://de.wikipedia.org/wiki/Finsteraarhorn 4273m
+San Bernardino Pass https://de.wikipedia.org/wiki/San-Bernardino-Pass Graubünden 
 
-https://de.wikipedia.org/wiki/Nyon
+Henri Guisan https://de.wikipedia.org/wiki/Henri_Guisan WWII General
 
-https://de.wikipedia.org/wiki/Finsteraarhorn 4273m
+Chrüzberg https://de.wikipedia.org/wiki/Chr%C3%BCzberg StGallen
+Piz Palü https://de.wikipedia.org/wiki/Piz_Pal%C3%BC  3900 m, Graubünden
+Piz Bernina  https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
+Gross Spannort https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
+Mönch https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg) 4107 Berner Alpen
 
-https://de.wikipedia.org/wiki/San-Bernardino-Pass Graubünden 
+Volkszählung in der Schweiz https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz
 
-https://de.wikipedia.org/wiki/Henri_Guisan WWII General
+Alexandre Émile Jean Yersin https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin Arzt (Pest)
+Auguste Forel https://de.wikipedia.org/wiki/Auguste_Forel Psychiater, Abstinenzbewegung 
+Jules Gonin https://de.wikipedia.org/wiki/Jules_Gonin Augenarzt
 
-https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt
+Leuk https://de.wikipedia.org/wiki/Leuk Wallis
+Sottoceneri https://de.wikipedia.org/wiki/Sottoceneri Tessin
+Sopraceneri https://de.wikipedia.org/wiki/Sopraceneri Tessin
+Toggenburg https://de.wikipedia.org/wiki/Toggenburg StGallen
+La_Chaux-de-Fonds https://de.wikipedia.org/wiki/La_Chaux-de-Fonds Neuenburg
+Internationales Uhrenmuseum https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum La Chaux-de-Fonds 
 
-https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist
+St. Moritz https://de.wikipedia.org/wiki/St._Moritz Graubünden Engadin
+Saint-Ursanne https://de.wikipedia.org/wiki/Saint-Ursanne Jura
+Brig https://de.wikipedia.org/wiki/Brig Wallis
+Winterthur https://de.wikipedia.org/wiki/Winterthur
 
-https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Germaine de Staël, Schriftstellerin
+Eugène Borel https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel Politiker Neuenburg
 
-https://de.wikipedia.org/wiki/Chr%C3%BCzberg Chrüzberg, StGallen
+Beat Fischer https://de.wikipedia.org/wiki/Beat_Fischer Gründer der Post Bern 1673
+Oskar Bider https://de.wikipedia.org/wiki/Oskar_Bider Flugpionier
 
-https://de.wikipedia.org/wiki/Piz_Pal%C3%BC Piz Palü 3900 m, Graubünden
-https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
-
-https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz Volkszählung in der Schweiz
-
-https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin Arzt (Pest)
-https://de.wikipedia.org/wiki/Auguste_Forel Psychiater, Abstinenzbewegung 
-https://de.wikipedia.org/wiki/Jules_Gonin Augenarzt
-
-https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
-
-https://de.wikipedia.org/wiki/Leuk Wallis
-
-https://de.wikipedia.org/wiki/Sottoceneri
-https://de.wikipedia.org/wiki/Sopraceneri
-
-https://de.wikipedia.org/wiki/Toggenburg StGallen
-
-https://de.wikipedia.org/wiki/La_Chaux-de-Fonds Neuenburg
-https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum La Chaux-de-Fonds 
-
-https://de.wikipedia.org/wiki/St._Moritz Graubünden Engadin
-
-https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel Eugène Borel, Politiker Neuenburg
-
-https://de.wikipedia.org/wiki/Max_Bill Architekt
-https://de.wikipedia.org/wiki/Werner_Witschi Maler, Eisenplastiker
-
-https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg) Mönch 4107 Berner Alpen
-
-https://de.wikipedia.org/wiki/Beat_Fischer Gründer der Post Bern 1673
-
-https://de.wikipedia.org/wiki/Oskar_Bider Flugpionier
-
-https://de.wikipedia.org/wiki/Saint-Ursanne Jura
-
-https://de.wikipedia.org/wiki/Brig Wallis
-
-https://de.wikipedia.org/wiki/Joseph_Bovet Komponist
-
-https://de.wikipedia.org/wiki/Rainer_Maria_Rilke Lyriker 
-
-https://de.wikipedia.org/wiki/Othmar_Ammann Brückenbauer (Verrazzano)
-https://de.wikipedia.org/wiki/Winterthur
-
-https://de.wikipedia.org/wiki/Sulzer_AG
-https://de.wikipedia.org/wiki/Schweizerische_Lokomotiv-_und_Maschinenfabrik
-https://de.wikipedia.org/wiki/Rieter
-https://de.wikipedia.org/wiki/Swica
-https://de.wikipedia.org/wiki/Zimmer_Biomet
+Rilke https://de.wikipedia.org/wiki/Rainer_Maria_Rilke Lyriker 
+Othmar Ammann https://de.wikipedia.org/wiki/Othmar_Ammann Brückenbauer (Verrazzano)
+Sulzer AG https://de.wikipedia.org/wiki/Sulzer_AG Industriekonzern  Winterthur 
+Schweizerische Lokomotiv- und Maschinenfabrik https://de.wikipedia.org/wiki/Schweizerische_Lokomotiv-_und_Maschinenfabrik Winterthur
+Rieter https://de.wikipedia.org/wiki/Rieter Textilmaschinenbau  Winterthur
+Swica https://de.wikipedia.org/wiki/Swica Versicherungsgesellschaft Winterthur 
+Zimmer Biomet Holdings https://de.wikipedia.org/wiki/Zimmer_Biomet Winterthur
+Veloland Schweiz https://de.wikipedia.org/wiki/Veloland_Schweiz
 
 
-https://de.wikipedia.org/wiki/Veloland_Schweiz
-
-KUNSTLER:
-https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Johann Heinrich Füssli 
-https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Arnold Böcklin 
-https://de.wikipedia.org/wiki/Albert_Anker
-https://de.wikipedia.org/wiki/Ferdinand_Hodler 
-https://de.wikipedia.org/wiki/Alberto_Giacometti
-https://de.wikipedia.org/wiki/HR_Giger H.R. Giger  (Alien, Schloss Öerlichon )
-https://de.wikipedia.org/wiki/Paul_Klee
-
-Jean Tinguely https://de.wikipedia.org/wiki/Jean_Tinguely
-Meret Oppenheim, Feldtasse https://de.wikipedia.org/wiki/Meret_Oppenheim
-Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp
-Giovanni Segantini (Engadin) https://de.wikipedia.org/wiki/Giovanni_Segantini
-Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist
-
-https://de.wikipedia.org/wiki/Saint-Imier
-https://de.wikipedia.org/wiki/Ernest_Ansermet
-https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
-
-https://de.wikipedia.org/wiki/Jean_Tinguely 
-https://de.wikipedia.org/wiki/Delsberg
-https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
-https://de.wikipedia.org/wiki/Angelika_Kaufmann
-https://de.wikipedia.org/wiki/Blaise_Cendrars
-https://de.wikipedia.org/wiki/Frank_Buchser
-
-https://de.wikipedia.org/wiki/Lavertezzo
-https://de.wikipedia.org/wiki/Bremgarten_AG
-https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
-
-
-
-
-https://de.wikipedia.org/wiki/Emilie_Lieberherr
-
-
-
-HYMN Schweiz TODO
+HYMN Schweiz 
 https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/schweizer-landeshymne.html
 
 Trittst im Morgenrot daher,
@@ -816,19 +825,6 @@ Ja, die fromme Seele ahnt,
 Gott im hehren Vaterland,
 Gott, den Herrn, im hehren Vaterland.
 
-
-
-
-
-==========
-
-
-
-FILM
-
-https://de.wikipedia.org/wiki/Rolf_Lyssy  Regisseur  ( https://de.wikipedia.org/wiki/Die_Schweizermacher )
-
-
 ===============
 
 TESTS
@@ -837,7 +833,7 @@ https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
 
 ==========
 
-NEWS
+Zeitungen
 
 https://de.wikipedia.org/wiki/Liste_von_Schweizer_Zeitungen
 
@@ -849,44 +845,39 @@ https://www.youtube.com/watch?v=9D6jhjAn38M Ausstellung "Geschichte Schweiz" fü
 
 https://www.youtube.com/watch?v=hYLXPpLKZ5Y «Swissness. Tradition und Innovation»
 
-
-
 ===========
 
-
-https://de.wikipedia.org/wiki/Uster
-https://de.wikipedia.org/wiki/B%C3%BClach
-https://de.wikipedia.org/wiki/Sechsel%C3%A4utenplatz
-https://de.wikipedia.org/wiki/Robert_Grimm
-https://de.wikipedia.org/wiki/Gotthard-Basistunnel
-https://de.wikipedia.org/wiki/Lac_des_Dix
-https://de.wikipedia.org/wiki/Cosey
-
-https://de.wikipedia.org/wiki/Hans_Asper
-https://de.wikipedia.org/wiki/Exuperantius
-https://de.wikipedia.org/wiki/Felix_und_Regula
-
-https://de.wikipedia.org/wiki/Landsgemeinde
+Uster https://de.wikipedia.org/wiki/Uster
+Bülach https://de.wikipedia.org/wiki/B%C3%BClach
+Sechseläutenplatz https://de.wikipedia.org/wiki/Sechsel%C3%A4utenplatz
+Robert Grimm https://de.wikipedia.org/wiki/Robert_Grimm Politiker 
+Lac des Dix https://de.wikipedia.org/wiki/Lac_des_Dix Staudamm Grande Dixence
+Cosey https://de.wikipedia.org/wiki/Cosey  Comiczeichner
 
 
-https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
+Exuperantius https://de.wikipedia.org/wiki/Exuperantius
+Felix und Regula https://de.wikipedia.org/wiki/Felix_und_Regula
 
-https://de.wikipedia.org/wiki/Lina_B%C3%B6gli
-https://de.wikipedia.org/wiki/Elisabeth_Kopp
+Landsgemeinde https://de.wikipedia.org/wiki/Landsgemeinde Appenzell Versammlung 
 
-https://de.wikipedia.org/wiki/Topographische_Karte_der_Schweiz
+Grosse Burgunderchronik https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
 
-https://de.wikipedia.org/wiki/Meyer_Guggenheim
 
-https://de.wikipedia.org/wiki/Josephine_Z%C3%BCrcher
+Elisabeth Kopp https://de.wikipedia.org/wiki/Elisabeth_Kopp Politikerin, erste Frau der Schweiz in Bundesrat
 
-https://de.wikipedia.org/wiki/Bruno_Manser
+Topographische Karte der Schweiz https://de.wikipedia.org/wiki/Topographische_Karte_der_Schweiz Dufour
+
+Meyer Guggenheim https://de.wikipedia.org/wiki/Meyer_Guggenheim schweizerisch-amerikanischer Industrieller
+
+Josephine Zürcher https://de.wikipedia.org/wiki/Josephine_Z%C3%BCrcher Ärztin
+
+Bruno Manser https://de.wikipedia.org/wiki/Bruno_Manser (Malaysia) Ethnologe und Umwelt- und Menschenrechtsaktivist.
 
 
 =========
 ZÜRICH STADT
-https://de.wikipedia.org/wiki/Lindenhof_(Stadt_Z%C3%BCrich)
-https://de.wikipedia.org/wiki/Schipfe
+Lindenhof  https://de.wikipedia.org/wiki/Lindenhof_(Stadt_Z%C3%BCrich)
+Schipfe https://de.wikipedia.org/wiki/Schipfe
 
 https://swisscollections.ch/
 https://www.e-rara.ch/
@@ -902,141 +893,106 @@ Obligatorisches Referendum
 
 Eine Volksabstimmung muss durchgeführt werden, wenn das Parlament gewisse Erlasse verabschiedet, insbesondere wenn es die Verfassung ändert. Verfassungsänderungen treten nur in Kraft, wenn sie von der Mehrheit des Stimmvolks und der Mehrheit der Kantone in der Volksabstimmung angenommen werden.
 
-https://de.wikipedia.org/wiki/Kollegialit%C3%A4tsprinzip
-https://de.wikipedia.org/wiki/Konkordanzdemokratie
-https://de.wikipedia.org/wiki/Bundesgericht_(Schweiz)
-TODO
+Kollegialitätsprinzip https://de.wikipedia.org/wiki/Kollegialit%C3%A4tsprinzip
+Konkordanzdemokratie https://de.wikipedia.org/wiki/Konkordanzdemokratie
+Bundesgericht  https://de.wikipedia.org/wiki/Bundesgericht_(Schweiz)
 
 https://www.youtube.com/watch?v=ctig2b2bPLY  Die Schweiz und ihr Nein zu Europa | 20 Jahre nach der EWR Abstimmung
-
 https://www.youtube.com/watch?v=OiVKr8mngFw Die Akte UBS – Das Ende des Schweizer Bankgeheimnisses | Doku | SRF Dok
-
 https://www.youtube.com/watch?v=8RsD2j2dvTU Die Macht des Volkes | Direkte Demokratie in der Schweiz | Doku | SRF Dok
-
 https://www.youtube.com/watch?v=9lchmlwUX5A Verteidigungsministerin Viola Amherd
-
-
-
 
 
 ==========
 
-https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle
-https://de.wikipedia.org/wiki/Museum_Tinguely
-https://de.wikipedia.org/wiki/Mario_Botta
-https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp
+Gottfried Keller https://de.wikipedia.org/wiki/Gottfried_Keller Dichter und Politiker
 
-https://de.wikipedia.org/wiki/Pipilotti_Rist
-
-https://de.wikipedia.org/wiki/Arnold_Winkelried
-
-https://de.wikipedia.org/wiki/Jeremias_Gotthelf
-
-https://de.wikipedia.org/wiki/Roger_Federer
-
-https://de.wikipedia.org/wiki/Gottfried_Keller
-
-https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe Schutzpatron Schweiz
+Niklaus von Flüe https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe Schutzpatron Schweiz
 
 https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
 
 Museen
-https://de.wikipedia.org/wiki/Kunstmuseum_Basel Kunstmuseum Basel 
-https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
+Kunstmuseum Basel https://de.wikipedia.org/wiki/Kunstmuseum_Basel 
+Kunsthaus Zürich https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
 https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
-https://de.wikipedia.org/wiki/Museum_Rietberg
-https://de.wikipedia.org/wiki/Museum_Tinguely
-https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
+Museum Rietberg https://de.wikipedia.org/wiki/Museum_Rietberg "Kunst aus Asien, Afrika, Amerika und Ozeanien"
+Museum Tinguely https://de.wikipedia.org/wiki/Museum_Tinguely Basel
+Landesmuseum Zürich https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
 https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
-https://de.wikipedia.org/wiki/Kunstmuseum_Bern
-https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
-
-https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
-https://de.wikipedia.org/wiki/Konrad_Witz
+Kunstmuseum Bern https://de.wikipedia.org/wiki/Kunstmuseum_Bern
+Zentrum Paul Klee https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
 
 Theater
-https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
-https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich
+Opernhaus Zürich https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
+Schauspielhaus Zürich https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich
+
+Emil Georg Bührle https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle
+Limmatquai https://de.wikipedia.org/wiki/Limmatquai
 
 
+Haus zum Rüden https://de.wikipedia.org/wiki/Haus_zum_R%C3%BCden
+Zunfthaus zur Zimmerleuten https://de.wikipedia.org/wiki/Zunfthaus_zur_Zimmerleuten
 
-https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle
+Stadthaus Zürich https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich Gustav Gull 1898, 300 Mitarbeiter des Präsidialdepartements – darunter die Dienstabteilungen Bevölkerungsamt, Kultur, Stadtentwicklung und Fachstelle für Gleichstellung – des Finanzdepartements und der Stadtkanzlei.
 
+Rudolf-Brun-Brücke https://de.wikipedia.org/wiki/Rudolf-Brun-Br%C3%BCcke
 
-https://de.wikipedia.org/wiki/Limmatquai
+Schloss Greyerz https://de.wikipedia.org/wiki/Schloss_Greyerz Freiburg
 
-https://de.wikipedia.org/wiki/Haus_zum_R%C3%BCden
-https://de.wikipedia.org/wiki/Zunfthaus_zur_Zimmerleuten
+Zug https://de.wikipedia.org/wiki/Zug_(Stadt)
+Stiftsbibliothek St. Gallen https://de.wikipedia.org/wiki/Stiftsbibliothek_St._Gallen
+Gallus https://de.wikipedia.org/wiki/Gallus_(Heiliger)
 
-https://de.wikipedia.org/wiki/Rudolf-Brun-Br%C3%BCcke
+Augusta Raurica https://de.wikipedia.org/wiki/Augusta_Raurica Basel
 
-https://de.wikipedia.org/wiki/Schloss_Greyerz
+Marie Goegg-Pouchoulin https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin Frauenstimmrecht 
+Meta von Salis https://de.wikipedia.org/wiki/Meta_von_Salis Frauenstimmrecht
+Katharina Zenhäusern https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern Stimmzettel 
 
-https://de.wikipedia.org/wiki/Zug_(Stadt)
-https://de.wikipedia.org/wiki/Stiftsbibliothek_St._Gallen
+Rhätische Bahn https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn
+Berninabahn https://de.wikipedia.org/wiki/Berninabahn
+Bernina Express https://de.wikipedia.org/wiki/Bernina_Express
 
-https://de.wikipedia.org/wiki/Gallus_(Heiliger)
-
-https://de.wikipedia.org/wiki/Augusta_Raurica
-
-https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin
-https://de.wikipedia.org/wiki/Meta_von_Salis
-https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern
-
-https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn
-https://de.wikipedia.org/wiki/Berninabahn
-https://de.wikipedia.org/wiki/Bernina_Express
-
-https://de.wikipedia.org/wiki/Albulabahn
-
-https://de.wikipedia.org/wiki/Viamala
-https://de.wikipedia.org/wiki/Thusis
-
-
-SCHRIFTSTELLER
-https://de.wikipedia.org/wiki/Armon_Planta
-https://de.wikipedia.org/wiki/Kurt_Marti
-https://de.wikipedia.org/wiki/Max_Frisch
-https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt Friedrich Dürrenmatt 
-https://de.wikipedia.org/wiki/Johanna_Spyri
-Milena Moser
-Franz Holler (Oerlikon)
+Albulabahn https://de.wikipedia.org/wiki/Albulabahn
 
 
 MUSIKER:
 
 Komponisten:
-https://de.wikipedia.org/wiki/Arthur_Honegger
-https://de.wikipedia.org/wiki/Othmar_Schoeck
-https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)
+Arthur Honegger https://de.wikipedia.org/wiki/Arthur_Honegger Komponist
+Othmar Schoeck https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist
+Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist
+Joseph Bovet https://de.wikipedia.org/wiki/Joseph_Bovet Komponist
 
-https://de.wikipedia.org/wiki/Mani_Matter
-https://de.wikipedia.org/wiki/Berner_Troubadours
-https://de.wikipedia.org/wiki/Stephan_Eicher Stephan Eicher
+Mani Matter https://de.wikipedia.org/wiki/Mani_Matter
+Berner Troubadours https://de.wikipedia.org/wiki/Berner_Troubadours
+Stephan Eicher https://de.wikipedia.org/wiki/Stephan_Eicher
 Yello The Race: Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
 Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger
 
 Kirche
-https://de.wikipedia.org/wiki/Grossm%C3%BCnster
-https://de.wikipedia.org/wiki/Wasserkirche
-https://de.wikipedia.org/wiki/Fraum%C3%BCnster
-https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
-
-TODO 
-
-https://de.wikipedia.org/wiki/Kanton_(Schweiz)
-https://de.wikipedia.org/wiki/Z%C3%BCrich
-https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft
-https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
-https://de.wikipedia.org/wiki/Geschichte_der_Schweiz
-https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen
-
-https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel
-
-https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich
+Grossmünster https://de.wikipedia.org/wiki/Grossm%C3%BCnster
+Wasserkirche https://de.wikipedia.org/wiki/Wasserkirche
+Fraumünster https://de.wikipedia.org/wiki/Fraum%C3%BCnster
+St. Peter https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
 
 
-https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark
+Schweiz https://de.wikipedia.org/wiki/Schweiz
+Kantone der Schweiz  https://de.wikipedia.org/wiki/Kanton_(Schweiz)
+Zürich https://de.wikipedia.org/wiki/Z%C3%BCrich
+Alte Eidgenossenschaft https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft
+Bundesverfassung der Schweizerischen Eidgenossenschaft https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
+Geschichte der Schweiz https://de.wikipedia.org/wiki/Geschichte_der_Schweiz
+Geographie der Schweiz https://de.wikipedia.org/wiki/Geographie_der_Schweiz
+Fürstabtei St. Gallen https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen
+
+Major Davel https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel (Lausanne, Waadt von der Herrschaft Berns zu befreien)
+
+Fahne und Wappen des Kantons und der Stadt Zürich https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich
+
+
+Schweizerische Nationalpark https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark Graubünden 
+Frauenwinkel https://en.wikipedia.org/wiki/Frauenwinkel Schwyz
 
 
 https://www.stadt-zuerich.ch/einbuergerungen
@@ -1045,37 +1001,26 @@ https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
 
 
 
-https://de.wikipedia.org/wiki/Dufourspitze   Gornerhorn 
-
-
-https://de.wikipedia.org/wiki/Kanton_Waadt
-https://de.wikipedia.org/wiki/Kanton_Glarus
-
-
-
-https://en.wikipedia.org/wiki/Frauenwinkel
-
 Sports
-https://de.wikipedia.org/wiki/Jass
-https://de.wikipedia.org/wiki/Hornussen_(Sport)
-https://de.wikipedia.org/wiki/Schwingen
-https://de.wikipedia.org/wiki/Steinwerfen
+Jassen https://de.wikipedia.org/wiki/Jass
+Hornussen https://de.wikipedia.org/wiki/Hornussen_(Sport)
+Schwingen https://de.wikipedia.org/wiki/Schwingen
+Steinwerfen https://de.wikipedia.org/wiki/Steinwerfen
 
 
-https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich
 
 Musikalische Instrumente
-https://de.wikipedia.org/wiki/Alphorn
-https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli Schwyzerörgeli
-https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)  Büchel 
+Alphorn https://de.wikipedia.org/wiki/Alphorn
+Schwyzerörgeli https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli
+Büchel https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)  
 https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
 
 Flüsse
 Längste Flüsse (der):  https://de.wikipedia.org/wiki/Liste_der_Fl%C3%BCsse_in_der_Schweiz
-
+Hydrographie_der_Schweiz https://de.wikipedia.org/wiki/Hydrographie_der_Schweiz
 der Rhein (375 km) https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graubünden)
-Aare (288) https://de.wikipedia.org/wiki/Aare
-Rhone (264) (Rhonegletscher, Wallis)
+die Aare (288) https://de.wikipedia.org/wiki/Aare -> Unteraargletscher -> Thun, Bern, Biel, Aarau, Koblenz  Rhein
+die Rhone https://de.wikipedia.org/wiki/Rhone (264) (Rotten, Rhonegletscher, Wallis)
 Reuss (158) https://de.wikipedia.org/wiki/Reuss_(Fluss) (Luzern) entspringt im Gotthardmassiv im Südwesten des Kantons Uri und mündet bei Windisch und Gebenstorf im Kanton Aargau als rechter Nebenfluss in die Aare
 Limmat (140) https://de.wikipedia.org/wiki/Limmat -> Aare
 Saane (Röstigraben) 128
@@ -1084,12 +1029,12 @@ https://de.wikipedia.org/wiki/Glatt_(Rhein)
 https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss -> Rhein
 Sihl (-> Limmat)
 
-Seen:
+Seen in ZH:
 Zürichsee (Gebiet Schwyz/St Gallen)  Greifensee  Pfäffikersee 
 
 Grösste Berge: https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz
-Dufourspitze 4638m
-Dom 4545m
+Dufourspitze https://de.wikipedia.org/wiki/Dufourspitze   Gornerhorn  4638m Wallis
+Dom https://de.wikipedia.org/wiki/Dom_(Berg) 4545m Wallis
 Liskamm 4527m
 Weisshorn 4505m
 Matterhorn 4478m
@@ -1120,50 +1065,6 @@ Biel (Bienne) 55K
 
 
 
-Architekten
-https://de.wikipedia.org/wiki/Le_Corbusier
-https://de.wikipedia.org/wiki/Atelier_5
-https://de.wikipedia.org/wiki/Mario_Botta
-https://de.wikipedia.org/wiki/Diener_%26_Diener
-https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron Herzog & de Meuron 
-https://de.wikipedia.org/wiki/Max_Bill Max Bill 
-
-
-
-KOMIK:
-Hazel Brugger https://de.wikipedia.org/wiki/Hazel_Brugger
-Marco Rima (Corona-Skeptiker) https://de.wikipedia.org/wiki/Marco_Rima
-Emil (Die Schweizermacher)
-Ursus und Nadeschkin https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin
-
-
-
-FILMS:
-Xavier Koller (Reise der Hoffnung)
-Joel Basman (Wolkenbruch) https://de.wikipedia.org/wiki/Joel_Basman
-Rolf Lissy https://de.wikipedia.org/wiki/Rolf_Lyssy
-Liselotte Pulver (lachend) https://de.wikipedia.org/wiki/Liselotte_Pulver (Uli der Pächter)
-Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz
-Mummenschanz
-
-SPORT:
-Roger Federer (Tennis) https://de.wikipedia.org/wiki/Roger_Federer
-Simone Niggli-Luder https://de.wikipedia.org/wiki/Simone_Niggli-Luder Orientierung Laufer (Karte und Kompass)
-Nicola Spirig https://de.wikipedia.org/wiki/Nicola_Spirig_Hug
-
-
-
-
-WEITER PERSÖNLICHKEITEN
-Johann Heinrich Pestalozzi (Schüle für alle) https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi
-Henry Dunant (Rotes Kreuz) https://de.wikipedia.org/wiki/Henry_Dunant
-Michel Mayor https://de.wikipedia.org/wiki/Michel_Mayor
-Didier Queloz https://de.wikipedia.org/wiki/Didier_Queloz
-Ursula Keller (laser light) https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin)
-Carla del Ponte (ONU) https://de.wikipedia.org/wiki/Carla_Del_Ponte
-Emilie Lieberherr (Frauenstimmerecht, Stadtrat) https://de.wikipedia.org/wiki/Emilie_Lieberherr
-
-
 
 
 
@@ -1184,42 +1085,6 @@ https://www.youtube.com/watch?v=eB7woQYdYbU  Come ha fatto la Svizzera a diventa
 Autobahn 1540 Km in der Schweiz
 
 https://ttsfree.com/ Schweizer Deutsch Stimme
-
-
-============
-
-
-
-TEST
-
-Bundesgericht=Judikative. Prüft Bundesparlament+Bundesrat
-
-Bundesparlament=Legislative, Nationalrat+Ständerat
-
-Nationalrat=zählt 200 Mitglieder, Präsident Irène Kälin,  Vizepräsident(in) Martin Candinas, Eric Nussbaumer
-
-Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
-
-Bundesrat=Regierung,Executive. 7 Mitglieder. 
-
-Bundesverfassung
-
-Föderalismus=Kantone
-
-Gemeinde=169 in Kanton Zürich
-
-Gemeinderat=Parlament der Stadt Zürich, 125 Mitglieder
-
-Kantonsrat ZH= 180 Mitglieder
-
-Referendum: Gesetz ändern
-Volksinitiative: Bundesverfassung ändern
-
-Regierungsrat= (kantonal Bundesrat) 7 Mitglieder
-
-Sozialversicherungen: Arbeitslosenversicherung
-
-Stadtrat Zürich (Stadt Bundesrat) 9 Mitglieder
 
 
 ============
@@ -1257,14 +1122,9 @@ Auf der Bundesebene
 
 Volksinitiative= Bundesverfassung ändern
 100K Unterschriften 
-
 Bund: Volksmehr + Ständemehr (Kanton Mehrheit)
 
-K+G in ZH 6k Unterschriften und 3k für SZH 
-
-Referendum = Neue Gesetz
-100 Tage Zeit und 50k Unterschriften
-
+Volksinitiative K+G in ZH 6k Unterschriften und 3k für SZH 
 
 to remove all wikipedia links: 
 sed 's/http[^ ]*//g'
