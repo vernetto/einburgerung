@@ -919,8 +919,8 @@ Museum Rietberg https://de.wikipedia.org/wiki/Museum_Rietberg "Kunst aus Asien, 
 Museum Tinguely https://de.wikipedia.org/wiki/Museum_Tinguely Basel
 Landesmuseum Zürich https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
 https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
-Kunstmuseum Bern https://de.wikipedia.org/wiki/Kunstmuseum_Bern
-Zentrum Paul Klee https://de.wikipedia.org/wiki/Zentrum_Paul_Klee
+Kunstmuseum Bern https://de.wikipedia.org/wiki/Kunstmuseum_Bern 
+Zentrum Paul Klee https://de.wikipedia.org/wiki/Zentrum_Paul_Klee Bern
 
 Theater
 Opernhaus Zürich https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
@@ -954,6 +954,12 @@ Berninabahn https://de.wikipedia.org/wiki/Berninabahn
 Bernina Express https://de.wikipedia.org/wiki/Bernina_Express
 
 Albulabahn https://de.wikipedia.org/wiki/Albulabahn
+
+Der Munot https://de.wikipedia.org/wiki/Munot Schaffhausen
+Wildkirchli https://de.wikipedia.org/wiki/Wildkirchli  Appenzell Innerrhoden
+Titlis https://de.wikipedia.org/wiki/Titlis Obwalden
+Greyerz  https://de.wikipedia.org/wiki/Schloss_Greyerz Freiburg
+
 
 
 MUSIKER:
