@@ -11,7 +11,7 @@ Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 - Kinder unabhängig, und ermutigt, allein to erfahren und zu forschen
 - Fahrrad Kultur
 - Klimawandel: mehr wasser, regen, seen
-- Helden der Schweiz sind Henri Dufour (Krieg vermeiden) und Henry Dunant (IKRK), nicht Julius Caesar oder Garibaldi
+
 
 Warum sind sie in die Schweiz gekommen?
 
@@ -30,7 +30,7 @@ https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
 1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli (Uri). Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
 
-Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
+der Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
 
 1307 Wilhelm Tell, Hermann Gessler https://de.wikipedia.org/wiki/Wilhelm_Tell
 
@@ -82,7 +82,7 @@ Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau
 
 1529 - 1531 Zwei Kappelerkriegen (Kappel am Albis, ZH), zwischen Zürich und den Innerschweizer Kantonen https://de.wikipedia.org/wiki/Erster_Kappelerkrieg https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg
 
-1536 Bern erobert Waadt ( https://de.wikipedia.org/wiki/Guillaume_Farel und https://de.wikipedia.org/wiki/Pierre_Viret Reformatoren) 
+1536 Bern erobert Waadt ( Guillaume Farel https://de.wikipedia.org/wiki/Guillaume_Farel und Pierre Viret https://de.wikipedia.org/wiki/Pierre_Viret Reformatoren) 
 
 1559 Calvin https://de.wikipedia.org/wiki/Johannes_Calvin -> Genf Protestant, Hugenottes https://de.wikipedia.org/wiki/Hugenotten (Französischen Protestanten)
 
@@ -90,7 +90,7 @@ Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau
 	https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren ( kriegerischen Auseinandersetzungen zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden im Rahmen des Dreissigjährigen Krieges)
 	1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
 
-1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg Volksaufstand 
+1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg Volksaufstand
 
 1656 Erste https://de.wikipedia.org/wiki/Villmergerkriege zwei Kriege zwischen reformierten und katholischen Orten 1) 1656 2) 1712 (Villmergen in Aargau)
 
@@ -175,7 +175,7 @@ Zürich = Athen an der Limmat
 
 1940 General Mobilmachung -> Reduit Plan https://de.wikipedia.org/wiki/Schweizer_R%C3%A9duit. https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum
 
-1940 https://de.wikipedia.org/wiki/Henri_Guisan Oberbefehlshaber der Schweizer Armee. 
+1940 Henri Guisan https://de.wikipedia.org/wiki/Henri_Guisan Oberbefehlshaber der Schweizer Armee.
 
 1945 VN https://de.wikipedia.org/wiki/Vereinte_Nationen  in NY, Büro in Genf
 
@@ -235,6 +235,8 @@ Zürich = Athen an der Limmat
 
 ========== POLITIK
 
+26 Kantone, 143 Bezirke, 2212 Gemeinde
+
 Bundesverfassung  https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft 
 Titel 1 enthält allgemeine Bestimmungen, wie etwa zum Staatszweck (Art. 2), zur Stellung der Kantone (Art. 3), zu den Landessprachen (Art. 4) und zu den Grundsätzen rechtsstaatlichen Handelns (Art. 5). 
 
@@ -281,11 +283,11 @@ LEGISLATIVE
 	GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
 	Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen (Pukelsheim, Oberzuteilung/Unterzuteilung)
-	Einzelinitiative, Zutelungsverfahren
-		Doppelproportionalen Zuteilungsverfaren https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
-		Einzelinitiative
+	Einzelinitiative, Zuteilungsverfahren
+		Doppelproportionalen https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
+		
 
-Nationalrat=Präsident Irène Kälin (Grün),  Vizepräsident(in) Martin Candinas (die Mitte), Eric Nussbaumer (SP)
+Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
 
 Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
 
@@ -331,16 +333,12 @@ Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt.
 Nationalrat Zürich 36 Sitze (ab 2023)
 https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich
 
-
 Bundespolizei. Kantonspolizei. Stadt oder Gemeindepolizei. Verkehrspolizei.
-
 
 Mitglieder des Gemeinderats von Zürich https://www.gemeinderat-zuerich.ch/mitglieder/
 Mitglieder des Stadtrats von Zürich https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html
 
 https://www.parlament.ch/de
-
-
 
 https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
 Stadtpolizei Zürich: https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html
@@ -488,8 +486,8 @@ Sozialversicherung
 	Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden. 
 
 	Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
-
 EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
+
 FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
 
 ALV Arbeitslosenversicherung
@@ -526,10 +524,8 @@ Neujahrstag (1 Jan)
 - Samichlaus (6 Dez)
 - Berhtoldstag (2 Jan)
 - Karfreitag
-- Fronleichnam
+- Fronleichnam (Corpus Christi)
 - Mariä Himmelsfahrt
-
-
 
 ====
 
@@ -583,9 +579,9 @@ ZG Zug DE : Zugersee
 ZH Zürich  DE 
 
 ZH Zürich : 1728 Km2, 1.5 M , 
-Flüsse: Limmat, Sihl, Glatt
+Flüsse: Limmat, Sihl, Glatt, Töss, Rhein
 Berge: Schnebelhorn 1292, Bachtel 1115, und das Hörnli 1133m, Hinwil, Albiskette (Uetlieberg 869), Lägern (Juraausläufer) 866m
-See: Pfäffikersee, Greifensee, Türlersee
+See: Zürichsee, Pfäffikersee, Greifensee, Türlersee
 Städte: Zürich (420k) Winterthur (114k) Uster (35k) Dübendorf (29k) Dietikon (28k) ( Effretikon ??? Horgen ???)
 
 Zürcher Weinland
@@ -1087,7 +1083,8 @@ Lugano 63K
 Biel (Bienne) 55K
 
 
-
+Grössten Unternehmen in der Schweiz https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Unternehmen_in_der_Schweiz
+UBS, Credit Suisse, Julius Baer, Flughafem Spitälern, Migros, SIY, ABB, Coop, Emil Frey, DKHS, Denner, Google, digitec, Siemens, Barry Callebaut, AMAG-Gruppe, Raiffeisen Schweiz, Zürcher Kantonalbank
 
 
 
