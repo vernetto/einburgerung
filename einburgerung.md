@@ -3,11 +3,11 @@ Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 - geboren in eine Bergregion in den Alpen - unabhangig, föderalistisch, mehrsprachig
 - politisch gegen einen Zentralstaat, für regional-kantonale Souveränität, direkte Demokratie
 - Ich habe mich nie als "typisch italienisch" gefühlt
-- Ich identifiziere mich mit den ethischen Werten: harte und intelligente Arbeit, ehrlichkeit und respekt, Innovation und Technologie
+- Ich identifiziere mich mit den Schweizer ethischen Werten: harte Arbeit, ehrlichkeit und respekt, Innovation und Technologie
 - Ich mag diese Natur, die Berge, die Weiden, die Wälder, die Bäche, die Kühe
 - die Schweiz ohne Koloniale Geschichte, neutral und in Friede
 - bessere Lohne, weil alles ist mehr effizient und wir haben Spitz Technologien und höhe Produktivität
-- keine kunstliche Erschaffung von Arbeitplätze in der "Public Administration", um Stimme zu kaufen
+- keine kunstliche Erschaffung von Arbeitplätze in der Öffentliche Verwaltung, um Stimme zu kaufen
 - Kinder unabhängig, und ermutigt, allein to erfahren und zu forschen
 - Fahrrad Kultur
 - Klimawandel: mehr wasser, regen, seen
@@ -18,37 +18,37 @@ Warum sind sie in die Schweiz gekommen?
 
 ==========
 
-Kesslerloch (Madgeleine) , Pfeilbauer
-Kelten, Latène
-Helvetier, Raetien, Seduner, Leponter
+Kesslerloch https://de.wikipedia.org/wiki/Kesslerloch (Madgeleine) , Pfeilbauer
+Kelten, Latène https://de.wikipedia.org/wiki/La_T%C3%A8ne_(Fundplatz)
+Helvetier https://de.wikipedia.org/wiki/Helvetier , Raetien, Seduner, Leponter
 Römer
 400 Burgunder https://de.wikipedia.org/wiki/Burgunden , Alamannen https://de.wikipedia.org/wiki/Alamannen
 746 Fränkischen Reiches https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich
-Burgunder und Habsburger
+Burgunder und Habsburger https://de.wikipedia.org/wiki/Habsburg#/media/Datei:Habsburg_Map_1547.jpg
 Deutsche Adelgeschlechter
 https://de.wikipedia.org/wiki/Z%C3%A4hringer  Zähringerstädte
 
-1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli. Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
+1291 Rütlischwur  https://de.wikipedia.org/wiki/R%C3%BCtlischwur  Rütli (Uri). Vierwaldstättersees. Uri, Schwyz und Unterwalden. Walter Fürst, Werner Stauffacher, Arnold von Melchtal 
 
 Bundesbrief https://de.wikipedia.org/wiki/Bundesbrief_von_1291
 
 1307 Wilhelm Tell, Hermann Gessler https://de.wikipedia.org/wiki/Wilhelm_Tell
 
-https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen (Das Buch enthält eine Chronik mit der ältesten Überlieferung der Tellsgeschichte.)
+https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen 1470  (Das Buch enthält eine Chronik mit der ältesten Überlieferung der Tellsgeschichte.)
 
 Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1291)  Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
 
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
-1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten (zwischen den Eidgenossen und den Habsburgern)  
+1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten Zug (zwischen den Eidgenossen und den Habsburgern)  
 
-1339 Laupenkrieg https://de.wikipedia.org/wiki/Laupenkrieg (Bern gegen Habsburg)
+1339 Laupenkrieg https://de.wikipedia.org/wiki/Laupenkrieg Bern (Bern gegen Habsburg)
 
 1352-3 + Glarus + Bern 
 
 1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich) Arnold Winkelried https://de.wikipedia.org/wiki/Arnold_Winkelried 
 
-1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels Näfels ( Habsburgern und den Eidgenossen. ) 
+1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels Näfels (Glarus) ( Habsburgern und den Eidgenossen. ) 
 
 1401 1429 Appenzellerkrieg (Appenzeller gegen St Gallen) https://de.wikipedia.org/wiki/Appenzellerkriege
 
@@ -58,7 +58,7 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 1449-1450 Alter Zürichkriege https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg (Zürich mit Habsburger gegen Eidgenossen)
 
-1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg (Eidgenossenschaft gegen Habsburger)
+1468 Waldshuterkrieg https://de.wikipedia.org/wiki/Waldshuterkrieg (Waldshut, DE) (Eidgenossenschaft gegen Habsburger)
 
 1474-78 Burgunderkriege https://de.wikipedia.org/wiki/Burgunderkriege Murten  https://de.wikipedia.org/wiki/Schlacht_bei_Murten Grandson https://de.wikipedia.org/wiki/Schlacht_bei_Grandson
 
@@ -80,7 +80,7 @@ Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau
 
 1519 Zwingli https://de.wikipedia.org/wiki/Huldrych_Zwingli -> Reformierte Kirche
 
-1529 - 1531 Zwei Kappelerkriegen, zwischen Zürich und den Innerschweizer Kantonen https://de.wikipedia.org/wiki/Erster_Kappelerkrieg https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg
+1529 - 1531 Zwei Kappelerkriegen (Kappel am Albis, ZH), zwischen Zürich und den Innerschweizer Kantonen https://de.wikipedia.org/wiki/Erster_Kappelerkrieg https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg
 
 1536 Bern erobert Waadt ( https://de.wikipedia.org/wiki/Guillaume_Farel und https://de.wikipedia.org/wiki/Pierre_Viret Reformatoren) 
 
@@ -489,10 +489,11 @@ Sozialversicherung
 
 	Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
 
-ALV Arbeitslosenversicherung
-UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
 EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
 FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
+
+ALV Arbeitslosenversicherung
+UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html 
 KV Krankenversicherung: Grundversicherung, Zusatzversicherung
 Sozialhilfe
 
@@ -610,55 +611,86 @@ Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag ->  zehntausend Männer der
 24.8% Andere
 
 
+Zürich Kreise:
+1 Altstadt
+2 Enge/Wollishofen/Leimbach
+3 Wiedikon
+4 Aussersihl
+5 Industrie Quartier
+6 Unterstrasse/Oberstrasse
+7 Hottingen
+8 Riesbach
+9 Altstetten/Albisrieden
+10 Höngg/Wipkingen
+11 Oerlikon/Seebach/Affoltern
+12 Schwamendingen
+
+
 ======
+
+
+MUSIKER:
+
+Komponisten:
+Arthur Honegger https://de.wikipedia.org/wiki/Arthur_Honegger Komponist ( Pacific 231)
+Othmar Schoeck https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist und Dirigen aus Zürich (Penthesilea 1924) 
+Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist (Messe pour double choeur)
+Joseph Bovet https://de.wikipedia.org/wiki/Joseph_Bovet Komponist (Le vieux chalet)
+Ernest Ansermet https://de.wikipedia.org/wiki/Ernest_Ansermet Dirigent
+
+Mani Matter https://de.wikipedia.org/wiki/Mani_Matter
+Berner Troubadours https://de.wikipedia.org/wiki/Berner_Troubadours
+Stephan Eicher https://de.wikipedia.org/wiki/Stephan_Eicher (Déjeuner En Paix)
+Yello (The Race): Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
+Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger (Le vent nous portera)
+
+
 KUNSTLER:
-Hans Asper https://de.wikipedia.org/wiki/Hans_Asper Maler
-Johann Heinrich Füssli https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Maler (Nachtmahr)
-Arnold Böcklin https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Maler (Die Toteninsel)
-Albert Anker https://de.wikipedia.org/wiki/Albert_Anker Maler (Das Schulexamen)
-Ferdinand Hodler https://de.wikipedia.org/wiki/Ferdinand_Hodler Maler (Die Nacht, Der Tag)
-Alberto Giacometti https://de.wikipedia.org/wiki/Alberto_Giacometti Bildhauer (Frau auf dem Wagen)
-H.R. Giger https://de.wikipedia.org/wiki/HR_Giger  bildender Künstler  (Alien, Schloss Öerlichon )
+Konrad Witz https://de.wikipedia.org/wiki/Konrad_Witz Maler (Der wunderbare Fischzug 1444)
+Hans Asper https://de.wikipedia.org/wiki/Hans_Asper Maler (Ulrich Zwingli, 1549)
+Hans Holbein der Jüngere https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere Maler (Heinrich VIII. (Porträt) 1537) 
+Johann Heinrich Füssli https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Maler (Nachtmahr ~1790)
+Arnold Böcklin https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Maler (Die Toteninsel 1880)
+Albert Anker https://de.wikipedia.org/wiki/Albert_Anker Maler (Das Schulexamen 1862)
+Ferdinand Hodler https://de.wikipedia.org/wiki/Ferdinand_Hodler Maler (Die Nacht 1889, Der Tag 1900)
+Alberto Giacometti https://de.wikipedia.org/wiki/Alberto_Giacometti Bildhauer (Frau auf dem Wagen 1942)
+Frank Buchser https://de.wikipedia.org/wiki/Frank_Buchser Maler (Der Kuss, 1878)
+Giovanni Segantini https://de.wikipedia.org/wiki/Giovanni_Segantini Maler (Engadin) (Die Heuernte, Mittag in den Alpen)
+
+H.R. Giger https://de.wikipedia.org/wiki/HR_Giger  bildender Künstler  (Alien)
 Paul Klee https://de.wikipedia.org/wiki/Paul_Klee Maler
 Jean Tinguely https://de.wikipedia.org/wiki/Jean_Tinguely Bildhauer (kinetischen Kunst)
 Meret Oppenheim, Feldtasse https://de.wikipedia.org/wiki/Meret_Oppenheim Künstlerin (Tisch mit Vogelfüssen)
-Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp Künstlerin (Dada-Kopf)
-Giovanni Segantini https://de.wikipedia.org/wiki/Giovanni_Segantini Maler (Engadin) (Die Heuernte)
-Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist Künstlerin
-Niki de Saint Phalle https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle Künstlerin (Nana-Engel)
-Frank Buchser https://de.wikipedia.org/wiki/Frank_Buchser Maler
+Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp Künstlerin (Dada-Kopf, König Deramo)
+Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist Künstlerin (Pixel light show)
+Niki de Saint Phalle https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle Künstlerin (Nana-Engel, "Die Sonne, dargestellt als Vogel")
 Werner Witschi https://de.wikipedia.org/wiki/Werner_Witschi Maler, Eisenplastiker
-Hans Holbein der Jüngere https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere Maler
-Konrad Witz https://de.wikipedia.org/wiki/Konrad_Witz Maler
+
 
 Architekten:
-Francesco Borromini https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt
+Francesco Borromini https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt ( San Carlo alle Quattro Fontane ~1650)
 Mario Botta https://de.wikipedia.org/wiki/Mario_Botta Architekt
 Le Corbusier https://de.wikipedia.org/wiki/Le_Corbusier Architekt (Chapelle Notre-Dame-du-Haut de Ronchamp)
-Atelier 5 https://de.wikipedia.org/wiki/Atelier_5 Architekten
-Diener & Diener https://de.wikipedia.org/wiki/Diener_%26_Diener Architekten
-Herzog & de Meuron https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron 
-Max Bill https://de.wikipedia.org/wiki/Max_Bill Architekt
-
+Atelier 5 https://de.wikipedia.org/wiki/Atelier_5 Architekten (Hauptbahnhof Bern)
+Diener & Diener https://de.wikipedia.org/wiki/Diener_%26_Diener Architekten (Novartis Campus Basel)
+Herzog & de Meuron https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron (Elbphilharmonie in Hamburg)
+Max Bill https://de.wikipedia.org/wiki/Max_Bill Architekt (Pavillon-Skulptur in Zürich)
+ 
 
 Schriftstellers:
-Jeremias Gotthelf https://de.wikipedia.org/wiki/Jeremias_Gotthelf Schriftsteller
-Conrad Ferdinand Meyer https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer Dichter
-Blaise Cendrars https://de.wikipedia.org/wiki/Blaise_Cendrars Schriftsteller
-Germaine de Staël https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Schriftstellerin
+Jeremias Gotthelf https://de.wikipedia.org/wiki/Jeremias_Gotthelf Schriftsteller (Uli der Pächter 1849)
+Conrad Ferdinand Meyer https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer Dichter (das Amulet (Huguenotten), 1873)
+Blaise Cendrars https://de.wikipedia.org/wiki/Blaise_Cendrars Schriftsteller, Reiser (La-Chaux-de-Fonds. Moravagine  1926)
+Germaine de Staël https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Schriftstellerin (De l’Allemagne, 1813)
 Armon Planta https://de.wikipedia.org/wiki/Armon_Planta Heimatforscher Engadin
 Kurt Marti https://de.wikipedia.org/wiki/Kurt_Marti Pfarrer 
-Max Frisch https://de.wikipedia.org/wiki/Max_Frisch  Schriftsteller und Architekt ( Biedermann und die Brandstifter)
-Friedrich Dürrenmatt https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt  (Das Versprechen)
-Johanna Spyri https://de.wikipedia.org/wiki/Johanna_Spyri
-Lina Bögli https://de.wikipedia.org/wiki/Lina_B%C3%B6gli Reiseschriftstellerin
-Milena Moser https://de.wikipedia.org/wiki/Milena_Moser Schriftstellerin
-
-
-Musiker
-Ernest Ansermet https://de.wikipedia.org/wiki/Ernest_Ansermet Dirigent
-Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist
-
+Max Frisch https://de.wikipedia.org/wiki/Max_Frisch  Schriftsteller und Architekt (Biedermann und die Brandstifter)
+Friedrich Dürrenmatt https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt  (Das Versprechen 1958 - Krimi)
+Johanna Spyri https://de.wikipedia.org/wiki/Johanna_Spyri  Heidi 1880
+Milena Moser https://de.wikipedia.org/wiki/Milena_Moser Schriftstellerin (Putzfraueninsel 1991) 
+Lina Bögli https://de.wikipedia.org/wiki/Lina_B%C3%B6gli Reiseschriftstellerin (Vorwärts  1902)
+Gottfried Keller https://de.wikipedia.org/wiki/Gottfried_Keller Maler Dichter und Politiker (Kleider machen Leute 1874) 
+Thomas Meyer https://de.wikipedia.org/wiki/Thomas_Meyer_(Schriftsteller) 
 
 KOMIK:
 Hazel Brugger https://de.wikipedia.org/wiki/Hazel_Brugger Kabarettistin
@@ -669,16 +701,17 @@ Ursus und Nadeschkin https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin Kabarett
 
 FILMS:
 Xavier Koller https://de.wikipedia.org/wiki/Xavier_Koller Regisseur (Reise der Hoffnung)
-Joel Basman (Wolkenbruch) https://de.wikipedia.org/wiki/Joel_Basman Schauspieler 
+Joel Basman https://de.wikipedia.org/wiki/Joel_Basman Schauspieler (Wolkenbruch 2018)
 Rolf Lissy https://de.wikipedia.org/wiki/Rolf_Lyssy Regisseur (Die Schweizermacher)
 Liselotte Pulver (lachend) https://de.wikipedia.org/wiki/Liselotte_Pulver (Uli der Pächter) https://de.wikipedia.org/wiki/Uli_der_P%C3%A4chter_(Film) 
-Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz Schauspieler
+Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz Schauspieler (Hitler in "Der Untergang" 2004)
 Mummenschanz https://de.wikipedia.org/wiki/Mummenschanz 
 
 SPORT:
 Roger Federer (Tennis) https://de.wikipedia.org/wiki/Roger_Federer
 Simone Niggli-Luder https://de.wikipedia.org/wiki/Simone_Niggli-Luder Orientierung Laufer (Karte und Kompass)
 Nicola Spirig Hug https://de.wikipedia.org/wiki/Nicola_Spirig_Hug Triathletin 
+Ueli Steck https://de.wikipedia.org/wiki/Ueli_Steck 
 
 WEITER PERSÖNLICHKEITEN:
 Henry Dunant (Rotes Kreuz) https://de.wikipedia.org/wiki/Henry_Dunant IKRK
@@ -905,8 +938,6 @@ https://www.youtube.com/watch?v=9lchmlwUX5A Verteidigungsministerin Viola Amherd
 
 ==========
 
-Gottfried Keller https://de.wikipedia.org/wiki/Gottfried_Keller Dichter und Politiker
-
 Niklaus von Flüe https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe Schutzpatron Schweiz
 
 https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
@@ -961,20 +992,6 @@ Titlis https://de.wikipedia.org/wiki/Titlis Obwalden
 Greyerz  https://de.wikipedia.org/wiki/Schloss_Greyerz Freiburg
 
 
-
-MUSIKER:
-
-Komponisten:
-Arthur Honegger https://de.wikipedia.org/wiki/Arthur_Honegger Komponist
-Othmar Schoeck https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist
-Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist
-Joseph Bovet https://de.wikipedia.org/wiki/Joseph_Bovet Komponist
-
-Mani Matter https://de.wikipedia.org/wiki/Mani_Matter
-Berner Troubadours https://de.wikipedia.org/wiki/Berner_Troubadours
-Stephan Eicher https://de.wikipedia.org/wiki/Stephan_Eicher
-Yello The Race: Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
-Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger
 
 Kirche
 Grossmünster https://de.wikipedia.org/wiki/Grossm%C3%BCnster
