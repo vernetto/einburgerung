@@ -220,6 +220,8 @@ Zürich = Athen an der Limmat
 
 1992 Weltbank und IWF
 
+1992 EWR Abstimmung (Europäischen Wirtschaftsraum)
+
 1996 trat das Gleichstellungsgesetz in Kraft "verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
 
 1996 Report Bergier https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg
@@ -717,10 +719,7 @@ Ursula Keller https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin) Physikeri
 Carla del Ponte (ONU) https://de.wikipedia.org/wiki/Carla_Del_Ponte  Botschafterin
 Emilie Lieberherr https://de.wikipedia.org/wiki/Emilie_Lieberherr Politikerin (Frauenstimmerecht, Stadtrat) 
 
-
-
 ===========
-
 
 Miscellaneous
 
@@ -865,7 +864,7 @@ https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
 Zeitungen
 
 https://de.wikipedia.org/wiki/Liste_von_Schweizer_Zeitungen
-
+Tages-Anzeiger , az Nordwestschweiz ( Aargauer Zeitung), Neue Zürcher Zeitung, Blick, 20min
 https://www.tagesanzeiger.ch/schweiz
 
 https://www.swissinfo.ch/ger/direkte-demokratie_so-funktioniert-das-politische-system-der-schweiz/31029048
@@ -890,7 +889,6 @@ Felix und Regula https://de.wikipedia.org/wiki/Felix_und_Regula
 Landsgemeinde https://de.wikipedia.org/wiki/Landsgemeinde Appenzell Versammlung 
 
 Grosse Burgunderchronik https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
-
 
 Elisabeth Kopp https://de.wikipedia.org/wiki/Elisabeth_Kopp Politikerin, erste Frau der Schweiz in Bundesrat
 
@@ -976,11 +974,11 @@ Marie Goegg-Pouchoulin https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin Frau
 Meta von Salis https://de.wikipedia.org/wiki/Meta_von_Salis Frauenstimmrecht
 Katharina Zenhäusern https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern Stimmzettel 
 
-Rhätische Bahn https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn
-Berninabahn https://de.wikipedia.org/wiki/Berninabahn
-Bernina Express https://de.wikipedia.org/wiki/Bernina_Express
+Rhätische Bahn https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn Graubünden
+Berninabahn https://de.wikipedia.org/wiki/Berninabahn Graubünden
+Bernina Express https://de.wikipedia.org/wiki/Bernina_Express Graubünden 
 
-Albulabahn https://de.wikipedia.org/wiki/Albulabahn
+Albulabahn https://de.wikipedia.org/wiki/Albulabahn Graubünden
 
 Der Munot https://de.wikipedia.org/wiki/Munot Schaffhausen
 Wildkirchli https://de.wikipedia.org/wiki/Wildkirchli  Appenzell Innerrhoden
@@ -1084,7 +1082,7 @@ Biel (Bienne) 55K
 
 
 Grössten Unternehmen in der Schweiz https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Unternehmen_in_der_Schweiz
-UBS, Credit Suisse, Julius Baer, Flughafem Spitälern, Migros, SIY, ABB, Coop, Emil Frey, DKHS, Denner, Google, digitec, Siemens, Barry Callebaut, AMAG-Gruppe, Raiffeisen Schweiz, Zürcher Kantonalbank
+UBS, Credit Suisse, Julius Baer, Flughafen, Spitälern, Migros, SIY, ABB, Coop, Emil Frey, DKHS, Denner, Google, digitec, Siemens, Barry Callebaut, AMAG-Gruppe, Raiffeisen Schweiz, Zürcher Kantonalbank, Lindt & Sprüngli 
 
 
 
@@ -1106,45 +1104,30 @@ Autobahn 1540 Km in der Schweiz
 
 https://ttsfree.com/ Schweizer Deutsch Stimme
 
-
 ============
+DIE NAMEN
 
-Rechtstaat -> Gesetze
-Föderalistisches Staat (Kantone)
-Bund -> Bundesparlament
-Kantone -> Parlament
-Gemeinde (nur grosse) -> Parlament
+Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
+Ständerat = Präsident Thomas Hefti.
 
-Kantone: Autonomie (Schulsystem ÖV Gesundheit)
+Bundesrat:
+Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
+Simonetta Sommaruga -> UVEK Umwelt Verkehr Energie Kommunikation
+Alain Berset -> EDI Intern
+Ignazio Cassis -> EDA Auswärtige (Bundespräsident)
+Ueli Maurer -> EFD Finanz
+Guy Parmelin -> WFB Wirtschaft Bildung Forschung
+Karin Keller-Sutter -> EJPD  Justiz & Polizei
 
-Regierung = Bundesrat, 7 Mitgliedern 4 Jahre. Bundesräte & Bundesrätinnen
-Bundespräsident + Vize (1 Jahr)
+Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
-Bundesparlament (Bundesversammlung) : Nationalrat + Ständerat
-Wählt: Bundesrat, Bundespräsident + Vize, Bundesrichter, General der Armee
+Regierungsrat ZH  Ernst Stocker
+Stadtrat 9 ZH, Corine Mauch
 
-Gewalttrennung: 
-Executive (Regierung + Bundesrat)
-Legislative (Bundesparlament)
-Judikative (Bundesgericht)
+Kantonsratspräsidentin: Esther Guyer
+Präsident des Gemeinderats ist Matthias Probst
 
-Executive = Gesetze durchsetzen 
-Legislative = Gesetze bestimmen
-Judikative = Gesetze prüfen
-
-Rechte:
-Wahlrecht: die Regierung (K+G) + das Parlament (K+G+B) , 4 Jahre
-Stimmrecht: auch änderungen in Bundesverfassung, K+G
-Initiativerecht: Volksinitiative
-Referendumrecht: 
-
-Auf der Bundesebene
-
-Volksinitiative= Bundesverfassung ändern
-100K Unterschriften 
-Bund: Volksmehr + Ständemehr (Kanton Mehrheit)
-
-Volksinitiative K+G in ZH 6k Unterschriften und 3k für SZH 
+=======
 
 to remove all wikipedia links: 
 sed 's/http[^ ]*//g'
