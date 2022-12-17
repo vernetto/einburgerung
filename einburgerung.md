@@ -14,6 +14,11 @@ Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 
 Warum sind sie in die Schweiz gekommen?
 
+Ganz wichtig: Ihr soziales Leben in der Schweiz: Haben Sie Schweizer Freunde? Bist du Mitglied in einem Verein? Freiwillig? Gehst du zum Nachbarschaftsverein? Kennen Sie Ihre Nachbarn?
+
+
+this text:
+https://github.com/vernetto/einburgerung/blob/master/einburgerung.md
 
 ==========
 
