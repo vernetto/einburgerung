@@ -17,7 +17,7 @@ Warum sind sie in die Schweiz gekommen?
 Ganz wichtig: Ihr soziales Leben in der Schweiz: Haben Sie Schweizer Freunde? Bist du Mitglied in einem Verein? Freiwillig? Gehst du zum Nachbarschaftsverein? Kennen Sie Ihre Nachbarn?
 
 
-Test:
+Diese Text:
 https://github.com/vernetto/einburgerung/blob/master/einburgerung.md
 
 ==========
