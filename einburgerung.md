@@ -1,17 +1,16 @@
+Einbürgerungstest Schweiz
+https://apps.apple.com/ch/app/einb%C3%BCrgerungstest-schweiz/id1125130127
+
+Broschüre zum Einbürgerungsgespräch :
+https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/einbuergerungen/kenntnisse/grundkenntnisse/broschuere_einbuergerungsgespraech.html
+
+Grundkenntnistest:
+https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
+
+Echo Informationen zur Schweiz
+https://www.heks.ch/echo-informationen-zur-schweiz
+
 Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
-
-- geboren in eine Bergregion in den Alpen - unabhangig, föderalistisch, mehrsprachig
-- politisch gegen einen Zentralstaat, für regional-kantonale Souveränität, direkte Demokratie
-- Ich habe mich nie als "typisch italienisch" gefühlt
-- Ich identifiziere mich mit den Schweizer ethischen Werten: harte Arbeit, ehrlichkeit und respekt, Innovation und Technologie
-- Ich mag diese Natur, die Berge, die Weiden, die Wälder, die Bäche, die Kühe
-- die Schweiz ohne Koloniale Geschichte, neutral und in Friede
-- bessere Lohne, weil alles ist mehr effizient und wir haben Spitz Technologien und höhe Produktivität
-- keine kunstliche Erschaffung von Arbeitplätze in der Öffentliche Verwaltung, um Stimme zu kaufen
-- Kinder unabhängig, und ermutigt, allein to erfahren und zu forschen
-- Fahrrad Kultur
-- Klimawandel: mehr wasser, regen, seen
-
 
 Warum sind sie in die Schweiz gekommen?
 
