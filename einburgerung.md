@@ -10,6 +10,8 @@ https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
 Echo Informationen zur Schweiz
 https://www.heks.ch/echo-informationen-zur-schweiz
 
+Migros Schule
+
 Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ?
 
 Warum sind sie in die Schweiz gekommen?
@@ -44,13 +46,13 @@ Ausdehnung zu Acht Alte Orte https://de.wikipedia.org/wiki/Acht_Alte_Orte Uri (1
 
 1291–1474/1511   https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege 
 
-1315 Schlacht am Morgarten https://de.wikipedia.org/wiki/Schlacht_am_Morgarten Zug (zwischen den Eidgenossen und den Habsburgern)  
+1315 Schlacht am Morgarten (Uri) https://de.wikipedia.org/wiki/Schlacht_am_Morgarten Zug (zwischen den Eidgenossen und den Habsburgern)  
 
 1339 Laupenkrieg https://de.wikipedia.org/wiki/Laupenkrieg Bern (Bern gegen Habsburg)
 
 1352-3 + Glarus + Bern 
 
-1386 Schlacht bei Sempach https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich) Arnold Winkelried https://de.wikipedia.org/wiki/Arnold_Winkelried 
+1386 Schlacht bei Sempach (Luzern) https://de.wikipedia.org/wiki/Schlacht_bei_Sempach ( Eidgenossenschaft und dem Herzogtum Österreich) Arnold Winkelried https://de.wikipedia.org/wiki/Arnold_Winkelried 
 
 1388 https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels Näfels (Glarus) ( Habsburgern und den Eidgenossen. ) 
 
@@ -92,7 +94,7 @@ Untertanen Gebieten https://de.wikipedia.org/wiki/Untertanengebiet Waadt, Aargau
 
 1618-1648 30 Jährige Krieg https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg
 	https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren  Bündner Wirren ( kriegerischen Auseinandersetzungen zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden im Rahmen des Dreissigjährigen Krieges)
-	1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Souveränität
+	1648  https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede  Westfälische Friede -> Unabhängigkeit und Souveränität der Schweiz
 
 1653 Schweizer Bauernkrieg https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg Volksaufstand
 
