@@ -48,7 +48,7 @@ Dann **Pfahlbauersiedlung** im Neuenburgersee und Thurgau wurden entdeckt ( 4500
 
 Die [Kelten](https://de.wikipedia.org/wiki/Kelten) haben die Schweiz kolonisiert, ein beispiel ist in [Latène](https://de.wikipedia.org/wiki/La_T%C3%A8ne_(Fundplatz)) (Kanton Neuenburg)
 
-Verschiedene Keltische Stamme haben das Schweizer Gebiet besiedelt: [Helvetier](https://de.wikipedia.org/wiki/Helvetier) Mittelland, Raetier (Ostschweiz), Seduner (Wallis), Lepontier (Tessin), Insubrer 
+Im Schweizer Raum siedelten sich verschiedene keltische Stämme an: [Helvetier](https://de.wikipedia.org/wiki/Helvetier) Mittelland, Raetier (Ostschweiz), Seduner (Wallis), Lepontier (Tessin), Insubrer 
 
 Die **Römer** mit Julius Caesar haben 52 v.Chr. [die Helvetien untergeworfen](https://de.wikipedia.org/wiki/Die_Schweiz_in_r%C3%B6mischer_Zeit) (Gallia est omnis divisa in partes tres: Belgae, Aquitani, Celtae)
 
@@ -62,9 +62,30 @@ Manche Schweizer Städte - die **Zähringerstädte** - (Bern) wurden von Deutsch
 ### 1291 bis 1789
 
 1291 Find der [Rütlischwur](https://de.wikipedia.org/wiki/R%C3%BCtlischwur) am Rütli statt (Kanton Uri), am Ufer der Vierwaldstättersees. Die 3 Kantonen 
-Uri, Schwyz und Unterwalden versprochen mutuelle Hilfe zu geben. Der Name der 3 Menschen war: Walter Fürst, Werner Stauffacher, Arnold von Melchtal
+**Uri, Schwyz und Unterwalden** - _Urkantonen_ genannt - versprochen gegenseitige Hilfe zu geben. Der Name der 3 Menschen war: Walter Fürst, Werner Stauffacher, Arnold von Melchtal
 
+1291 der [Bundesbrief](https://de.wikipedia.org/wiki/Bundesbrief_von_1291) wurde geschrieben, ein Rechtsdokument der den Grundstein legt für eine bürgerliche, 
+wirtschaftliche und militärische Union zwischen den 3 Kantonen. 
+Der text ist sehr interessant zu lesen.
 
+1307 [Wilhelm Tell](https://de.wikipedia.org/wiki/Wilhelm_Tell) ist nur eine sagenhafte Figur, die den Geist der Unabhängigkeit und die Tapferkeit der Eidgenossen gegen den habsburgischen Besatzer verkörpert.
+Tell verweigert Hermann Gessler, ein habsburgischer Häuptling, zu begrüssen und ehren. Gessler befielt Tell, mit einer Armbrust einen Apfel auf dem Kopf seines Sohnes zu schiessen.
+Tell traf den Apfel, trotzdem Gessler lass Tell verhaften. Später gelingt Tell die Flucht und tötet Gessler.
+Das [Weisses Buch von Sarnen](https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen) 1470 enthält eine Chronik mit der ältesten Überlieferung der Tellsgeschichte.
+
+1291-1352 Ausdehnung der Urkantonen zu **[Acht Alte Orte](https://de.wikipedia.org/wiki/Acht_Alte_Orte)**  
+Uri (1291) Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
+
+#### [HABSBURGERKRIEGE](https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege) 1291–1474/1511
+
+1315 [Schlacht am Morgarten](https://de.wikipedia.org/wiki/Schlacht_am_Morgarten) (Zug) zwischen den Eidgenossen und den Habsburgern
+
+1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Bern gegen Habsburg
+
+1386 [Schlacht bei Sempach](https://de.wikipedia.org/wiki/Schlacht_bei_Sempach)  Eidgenossenschaft und dem Herzogtum Österreich. 
+Ein Held [Arnold Winkelried](https://de.wikipedia.org/wiki/Arnold_Winkelried) lässt sich selbst aufspiessen, um die Eidgenossen zu schützen.
+
+1388 [Näfels](https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels) (Glarus) (Habsburgern und die Eidgenossen. )
 
 
 
