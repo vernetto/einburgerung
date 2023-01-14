@@ -40,17 +40,30 @@ Es ist ratsam, zumindest [Mitglied einer Quartierverein](https://www.quartierver
 
 ### Prähistorie bis 1291
 
+Cro-Magnon-Menschen lebten schon in Jura-Gebirges 35000 v.Chr
+
 Am [Kesslerloch](https://de.wikipedia.org/wiki/Kesslerloch) (eine Höhle im Kanton Schaffhausen), vor 15'000 Jahren schon von Jägern bewohnt; sie gehörten vermutlich zur [Magdalénienkultur](https://de.wikipedia.org/wiki/Magdal%C3%A9nien).
 
 Dann **Pfahlbauersiedlung** im Neuenburgersee und Thurgau wurden entdeckt ( 4500 v.Chr. bis 800 v.Chr.)
 
 Die [Kelten](https://de.wikipedia.org/wiki/Kelten) haben die Schweiz kolonisiert, ein beispiel ist in [Latène](https://de.wikipedia.org/wiki/La_T%C3%A8ne_(Fundplatz)) (Kanton Neuenburg)
 
-Verschiedene Stamme haben das Schweizer Gebiet besiedelt: [Helvetier](https://de.wikipedia.org/wiki/Helvetier), Raetien, Seduner, Leponter, Insubrer 
+Verschiedene Keltische Stamme haben das Schweizer Gebiet besiedelt: [Helvetier](https://de.wikipedia.org/wiki/Helvetier) Mittelland, Raetier (Ostschweiz), Seduner (Wallis), Lepontier (Tessin), Insubrer 
 
-Die Römer mit Julius Caesar haben 52 v.Chr. [die Helvetien untergeworfen](https://de.wikipedia.org/wiki/Die_Schweiz_in_r%C3%B6mischer_Zeit) (Gallia est omnis divisa in partes tres: Belgae, Aquitani, Celtae)
+Die **Römer** mit Julius Caesar haben 52 v.Chr. [die Helvetien untergeworfen](https://de.wikipedia.org/wiki/Die_Schweiz_in_r%C3%B6mischer_Zeit) (Gallia est omnis divisa in partes tres: Belgae, Aquitani, Celtae)
 
-Nach der Untergang des Römischen Reiches am Jahr 400, verschiedene Völke wurden die Schweizer Gebiet herrschen: Burgunder https://de.wikipedia.org/wiki/Burgunden Alamannen https://de.wikipedia.org/wiki/Alamannen 746 Fränkischen Reiches https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich Burgunder und Habsburger https://de.wikipedia.org/wiki/Habsburg#/media/Datei:Habsburg_Map_1547.jpg Deutsche Adelgeschlechter https://de.wikipedia.org/wiki/Z%C3%A4hringer Zähringerstädte
+Nach der Untergang des Römischen Reiches am Jahr 400, verschiedene Völker wurden das Schweizer Gebiet herrschen: 
+[Burgunder](https://de.wikipedia.org/wiki/Burgunden)  [Alamannen](https://de.wikipedia.org/wiki/Alamannen) . 
+Im Jahr 746 n.Chr. fiel die Schweiz unter das [Fränkischea Reich](https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich),
+und später zwischen [Burgunder](https://de.wikipedia.org/wiki/Burgunden) und [Habsburger](https://de.wikipedia.org/wiki/Habsburg) aufgeteilt. 
+Manche Schweizer Städte - die **Zähringerstädte** - (Bern) wurden von Deutsche Adelgeschlechter [Zähringer](https://de.wikipedia.org/wiki/Z%C3%A4hringer) beherrscht-
+
+
+### 1291 bis 1789
+
+1291 Find der [Rütlischwur](https://de.wikipedia.org/wiki/R%C3%BCtlischwur) am Rütli statt (Kanton Uri), am Ufer der Vierwaldstättersees. Die 3 Kantonen 
+Uri, Schwyz und Unterwalden versprochen mutuelle Hilfe zu geben. Der Name der 3 Menschen war: Walter Fürst, Werner Stauffacher, Arnold von Melchtal
+
 
 
 
