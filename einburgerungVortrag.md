@@ -36,7 +36,7 @@ Ganz wichtig is zeigen, dass sie ein soziales Leben in der Schweiz haben. Haben 
 
 Es ist ratsam, zumindest [Mitglied einer Quartierverein](https://www.quartierverein.ch/) zu sein.
 
-## GESCHICHTE DER SCHWEIZ
+## [GESCHICHTE DER SCHWEIZ](https://de.wikipedia.org/wiki/Geschichte_der_Schweiz)
 
 ### Prähistorie bis 1291
 
@@ -76,16 +76,218 @@ Das [Weisses Buch von Sarnen](https://de.wikipedia.org/wiki/Weisses_Buch_von_Sar
 1291-1352 Ausdehnung der Urkantonen zu **[Acht Alte Orte](https://de.wikipedia.org/wiki/Acht_Alte_Orte)**  
 Uri (1291) Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
 
-#### [HABSBURGERKRIEGE](https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege) 1291–1474/1511
+1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Konflikt zwischen Bern einerseits und einer breiten Koalition von Westschweizer Adeligen. Bern hat gewonnen.
 
+#### HABSBURGERKRIEGE 1291–1474/1511
+
+[Habsburgerkriege]((https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege)) eine Reihe von bewaffneten Konflikten zwischen der entstehenden Schweizerischen Eidgenossenschaft 
+und dem Fürstengeschlecht der Habsburger, die mit der faktischen Unabhängigkeit der Eidgenossenschaft endeten.
+
+Die Konflikten 
 1315 [Schlacht am Morgarten](https://de.wikipedia.org/wiki/Schlacht_am_Morgarten) (Zug) zwischen den Eidgenossen und den Habsburgern
-
-1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Bern gegen Habsburg
 
 1386 [Schlacht bei Sempach](https://de.wikipedia.org/wiki/Schlacht_bei_Sempach)  Eidgenossenschaft und dem Herzogtum Österreich. 
 Ein Held [Arnold Winkelried](https://de.wikipedia.org/wiki/Arnold_Winkelried) lässt sich selbst aufspiessen, um die Eidgenossen zu schützen.
 
 1388 [Näfels](https://de.wikipedia.org/wiki/Schlacht_bei_N%C3%A4fels) (Glarus) (Habsburgern und die Eidgenossen. )
+
+1499 [Schwabenkrieg](https://de.wikipedia.org/wiki/Schwabenkrieg) (Engadiner Krieg) Habsburgs+Schwäbish gegen Eidgenossen 10 Orten. 
+
+1499 [Frieden zu Basel](https://de.wikipedia.org/wiki/Frieden_zu_Basel) endet den Konflikt. Als Konsequenz der Sieg der Eidgenossen:
+
+1481-1513 Audehnung der Bund vom 8 zu 13 Kantonen, [Dreizehn Alte Orte](https://de.wikipedia.org/wiki/Dreizehn_Alte_Orte) 
+genannt: Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appenzell (1513)
+
+#### ENDE HABSBURGERKRIEGE
+
+#### MAILÄNDERKRIEGE
+
+1403-1478 [Ennetbirgische Feldzüge](https://de.wikipedia.org/wiki/Ennetbirgische_Feldz%C3%BCge) - Expansion ins Tessin
+
+1490-1525 Mailänderkriege 1515 [Schlacht bei Marignano](https://de.wikipedia.org/wiki/Schlacht_bei_Marignano)
+
+#### ENDE MAILÄNDERKRIEGE
+
+1401 und 1429 [Appenzellerkrieg](https://de.wikipedia.org/wiki/Appenzellerkriege) (Appenzeller gegen St Gallen)
+
+
+1415 Eroberung des Aargaus
+
+1449-1450 [Alter Zürichkriege](https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg) Zürich mit Habsburger gegen Eidgenossen
+
+1468 [Waldshuterkrieg](https://de.wikipedia.org/wiki/Waldshuterkrieg)  (Waldshut, DE) Eidgenossenschaft gegen Habsburger
+
+
+1474-78 [Burgunderkriege](https://de.wikipedia.org/wiki/Burgunderkriege) 
+    [Murten](https://de.wikipedia.org/wiki/Schlacht_bei_Murten)
+    [Grandson](https://de.wikipedia.org/wiki/Schlacht_bei_Grandson) 
+
+1516-1756 [Habsburgisch-französischer Gegensatz](https://de.wikipedia.org/wiki/Habsburgisch-franz%C3%B6sischer_Gegensatz) 
+
+[Zugewandten Orte](https://de.wikipedia.org/wiki/Zugewandter_Ort): Territorien, die mit der Alten Eidgenossenschaft durch ein System von Verträgen verbunden waren: St Gallen, Wallis, Graubunden, Genf, Neuenburg, Thurgau
+
+[Untertanen Gebieten](https://de.wikipedia.org/wiki/Untertanengebiet), Gebiete die keine politische Selbstständigkeit besassen: Waadt, Aargau, Unterwallis, Tessin
+
+1481 [Stanser Verkommnis](https://de.wikipedia.org/wiki/Stanser_Verkommnis) ein Vetrag zwischen den 8 Alten Orte, um innere Konflikten zu vermeiden
+
+
+
+1516 [Ewige Friede mit Frankreich](https://de.wikipedia.org/wiki/Ewige_Richtung_mit_Frankreich) (13 Orte gegen Frankreich)
+
+1519 [Zwingli](https://de.wikipedia.org/wiki/Huldrych_Zwingli) Theologe und der erste Zürcher Reformator -> Reformierte Kirche
+
+1529 - 1531 [Erste](https://de.wikipedia.org/wiki/Erster_Kappelerkrieg) und [Zweite](https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg) Kappelerkriege (Kappel am Albis, ZH), 
+zwischen Zürich und den Innerschweizer Kantonen
+
+1536 Bern erobert Waadt ( [Guillaume Farel](https://de.wikipedia.org/wiki/Guillaume_Farel)  und [Pierre Viret](https://de.wikipedia.org/wiki/Pierre_Viret)  Reformatoren)
+
+1559 [Calvin](https://de.wikipedia.org/wiki/Johannes_Calvin)  -> Genf Protestant, [Hugenottes](https://de.wikipedia.org/wiki/Hugenotten)  (Französischen Protestanten)
+
+1618-1648 [30 Jährige Krieg](https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg)  [Bündner Wirren](https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren) : 
+    kriegerischen Auseinandersetzungen zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden im Rahmen des Dreissigjährigen Krieges) 
+    1648  [Westfälische Friede](https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede) -> Souveränität
+
+1653 [Schweizer Bauernkrieg](https://de.wikipedia.org/wiki/Schweizer_Bauernkrieg) Volksaufstand
+
+1656 [Erste Villmergerkriege](https://de.wikipedia.org/wiki/Villmergerkriege) (Villmergen in Aargau) zwei Kriege zwischen reformierten und katholischen Orten 
+    und 1712 zweite Villmergerkriege oder [Toggenburgerkrieg](https://de.wikipedia.org/wiki/Toggenburgerkrieg) 
+
+1685 Aufhebung von [Edikt von Nantes](https://de.wikipedia.org/wiki/Edikt_von_Nantes)  -> 60K Hugenotten vom FR in CH
+
+1712-1798 Absolutismus oder [Ancien Régime](https://de.wikipedia.org/wiki/Ancien_R%C3%A9gime) 
+
+1782 [Anna Göldi](https://de.wikipedia.org/wiki/Anna_G%C3%B6ldi) 
+
+[Aufklärung](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung) 
+
+Zürich = Athen an der Limmat, [Albrecht von Haller](https://de.wikipedia.org/wiki/Albrecht_von_Haller)  Arzt [Jean-Jacques_Rousseau](https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau) 
+
+1798 Napoleon, Helvetische Republik (Tochterrepublik), Vassallenstaat
+
+1803-1813 Schweizerische Eidgenossenschaft (Mediationszeit)
+
+1815 Wiener Kongress, Bewaffnete Neutralität, [Unabhängige Schweiz](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz)  Deutschland+England+Frankreich+Russland 1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+
+1814-1830 Restaurationszeit
+
+1815 Bundesvertrag
+
+1815 Tambora
+
+1830-47 [Regeneration](https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte)) 
+
+1845 [Sonderbund](https://de.wikipedia.org/wiki/Sonderbund) (Katolischen gegen Liberalen Kantonen) 
+
+1847 [Sonderbundskrieg](https://de.wikipedia.org/wiki/Sonderbundskrieg) (Nov 1847) 
+
+1847 Eisenbahnlinie, [Alfred Escher](https://de.wikipedia.org/wiki/Alfred_Escher), ETH, Credit Suisse
+
+1848 Bundesstaat, Bundesverfassung, Parlament und Regierung; Post
+
+1849-1859 [Guillaume Henri Dufour](https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour)  Kartograf, General
+
+1859 Ende des Reislaufens (Export von Schweizer Söldnern)
+
+1863 [IKRK Rote Kreuz](https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung) [Henry Dunant](https://de.wikipedia.org/wiki/Henry_Dunant), Genf  
+
+1864 Fabrikgesetz, Juden , Anarchisten
+
+1871 [Bourbaki-Armee](https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est)  ( Deutsch-Französischen Krieg von 1870/71 )
+
+1874 [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874) : 
+    Glaubens- und Gewissensfreiheit , Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe, fakultativen Referenden
+
+1891 Eisenbahnunfall Münchenstein. Volksinitiative
+
+1894 [IOK Internationales Olympisches Komitee](https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee) 
+
+1889 Russische Grippe (3000 Tote)
+
+1902 Begrundung der [SBB Schweizerische Bundesbahnen](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen)
+
+1917 Erste Weltkrieg, General ist [Ulrich Wille](https://de.wikipedia.org/wiki/Ulrich_Wille) : Grenzbesetzung , bewaffnete Neutralität 
+
+1918 Wegen des Krieges, grosse Armut - [Landesstreik](https://de.wikipedia.org/wiki/Landesstreik) 
+
+1919 Proportionalwahlrecht "Wahl unter einem Wahlsystem, bei dem die Sitze möglichst genau in dem Verhältnis zugeteilt werden, in dem abgestimmt wurde"
+
+1919 Spanische Grippe - Wirtschaftskrise
+
+1920 [Völkerbund](https://de.wikipedia.org/wiki/V%C3%B6lkerbund) (League of Nations)  in Genf
+
+1923 [Conradi Affäre](https://de.wikipedia.org/wiki/Conradi-Aff%C3%A4re) 
+
+1932 Unruhen von Genf. [Verdingkinder](https://de.wikipedia.org/wiki/Verdingung) 
+
+1934 Schweizer Bankgeheimnis
+
+1935 Nationalen Front (Fascisten)
+
+1938 [Konferenz von Evian](https://de.wikipedia.org/wiki/Konferenz_von_%C3%89vian) (Juden)  
+
+1938 Rätoromanische
+
+1940 General Mobilmachung -> https://de.wikipedia.org/wiki/Schweizer_R%C3%A9duit . [Unternehmen Tannenbaum](https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum) 
+
+1940 [Henri Guisan](https://de.wikipedia.org/wiki/Henri_Guisan)  Oberbefehlshaber der Schweizer Armee.
+
+1945 VN [Vereinte Nationen](https://de.wikipedia.org/wiki/Vereinte_Nationen)  in NY, Büro in Genf
+
+1948 WHO [Weltgesundheitsorganisation](https://de.wikipedia.org/wiki/Weltgesundheitsorganisation)  https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_geistiges_Eigentum https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Meteorologie https://de.wikipedia.org/wiki/Weltpostverein https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
+
+1948 AHV [Alters- und Hinterlassenenversicherung](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung) 
+
+1945 -> 1970 10x Wirtschaft
+
+1958 Trudy Späth (Frau Politiker)
+
+1960-74 EFTA Europäische Freihandelsassoziation, 
+OECD Organisation für wirtschaftliche Zusammenarbeit und Entwicklung, 
+Europarat, 
+Freihandel EG Europäischen Gemeinschaften, 
+OSZE Organisation für Sicherheit und Zusammenarbeit in Europa, 
+EMRK Europäische Menschenrechtskonvention
+
+1961 Mirage Affaire (870 M CH), Parlamentarische Untersuchung, Kommission PUK
+
+1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
+
+1970 Einwanderung
+
+1969 Palestinensischen Attentätern (Zürich, Kloten)
+
+1971 [Frauenstimm- und wahlrecht](https://de.wikipedia.org/wiki/Frauenstimmrecht_in_der_Schweiz) 
+
+1973 Ölpreisekrise
+
+1974 EMRK Europäische Menschenrechtskonvention
+
+1975 -7% Sturz BIP
+
+1979 Kanton Jura
+
+1981 [Gleichstellung von Frau und Mann](https://www.edi.admin.ch/edi/de/home/themen/gleichstellung/gleichstellung-von-frau-und-mann.html) 
+
+1984 Elisabeth Kopp (este Frau in den Bundesrat)
+
+1992 Weltbank und IWF
+
+1992 EWR Abstimmung (Europäischen Wirtschaftsraum)
+
+1996 trat das Gleichstellungsgesetz in Kraft "verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
+
+1996 Zweite Weltkrieg [Report Bergier](https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg) 
+
+1999 Bilaterale Verträge mit EU, [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999) : 
+    Stellung der Bundesversammlung gegenüber dem Bundesrat wesentlich gestärkt wurde
+
+2001 Zuger Attentat
+
+2002 UNO beitritt
+
+2014 Schweizer Bankgeheimnis aufgehoben
+
+
 
 
 
