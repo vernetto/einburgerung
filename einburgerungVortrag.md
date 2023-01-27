@@ -78,12 +78,13 @@ Uri (1291) Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Z�
 
 1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Konflikt zwischen Bern einerseits und einer breiten Koalition von Westschweizer Adeligen. Bern hat gewonnen.
 
-#### HABSBURGERKRIEGE 1291–1474/1511
+#### HABSBURGERKRIEGE 1291–1474 bis 1511
 
 [Habsburgerkriege]((https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege)) eine Reihe von bewaffneten Konflikten zwischen der entstehenden Schweizerischen Eidgenossenschaft 
 und dem Fürstengeschlecht der Habsburger, die mit der faktischen Unabhängigkeit der Eidgenossenschaft endeten.
 
-Die Konflikten 
+Die Konflikten sind:
+
 1315 [Schlacht am Morgarten](https://de.wikipedia.org/wiki/Schlacht_am_Morgarten) (Zug) zwischen den Eidgenossen und den Habsburgern
 
 1386 [Schlacht bei Sempach](https://de.wikipedia.org/wiki/Schlacht_bei_Sempach)  Eidgenossenschaft und dem Herzogtum Österreich. 
@@ -102,46 +103,63 @@ genannt: Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appen
 
 #### MAILÄNDERKRIEGE
 
-1403-1478 [Ennetbirgische Feldzüge](https://de.wikipedia.org/wiki/Ennetbirgische_Feldz%C3%BCge) - Expansion ins Tessin
+1403-1478 [Ennetbirgische Feldzüge](https://de.wikipedia.org/wiki/Ennetbirgische_Feldz%C3%BCge) - Expansion ins Tessin, 
+im Zuge der Ennetbirgischen Feldzüge eroberten die Eidgenossenschaft und ihre Verbündeten das Tessin, Veltlin und Chiavenna.
 
-1490-1525 Mailänderkriege 1515 [Schlacht bei Marignano](https://de.wikipedia.org/wiki/Schlacht_bei_Marignano)
+1490-1525 Mailänderkriege 1515 [Schlacht bei Marignano](https://de.wikipedia.org/wiki/Schlacht_bei_Marignano) zwischen den Eidgenossen und dem Königreich Frankreich 
+um das Herzogtum Mailand. Die Niederlage bei Marignano beendete die Expansionsbestrebungen der Eidgenossen und war eine der letzten grossen Schlachten, 
+an denen die alte Eidgenossenschaft beteiligt war
+
+1516 [Ewige Friede mit Frankreich](https://de.wikipedia.org/wiki/Ewige_Richtung_mit_Frankreich) zwischen dem Königreich Frankreich unter König Franz I.
+und den Dreizehn Alten Orten der Eidgenossenschaft mit ihren Zugewandten Orten, nach den  Schlacht von Marignano.
 
 #### ENDE MAILÄNDERKRIEGE
 
-1401 und 1429 [Appenzellerkrieg](https://de.wikipedia.org/wiki/Appenzellerkriege) (Appenzeller gegen St Gallen)
+1401 und 1429 [Appenzellerkrieg](https://de.wikipedia.org/wiki/Appenzellerkriege) waren eine Reihe kriegerischer Konflikte 
+zwischen dem Fürstabt von St. Gallen und den Gemeinden des Appenzellerlandes im ersten Drittel des 15. Jahrhunderts.
 
 
-1415 Eroberung des Aargaus
+1415 Eroberung des Aargaus: Bern Luzern und Zürich gegen die Habsburger: Belagerung von Baden
 
-1449-1450 [Alter Zürichkriege](https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg) Zürich mit Habsburger gegen Eidgenossen
+1449-1450 [Alter Zürichkriege](https://de.wikipedia.org/wiki/Alter_Z%C3%BCrichkrieg) : Zürich mit Habsburger gegen die restlichen VII-örtigen Eidgenossenschaft
 
-1468 [Waldshuterkrieg](https://de.wikipedia.org/wiki/Waldshuterkrieg)  (Waldshut, DE) Eidgenossenschaft gegen Habsburger
+1468 [Waldshuterkrieg](https://de.wikipedia.org/wiki/Waldshuterkrieg)  (Waldshut, Deutschland) : acht Orten der alten Eidgenossenschaf gegen Habsburger
 
-
-1474-78 [Burgunderkriege](https://de.wikipedia.org/wiki/Burgunderkriege) 
-    [Murten](https://de.wikipedia.org/wiki/Schlacht_bei_Murten)
-    [Grandson](https://de.wikipedia.org/wiki/Schlacht_bei_Grandson) 
+1474-78 [Burgunderkriege](https://de.wikipedia.org/wiki/Burgunderkriege)  Herzogtum Burgund gegen Eidgenossenschaft, die grösste Schlachten waren 
+[Murten](https://de.wikipedia.org/wiki/Schlacht_bei_Murten) die steht symbolisch für die zunehmende Schlagkraft der Eidgenossenschaft in ihren Anfangsjahren, und 
+[Grandson](https://de.wikipedia.org/wiki/Schlacht_bei_Grandson) : die Eidgenossen konnten die Burgunder in panikartige Flucht versetzen und machten in deren zurückgelassenem Lager reiche Beute
 
 1516-1756 [Habsburgisch-französischer Gegensatz](https://de.wikipedia.org/wiki/Habsburgisch-franz%C3%B6sischer_Gegensatz) 
+Konflikt zwischen dem Haus Habsburg und dem Königreich Frankreich um die Vorherrschaft in Europa. Die Entstehung der Schweiz vollzieht sich im Rahmen dieser Konfrontation.
 
-[Zugewandten Orte](https://de.wikipedia.org/wiki/Zugewandter_Ort): Territorien, die mit der Alten Eidgenossenschaft durch ein System von Verträgen verbunden waren: St Gallen, Wallis, Graubunden, Genf, Neuenburg, Thurgau
-
+Die Alte Eidgenossenschaft war ein äusserst heterogenes Gebilde. 
+Ausser der Tagsatzung besass sie keine zentralen Institutionen; 
+sie bestand vielmehr aus einem komplexen Geflecht von bi- und multilateralen Bündnissen und Herrschaftsverhältnissen.
+[Zugewandten Orte](https://de.wikipedia.org/wiki/Zugewandter_Ort): Territorien, die mit der Alten Eidgenossenschaft durch ein System von Verträgen verbunden waren:
+St Gallen, Wallis, Graubunden, Genf, Neuenburg, Thurgau
 [Untertanen Gebieten](https://de.wikipedia.org/wiki/Untertanengebiet), Gebiete die keine politische Selbstständigkeit besassen: Waadt, Aargau, Unterwallis, Tessin
 
-1481 [Stanser Verkommnis](https://de.wikipedia.org/wiki/Stanser_Verkommnis) ein Vetrag zwischen den 8 Alten Orte, um innere Konflikten zu vermeiden
+1481 [Stanser Verkommnis](https://de.wikipedia.org/wiki/Stanser_Verkommnis) ein Vertrag zwischen den 8 Alten Orte, um innere Konflikten zu vermeiden
 
-
-
-1516 [Ewige Friede mit Frankreich](https://de.wikipedia.org/wiki/Ewige_Richtung_mit_Frankreich) (13 Orte gegen Frankreich)
-
-1519 [Zwingli](https://de.wikipedia.org/wiki/Huldrych_Zwingli) Theologe und der erste Zürcher Reformator -> Reformierte Kirche
+1519 [Zwingli](https://de.wikipedia.org/wiki/Huldrych_Zwingli) Theologe und der erste Zürcher Reformator -> Reformierte Kirche. 
+Seine Theologie wurde von Johannes Calvin weitergetragen. Er war Theologe und predigte am Grossmünster in Zürich. 
+Zusammen mit einem anderen Mann übersetzte er die Bibel ins Deutsche und ließ sie drucken. 
+In vielen wichtigen Fragen war sich Zwingli mit dem deutschen Reformator Martin Luther einig.
 
 1529 - 1531 [Erste](https://de.wikipedia.org/wiki/Erster_Kappelerkrieg) und [Zweite](https://de.wikipedia.org/wiki/Zweiter_Kappelerkrieg) Kappelerkriege (Kappel am Albis, ZH), 
-zwischen Zürich und den Innerschweizer Kantonen
+zwischen Zürich und den Innerschweizer Kantonen.
 
-1536 Bern erobert Waadt ( [Guillaume Farel](https://de.wikipedia.org/wiki/Guillaume_Farel)  und [Pierre Viret](https://de.wikipedia.org/wiki/Pierre_Viret)  Reformatoren)
+1536 [Bern erobert Waadt](https://blog.nationalmuseum.ch/2019/04/eroberung-der-waadt/) (
+Unter Berns Schutz führten [Guillaume Farel](https://de.wikipedia.org/wiki/Guillaume_Farel) und [Pierre Viret](https://de.wikipedia.org/wiki/Pierre_Viret)  Reformatoren) ab 1526 die Reformation in der Waadt ein)  
+Während der bernischen Herrschaft erlebte die Waadt eine relativ friedliche Zeit; 
+eine Ausnahme bildet ein Aufstand unter [Major Davel](https://de.wikipedia.org/wiki/Major_Davel), 
+der von den Bernern am 24. April 1723 als Aufrührer hingerichtet wurde und in der Waadt als Volksheld gilt.
 
-1559 [Calvin](https://de.wikipedia.org/wiki/Johannes_Calvin)  -> Genf Protestant, [Hugenottes](https://de.wikipedia.org/wiki/Hugenotten)  (Französischen Protestanten)
+1559 [Calvin](https://de.wikipedia.org/wiki/Johannes_Calvin) - in Frankreich geboren in Genf gestorben - 
+war einer der einflussreichsten systematischen Theologen unter den Reformatoren des 16. Jahrhunderts. Er arbeitete mit Guillaume Farel.
+-> Genf wurde Protestant,  dir französischen Protestanten sinde [Hugenottes](https://de.wikipedia.org/wiki/Hugenotten#Hugenotten_in_der_Schweiz) genannt.
+Bis zum Edikt von Versailles 1787 wurden die Hugenotten in Frankreich verfolgt.
+150.000 oder mehr Hugenotten durchquerten die Schweiz auf dem Weg nach Deutschland und in andere Exilländer Europas.
 
 1618-1648 [30 Jährige Krieg](https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg)  [Bündner Wirren](https://de.wikipedia.org/wiki/B%C3%BCndner_Wirren) : 
     kriegerischen Auseinandersetzungen zwischen den Koalitionen Frankreich-Venedig und Spanien-Österreich um den heutigen Kanton Graubünden im Rahmen des Dreissigjährigen Krieges) 
