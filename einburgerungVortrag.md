@@ -353,42 +353,63 @@ Vor allem in der unmittelbaren Nachkriegszeit war die unzerstörte Schweiz wirts
 Wirtschaftlich erlebte die Schweiz nach 1945 eine noch nie gesehene Hochkonjunktur, die bis in die 1970er Jahre anhielt. 
 In dieser Zeit wurden die Exporte nahezu verzehnfacht.
 
-1958 Trudy Späth (Frau Politiker)
+1958 [Trudy Späth](https://de.wikipedia.org/wiki/Gertrud_Sp%C3%A4th-Schweizer) Frau Politiker, die erste Schweizerin, die in eine politische Behörde gewählt wurde.
 
-1960-74 EFTA Europäische Freihandelsassoziation, 
-OECD Organisation für wirtschaftliche Zusammenarbeit und Entwicklung, 
-Europarat, 
-Freihandel EG Europäischen Gemeinschaften, 
+1960-74 EFTA [Europäische Freihandelsassoziation](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Freihandelsassoziation)  Sitz in Genf,
+Ziel war die Förderung von Wachstum und Wohlstand ihrer Mitgliedstaaten und die Vertiefung des Handels und der wirtschaftlichen Zusammenarbeit zwischen den westeuropäischen Ländern wie auch der Welt insgesamt.
+
+Weitere wichtige Organisationen sind: 
+OECD Organisation für wirtschaftliche Zusammenarbeit und Entwicklung, Europarat, Freihandel EG Europäischen Gemeinschaften, 
 OSZE Organisation für Sicherheit und Zusammenarbeit in Europa, 
 EMRK Europäische Menschenrechtskonvention
 
-1961 Mirage Affaire (870 M CH), Parlamentarische Untersuchung, Kommission PUK
+1961 [Mirage Affäre](https://de.wikipedia.org/wiki/Mirage-Aff%C3%A4re) 
+Kostenüberschreitungen bei einer Kampfflugzeugbeschaffung für die Schweizer Luftwaffe, 870 Millionen Franken 
+Parlamentarische Untersuchung, Kommission PUK
 
-1968 68-U Bewegung. GSOA Grupper für eine Schweiz ohne Armee
+1968 [68er Bewegung](https://de.wikipedia.org/wiki/68er-Bewegung#%C3%96sterreich_und_Schweiz). GSOA Grupper für eine Schweiz ohne Armee
 
-1970 Einwanderung
+1970 [Einwanderung](https://www.swissinfo.ch/ger/politik/bevoelkerungsentwicklung_einwanderungsland-schweiz/42941804). 
+Die Schweiz gehört zu den Ländern mit den höchsten Anteilen an ausländischen Personen im Land. 
+Der Grossteil dieser Menschen stammt aus europäischen Ländern.
 
-1969 Palestinensischen Attentätern (Zürich, Kloten)
+1969 [Palästinensischen Attentätern Zürich, Kloten](https://de.wikipedia.org/wiki/Attentat_in_Kloten)
+Beim Attentat in Kloten wurde am Flughafen Zürich ein El-Al-Flugzeug von vier Fatah-Attentätern beschossen, 
+wobei der Copilot und ein Attentäter starben. Das Attentat lässt sich in die Terroranschläge der PLO durch die PFLP einreihen.
 
-1971 [Frauenstimm- und wahlrecht](https://de.wikipedia.org/wiki/Frauenstimmrecht_in_der_Schweiz) 
+1971 [Frauenstimm- und wahlrecht](https://de.wikipedia.org/wiki/Frauenstimmrecht_in_der_Schweiz)
+auf Bundesebene wurde durch eine eidgenössische Volksabstimmung allein des männlichen Teils der Bevölkerung am 7. Februar 1971 eingeführt.
+Die Schweiz war somit eines der letzten europäischen Länder, welches seiner weiblichen Bevölkerung die vollen Bürgerrechte zugestand.
 
-1973 Ölpreisekrise
+1973 [Ölpreiskrise](https://www.swissinfo.ch/ger/kultur/energiekrise_wie-ging-die-schweiz-mit-der-oelkrise-1973-um--/47920866)
+Im Oktober 1973 nun drohten zudem die arabischen Staaten innerhalb der OPEC, das Erdölangebot deutlich und stetig zu reduzieren. 
+Dies war eine Reaktion auf den Jom-Kippur-Krieg.
+In der Schweiz reagierten Bundesrat und Parlament darauf, indem sie begannen, die Energiepolitik komplett neu auszurichten.
 
-1974 EMRK Europäische Menschenrechtskonvention
+1975 Wirtschaftskrise, -7% Sturz BIP
 
-1975 -7% Sturz BIP
+1979 Schaffung des Kantons Jura, Bis 1979 gehörte das Gebiet des Kantons Jura zum Kanton Bern.  
+Am 24. September 1978 ratifizierten das Schweizer Volk (82,3 Prozent Ja) und alle Stände die Schaffung des Kantons Jura.
 
-1979 Kanton Jura
+1981 [Gleichstellung von Frau und Mann](https://www.edi.admin.ch/edi/de/home/themen/gleichstellung/gleichstellung-von-frau-und-mann.html)
+In der Schweiz ist die Gleichstellung der Geschlechter seit 1981 in der Bundesverfassung verankert. 
+Der Gleichstellungsartikel verpflichtet den Gesetzgeber, für rechtliche und tatsächliche Gleichstellung zu sorgen, 
+und enthält ein direkt durchsetzbares Individualrecht auf gleichen Lohn für gleiche oder gleichwertige Arbeit.
 
-1981 [Gleichstellung von Frau und Mann](https://www.edi.admin.ch/edi/de/home/themen/gleichstellung/gleichstellung-von-frau-und-mann.html) 
+1984 [Elisabeth Kopp](https://de.wikipedia.org/wiki/Elisabeth_Kopp) Sie war, als erste Frau der Schweiz, 
+von 1984 bis 1989 Mitglied der Landesregierung (Bundesrat) und wurde 1988 zur Vizepräsidentin des Bundesrates gewählt.
 
-1984 Elisabeth Kopp (este Frau in den Bundesrat)
+1992 Die Schweiz trat der [Weltbank](https://de.wikipedia.org/wiki/Weltbank) und der [IWF](https://de.wikipedia.org/wiki/Internationaler_W%C3%A4hrungsfonds). bei. 
+Die Weltbank-Gruppe Finanzierungsinstrumente für langfristige Entwicklungs- und Aufbauprojekte im Bereich der Realwirtschaft bereitstellt.
+Der IWF stellt  für Länder, die – oft aufgrund von Zahlungsbilanzschwierigkeiten – Bedarf an Fremdwährung haben, Brückenfinanzierung bereit. 
+Die Tätigkeit des IWF ist daher eher auf den Bereich der Finanzwirtschaft als auf die Finanzierung der Realwirtschaft gerichtet.
 
-1992 Weltbank und IWF
+1992 [Eidgenössische Abstimmung über den Europäischen Wirtschaftsraum (EWR)](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssische_Abstimmung_%C3%BCber_den_Europ%C3%A4ischen_Wirtschaftsraum)
+Es war eine schweizerische Referendumsabstimmung über die Ratifizierung des EWR-Abkommen von 1992. 
+Das Stimmvolk entschied sich am 6. Dezember 1992 mit einem Nein-Anteil von 50,3 % knapp gegen die Vorlage.
 
-1992 EWR Abstimmung (Europäischen Wirtschaftsraum)
-
-1996 trat das Gleichstellungsgesetz in Kraft "verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
+1996 trat das [Gleichstellungsgesetz](https://www.ebg.admin.ch/ebg/de/home/themen/recht/das-gleichstellungsgesetz.html) (GIG) in Kraft, ein wichtiges Instrument zur Förderung der tatsächlichen Gleichstellung von Frau und Mann,
+"verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
 
 1996 Zweite Weltkrieg [Report Bergier](https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg) 
 
