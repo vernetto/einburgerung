@@ -186,33 +186,52 @@ Alten Eidgenossenschaft errichtete Tochterrepublik, die am 12. April 1798 ausger
 1803-1813 Mediationszeit: Als Mediationsakte wird das Dokument bezeichnet, das die verfassungsrechtliche Grundlage der Schweizerischen Eidgenossenschaft 
 und ihrer Kantone zwischen 1803 und 1813 bildete.
 
-1815 Wiener Kongress, Bewaffnete Neutralität, [Unabhängige Schweiz](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz)  Deutschland+England+Frankreich+Russland 1815 Zweiter Pariser Frieden: Immerwährende bewaffnete Neutralität
+1815 Nach dem Sturz von Napoleon, die moderne [dauernde Neutralität der Schweiz](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz) 
+geht auf den Wiener Kongress von 1814/1815 zurück. Deutschland England Frankreich Russland entschieden die Unabhängigkeit der Schweiz. 
+1815 [Zweiter Pariser Frieden](https://de.wikipedia.org/wiki/Zweiter_Pariser_Frieden): gewährten die Großmächte der Schweiz letztlich die immerwährende bewaffnete Neutralität und die Unverletzlichkeit ihres Gebietes. 
+Die Schweiz erhielt durch den Zweiten Pariser Frieden sechs Gemeinden mit denen die Stadt Genf eine Landverbindung mit dem Rest der Schweiz erlangte
 
-1814-1830 Restaurationszeit
+1814-1830 [Restaurationszeit](https://de.wikipedia.org/wiki/Restauration_(Frankreich))  Wiederherstellung der Bourbonenmonarchie 
+zwischen dem Ende des Ersten Französischen Kaiserreichs und der Julirevolution von 1830.
 
-1815 Bundesvertrag
+1815 [Bundesvertrag](https://de.wikipedia.org/wiki/Bundesvertrag) Der Bundesvertrag stellte die völkerrechtliche Rechtsgrundlage der Schweizerischen Eidgenossenschaft von 1815 dar.
+Es definierte einen Staatenbund zwischen 22 unabhängigen Kantonen.
 
-1815 Tambora
+1815 [Tambora](https://de.wikipedia.org/wiki/Tambora) Eruption, In Teilen der nördlichen Hemisphäre kam es durch Missernten und eine erhöhte Sterblichkeit 
+unter Nutztieren zur schlimmsten Hungersnot des 19. Jahrhunderts. Armut in der Schweiz, Auswanderung nach USA.
 
-1830-47 [Regeneration](https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte)) 
+1830-47 [Regeneration](https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte))  ist die Zeit zwischen dem Ende der Restauration und dem Ende des Sonderbundskriegs,
+einer Reihe von konservativen Gegenbewegungen.
 
-1845 [Sonderbund](https://de.wikipedia.org/wiki/Sonderbund) (Katolischen gegen Liberalen Kantonen) 
+1845 [Sonderbund](https://de.wikipedia.org/wiki/Sonderbund) Verteidigungsbündnis der sieben katholischen Schweizer Kantone Luzern, Uri, Schwyz, Unterwalden, Zug, Freiburg und Wallis 
 
-1847 [Sonderbundskrieg](https://de.wikipedia.org/wiki/Sonderbundskrieg) (Nov 1847) 
+1847 [Sonderbundskrieg](https://de.wikipedia.org/wiki/Sonderbundskrieg) war ein Bürgerkrieg in der Schweiz, die konservativ regierten katholischen Kantone
+und die liberalen, mehrheitlich reformierten Kantone.
 
-1847 Eisenbahnlinie, [Alfred Escher](https://de.wikipedia.org/wiki/Alfred_Escher), ETH, Credit Suisse
+1847 [Alfred Escher](https://de.wikipedia.org/wiki/Alfred_Escher),  Schweizer Politiker, Wirtschaftsführer und Eisenbahnunternehmer.
+Während seiner Zeit wurde die [ETH](https://de.wikipedia.org/wiki/ETH_Z%C3%BCrich) 1855 gegründet, Credit Suisse, Eisenbahnlinie und Gotthardbahn.
 
-1848 Bundesstaat, Bundesverfassung, Parlament und Regierung; Post
+1848 ende der Sonderbundskrieg, neue Bundesverfassung die den Grundstein für den Bundesstaat legte, und en bisherigen Staatenbund der Kantone ablöste.
+Parlament und Regierung; 1949 ist die Schweizerische Post gegründet worden.
 
-1849-1859 [Guillaume Henri Dufour](https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour)  Kartograf, General
+1849-1859 [Guillaume Henri Dufour](https://de.wikipedia.org/wiki/Guillaume_Henri_Dufour)  General, Ingenieur, Kartograf, Politiker und Humanist.
+Erste General in der Geschichte der Armee des Schweizer Bundesstaats. Er erstellt die erste detaillierte topographische Karte der Schweiz, der Dufourkarte.
+Einer der Gründer des Internationalen Komitees vom Roten Kreuz, zusammen mit Henry Dunant. Der höchste Gipfel der Schweiz wurde nach ihm benannt, die Dufourspitze.
 
 1859 Ende des Reislaufens (Export von Schweizer Söldnern)
 
-1863 [IKRK Rote Kreuz](https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung) [Henry Dunant](https://de.wikipedia.org/wiki/Henry_Dunant), Genf  
+1863 [IKRK Rote Kreuz](https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung) ist von Henri Dunant in Genf gegrundet worden. 
+Mission der Bewegung – unabhängig von staatlichen Institutionen und auf der Basis freiwilliger Hilfe – sind der Schutz des Lebens, 
+der Gesundheit und der Würde sowie die Verminderung des Leids von Menschen in Not ohne Ansehen von Nationalität und Abstammung oder religiösen, weltanschaulichen oder politischen Ansichten der Betroffenen und Hilfeleistenden.
+[Henry Dunant](https://de.wikipedia.org/wiki/Henry_Dunant), in Genf geboren, Geschäftsmann, Während einer Geschäftsreise wurde er im Juni 1859 
+in der Nähe der italienischen Stadt Solferino Zeuge der erschreckenden Zustände unter den Verwundeten nach einer Schlacht.
 
-1864 Fabrikgesetz, Juden , Anarchisten
+1864 [Fabrikgesetz](https://de.wikipedia.org/wiki/Fabrikgesetz#Entwicklung_in_der_Schweiz) Verbot der Beschäftigung von Kindern unter 12 Jahren, 
+Verbot der Sonntagsarbeit, Begrenzung des Normalarbeitstags auf 12 Stunden
 
-1871 [Bourbaki-Armee](https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est)  ( Deutsch-Französischen Krieg von 1870/71 )
+1871 [Bourbaki-Armee](https://de.wikipedia.org/wiki/Arm%C3%A9e_de_l%E2%80%99Est) eine französische Armee im Deutsch-Französischen Krieg von 1870/71,
+die Armee wurde von deutschen Truppen eingekesselt. Der neue Kommandeur Justin Clinchant bat am 28. Januar 1871 in der Schweiz um Internierung seiner 87.000 Mann Truppe.
+87.000 Soldaten die untergebracht, verpflegt, medizinisch betreut und bewacht werden mussten. Die Internierten wurden auf 190 Ortschaften in allen Kantonen.
 
 1874 [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874) : 
     Glaubens- und Gewissensfreiheit , Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe, fakultativen Referenden
