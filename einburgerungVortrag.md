@@ -234,15 +234,24 @@ die Armee wurde von deutschen Truppen eingekesselt. Der neue Kommandeur Justin C
 87.000 Soldaten die untergebracht, verpflegt, medizinisch betreut und bewacht werden mussten. Die Internierten wurden auf 190 Ortschaften in allen Kantonen.
 
 1874 [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1874) : 
-    Glaubens- und Gewissensfreiheit , Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe, fakultativen Referenden
+    Glaubens- und Gewissensfreiheit, Erweiterung der Gesetzgebungskompetenz des Bundes, Niederlassungsfreiheit , Abschaffung von Todesstrafe, fakultativen Referenden
 
-1891 Eisenbahnunfall Münchenstein. Volksinitiative
+1891 [Eisenbahnunfall Münchenstein](https://de.wikipedia.org/wiki/Eisenbahnunfall_von_M%C3%BCnchenstein) grösste Eisenbahnkatastrophe der Schweiz.
+Bei Basel starben 73 Passagiere.
 
-1894 [IOK Internationales Olympisches Komitee](https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee) 
+1891 [Volksinitiative](https://de.wikipedia.org/wiki/Volksinitiative_(Schweiz))
+Seit 1891 können sich Schweizer - und seit 1971 auch Schweizerinnen - per Volksinitiative direkt in den verfassungsgebenden Prozess ihres Landes einbringen.
+Mit dem Instrument der Volksinitiative entscheidet der Souverän über die Aufnahme einer neuen Bestimmung in die Verfassung.
 
-1889 Russische Grippe (3000 Tote)
+1894 [IOK Internationales Olympisches Komitee](https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee)
+nichtstaatliche Organisation mit Sitz im schweizerischen Lausanne. 
+Zweck des Komitees, ist die Organisation und Betreuung im Sinne der Olympischen Spiele der Neuzeit.
+
+1889 [Russische Grippe](https://de.wikipedia.org/wiki/Russische_Grippe_(1889%E2%80%931895)) (3000 Tote in der Schweiz, 1 Million weltweit)
 
 1902 Begrundung der [SBB Schweizerische Bundesbahnen](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen)
+In der Schweiz waren im 19. Jahrhundert noch alle Bahnen im Besitz privatrechtlicher Gesellschaften.
+An der Volksabstimmung vom 20. Februar 1898 wurde vom Souverän die Verstaatlichung der fünf grossen Gesellschaften gutgeheissen.
 
 1917 Erste Weltkrieg, General ist [Ulrich Wille](https://de.wikipedia.org/wiki/Ulrich_Wille) : Grenzbesetzung , bewaffnete Neutralität 
 
