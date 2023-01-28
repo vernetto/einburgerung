@@ -411,16 +411,25 @@ Das Stimmvolk entschied sich am 6. Dezember 1992 mit einem Nein-Anteil von 50,3 
 1996 trat das [Gleichstellungsgesetz](https://www.ebg.admin.ch/ebg/de/home/themen/recht/das-gleichstellungsgesetz.html) (GIG) in Kraft, ein wichtiges Instrument zur Förderung der tatsächlichen Gleichstellung von Frau und Mann,
 "verbietet direkte wie indirekte Diskriminierungen in allen Arbeitsverhältnissen und soll die Chancengleichheit im Erwerbsleben sicherstellen"
 
-1996 Zweite Weltkrieg [Report Bergier](https://de.wikipedia.org/wiki/Unabh%C3%A4ngige_Expertenkommission_Schweiz_%E2%80%93_Zweiter_Weltkrieg) 
+1996 [Report Bergier](https://www.swissinfo.ch/ger/die-bergier-kommission--mitglieder--auftrag--finanzen-und-bisherige-arbeit/1387594)
+Es hatte den Auftrag im Rahmen des Verfahrens um jüdische Vermögen bei Schweizer Banken den Verbleib von während des Zweiten Weltkriegs in die Schweiz 
+transferierten Vermögenswerten zu untersuchen.
 
-1999 Bilaterale Verträge mit EU, [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999) : 
-    Stellung der Bundesversammlung gegenüber dem Bundesrat wesentlich gestärkt wurde
+1999 [Totalrevision Bundesverfassung](https://de.wikipedia.org/wiki/Totalrevision_der_Schweizer_Bundesverfassung_1999) :
+Die Volksabstimmung endet mit Zustimmung von Volk und Ständen. Wichtige Änderungen: Stellung der Bundesversammlung gegenüber dem Bundesrat wesentlich gestärkt wurde
 
-2001 Zuger Attentat
+[Bilaterale Abkommen I](https://de.wikipedia.org/wiki/Bilaterale_Vertr%C3%A4ge_zwischen_der_Schweiz_und_der_Europ%C3%A4ischen_Union) 
+Die bilateralen Verträge zwischen der Schweiz und der Europäischen Union (umgangssprachlich Bilaterale) wurden in Kraft gesetzt, 
+um die Beziehungen zwischen der Schweiz und den Mitgliedern der Europäischen Union (EU) auf politischer, wirtschaftlicher und auch kultureller Ebene zu regeln.
 
-2002 UNO beitritt
 
-2014 Schweizer Bankgeheimnis aufgehoben
+2001 [Zuger Attentat](https://de.wikipedia.org/wiki/Zuger_Attentat) 27. September 2001: 14 Politiker wurden vom Attentäter Friedrich Leibacher erschossen, 
+der sich kurz darauf selbst das Leben nahm. 
+
+2002 [UNO beitritt](https://de.wikipedia.org/wiki/Die_Schweiz_in_den_Vereinten_Nationen): 
+Nachdem das Schweizer Stimmvolk im Jahr 1986 den UNO-Beitritt ursprünglich abgelehnt hatte, stimmte eine Mehrheit im März 2002 dafür.
+
+2014 Schweizer Bankgeheimnis wurde aufgehoben
 
 
 
