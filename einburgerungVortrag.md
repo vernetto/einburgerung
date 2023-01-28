@@ -253,39 +253,105 @@ Zweck des Komitees, ist die Organisation und Betreuung im Sinne der Olympischen 
 In der Schweiz waren im 19. Jahrhundert noch alle Bahnen im Besitz privatrechtlicher Gesellschaften.
 An der Volksabstimmung vom 20. Februar 1898 wurde vom Souverän die Verstaatlichung der fünf grossen Gesellschaften gutgeheissen.
 
-1917 Erste Weltkrieg, General ist [Ulrich Wille](https://de.wikipedia.org/wiki/Ulrich_Wille) : Grenzbesetzung , bewaffnete Neutralität 
+Der Beginn des Jahrhunderts war geprägt von einem rasanten wirtschaftlichen Wachstum. Federführend war die Textilindustrie (Stoffe und Kleider).
 
-1918 Wegen des Krieges, grosse Armut - [Landesstreik](https://de.wikipedia.org/wiki/Landesstreik) 
+1917 [Erste Weltkrieg](https://www.myswitzerland.com/de-ch/planung/ueber-die-schweiz/geschichte-der-schweiz/der-erste-weltkrieg/), 
+General ist [Ulrich Wille](https://de.wikipedia.org/wiki/Ulrich_Wille) : Grenzbesetzung, bewaffnete Neutralität
+
+Während des Kriegs mussten die Männer zum Schutz der Grenzen Militärdienst leisten.
+Die Abhängigkeit von importierter Kohle führte während und nach dem Krieg zu einem Ausbau der Elektrizitätserzeugung aus einheimischer Wasserkraft.
+Das soziale Klima verschlechterte sich während des Krieges.
+
+1918 Wegen des Krieges, grosse Armut - 
+[Landesstreik](https://de.wikipedia.org/wiki/Landesstreik) Generalstreik in der Schweiz, der vom 12. bis zum 14. November 1918 dauerte.
+Drei Personen wurden im Zuge des Streiks durch Ordnungstruppen getötet.
+Der Landesstreik gilt als wichtigste gesellschaftspolitische Auseinandersetzung der schweizerischen Zeitgeschichte.
 
 1919 Proportionalwahlrecht "Wahl unter einem Wahlsystem, bei dem die Sitze möglichst genau in dem Verhältnis zugeteilt werden, in dem abgestimmt wurde"
 
-1919 Spanische Grippe - Wirtschaftskrise
+1919 [Spanische Grippe](https://www.swissinfo.ch/ger/gesellschaft/toedliche-krankheit_als-die-spanische-grippe-die-schweiz-heimsuchte/44444096) -
+Die Pandemie der Spanischen Grippe 1918-1919 war eine der schlimmsten Katastrophen in der Schweizer Geschichte. 
+Rund 25'000 Menschen starben, die Hälfte der Bevölkerung hatte sich infiziert. Die tödlichste Welle wurde im Oktober 1918 verzeichnet.
+Eine Wirtschaftskrise folgte.
 
-1920 [Völkerbund](https://de.wikipedia.org/wiki/V%C3%B6lkerbund) (League of Nations)  in Genf
+1920 [Völkerbund](https://de.wikipedia.org/wiki/V%C3%B6lkerbund) (League of Nations)   zwischenstaatliche Organisation mit Sitz in Genf. 
+Sein Ziel, den Frieden durch schiedsgerichtliche Beilegung internationaler Konflikte, internationale Abrüstung und Rüstungskontrolle 
+und ein System der kollektiven Sicherheit dauerhaft zu sichern.
 
-1923 [Conradi Affäre](https://de.wikipedia.org/wiki/Conradi-Aff%C3%A4re) 
+1923 [Conradi Affäre](https://de.wikipedia.org/wiki/Conradi-Aff%C3%A4re)
+erschoss der Moritz Conradi im Hotel Cécil in Lausanne den sowjetischen Diplomaten Wazlaw Worowski.
+Der Mordanschlag war ein Racheakt als Folge der Entrechtung der Familie.
+Verschlechterten sich die Beziehungen der Schweiz zur Sowjetunion weiter.
 
-1932 Unruhen von Genf. [Verdingkinder](https://de.wikipedia.org/wiki/Verdingung) 
+1932 [Unruhen von Genf](https://de.wikipedia.org/wiki/Unruhen_von_Genf_1932).
+ereigneten sich als Rekruten der Schweizer Armee Demonstranten bei einer antifaschistischen Kundgebung in Genf erschossen und schwer verletzten.
 
-1934 Schweizer Bankgeheimnis
+[Verdingkinder](https://de.wikipedia.org/wiki/Verdingung)
+Oft wurden die faktisch vollkommen rechtlosen Kinder in die Landwirtschaft vermittelt, wo sie als günstige Arbeitskraft ausgenutzt, 
+meist aber auch seelisch und körperlich misshandelt und oft auch sexuell missbraucht wurden.
 
-1935 Nationalen Front (Fascisten)
+1934 [Schweizer Bankgeheimnis](https://de.wikipedia.org/wiki/Schweizer_Bankgeheimnis)
+gesetzliche Verpflichtung der Kreditinstitute, die ökonomische Privatsphäre ihrer Kunden gegenüber Dritten zu bewahren und sicherzustellen
+2014 grösstenteils aufgehoben wurde
+
+1935 [Nationale Front](https://de.wikipedia.org/wiki/Nationale_Front_(Schweiz)) Beeinflusst von faschistischen Ideen, 
+die im Nachbarland Italien 1922 bereits an die Macht gekommen waren und die in dieser Zeit in ganz Europa aufblühten.
 
 1938 [Konferenz von Evian](https://de.wikipedia.org/wiki/Konferenz_von_%C3%89vian) (Juden)  
+Auf der Konferenz von Évian, die auf Initiative des US-Präsidenten Franklin D. Roosevelt zusammenkam, 
+berieten die Vertreter von 32 Staaten und 71 Hilfsorganisationen, über die aufgrund nationalsozialistischer Unterdrückung rapide ansteigenden Flüchtlingszahlen 
+von Juden aus Deutschland und Österreich.
+Die Konferenz endete weitgehend ergebnislos, da sich außer der Dominikanischen Republik alle Teilnehmerstaaten weigerten, mehr jüdische Flüchtlinge aufzunehmen.
 
-1938 Rätoromanische
 
-1940 General Mobilmachung -> https://de.wikipedia.org/wiki/Schweizer_R%C3%A9duit . [Unternehmen Tannenbaum](https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum) 
+1938 [Rätoromanisch](https://hls-dhs-dss.ch/de/articles/024594/2012-06-19/)  neben Deutsch, Französisch und Italienisch zur vierten Landessprache der Schweiz geworden
+Im dreisprachigen Kanton Graubünden wurde Rätoromanisch durch die Verfassungen von 1880 und 1892 offizielle Sprache des Kantons.
+
+[Schweiz im Zweiten Weltkrieg](https://de.wikipedia.org/wiki/Schweiz_im_Zweiten_Weltkrieg)
+Die Schweiz wurde während des Zweiten Weltkrieges nicht durch eine Invasion in Mitleidenschaft gezogen. 
+Wirtschaft, Gesellschaft und Zeitgeschehen waren jedoch stark vom Krieg betroffen, insbesondere dadurch, 
+dass die Schweiz zeitweise vollständig von den Achsenmächten umschlossen war.
+1940 General Mobilmachung -> https://de.wikipedia.org/wiki/Schweizer_R%C3%A9duit System aus militärischen Verteidigungsanlagen in den Schweizer Alpen.
+Widerstands der Schweiz gegen das Deutsche Reich.
+[Heer und Haus](https://de.wikipedia.org/wiki/Heer_und_Haus) ar eine Sektion der Schweizer Armee und wichtigstes Werkzeug der Geistigen Landesverteidigung zur Stärkung des Wehr- und Widerstandswillens 
+bei den Armeeangehörigen und der Schweizer Zivilbevölkerung im Zweiten Weltkrieg
+
+[Unternehmen Tannenbaum](https://de.wikipedia.org/wiki/Unternehmen_Tannenbaum) deutschen Planungen zur überfallartigen Besetzung der Schweiz im Zweiten Weltkrieg.
 
 1940 [Henri Guisan](https://de.wikipedia.org/wiki/Henri_Guisan)  Oberbefehlshaber der Schweizer Armee.
 
-1945 VN [Vereinte Nationen](https://de.wikipedia.org/wiki/Vereinte_Nationen)  in NY, Büro in Genf
 
-1948 WHO [Weltgesundheitsorganisation](https://de.wikipedia.org/wiki/Weltgesundheitsorganisation)  https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_geistiges_Eigentum https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Meteorologie https://de.wikipedia.org/wiki/Weltpostverein https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation
+Nach dem Krieg wurden in der Schweiz viele internationale Organisationen gegründet
 
-1948 AHV [Alters- und Hinterlassenenversicherung](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung) 
+1945 VN [Vereinte Nationen](https://de.wikipedia.org/wiki/Vereinte_Nationen)  Hauptsitz in New York, Büro in Genf [Palais des Nations oder Völkerbundpalast](https://de.wikipedia.org/wiki/Palais_des_Nations)
+zwischenstaatlicher Zusammenschluss von 193 Staaten und als globale internationale Organisation ein uneingeschränkt anerkanntes Völkerrechtssubjekt
 
-1945 -> 1970 10x Wirtschaft
+1948 WHO [Weltgesundheitsorganisation](https://de.wikipedia.org/wiki/Weltgesundheitsorganisation)  
+eine Sonderorganisation der Vereinten Nationen. Proklamierte das Recht auf Gesundheit als Grundrecht des Menschen und zählt heute 194 Mitgliedstaaten.
+
+[Weltorganisation für geistiges Eigentum](https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_geistiges_Eigentum)
+mit dem Ziel gegründet, Rechte an immateriellen Gütern weltweit zu fördern.
+
+[Weltorganisation für Meteorologie](https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Meteorologie)
+Ziel ist die weltweite Kooperation bei der Einrichtung von Netzwerken von Wetterstationen für meteorologische, hydrologische und andere geophysikalische Beobachtungen
+
+[Weltpostverein](https://de.wikipedia.org/wiki/Weltpostverein)  Hauptsitz in Bern.
+Der Postverein regelt auf seinen Postkongressen die internationale Zusammenarbeit der nationalen Postverwaltungen.
+
+[Internationale Fernmeldeunion](https://de.wikipedia.org/wiki/Internationale_Fernmeldeunion)  oder International Telecommunication Union (ITU)
+sich offiziell und weltweit mit technischen Aspekten der Telekommunikation beschäftigt.
+
+[Internationale Arbeitsorganisation](https://de.wikipedia.org/wiki/Internationale_Arbeitsorganisation)  ILO International Labour Organization
+beauftragt soziale Gerechtigkeit sowie Menschen- und Arbeitsrechte zu fördern.
+
+1948 AHV [Alters- und Hinterlassenenversicherung](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung)
+obligatorische Rentenversicherung der Schweiz. Sie bildet zusammen mit der Invalidenversicherung (IV) und den Ergänzungsleistungen 
+die erste – staatliche – Säule des schweizerischen Dreisäulensystems und dient der angemessenen Sicherung des Existenzbedarfs.
+
+[Wirtschaftlicher Aufschwung](https://www.myswitzerland.com/de-ch/planung/ueber-die-schweiz/geschichte-der-schweiz/die-schweiz-als-wohlstandsgesellschaft/) 
+Vor allem in der unmittelbaren Nachkriegszeit war die unzerstörte Schweiz wirtschaftlich ein wichtiger Faktor in Mitteleuropa. 
+Wirtschaftlich erlebte die Schweiz nach 1945 eine noch nie gesehene Hochkonjunktur, die bis in die 1970er Jahre anhielt. 
+In dieser Zeit wurden die Exporte nahezu verzehnfacht.
 
 1958 Trudy Späth (Frau Politiker)
 
