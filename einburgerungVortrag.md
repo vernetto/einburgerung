@@ -436,46 +436,60 @@ Nachdem das Schweizer Stimmvolk im Jahr 1986 den UNO-Beitritt ursprünglich abge
 
 ========== POLITIK
 
-26 Kantone, 143 Bezirke, 2212 Gemeinde
+In der Schweiz gibt es 26 Kantone, 143 Bezirke, 2212 Gemeinden.
 
-Bundesverfassung  https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
-Titel 1 enthält allgemeine Bestimmungen, wie etwa zum Staatszweck (Art. 2), zur Stellung der Kantone (Art. 3), zu den Landessprachen (Art. 4) und zu den Grundsätzen rechtsstaatlichen Handelns (Art. 5).
+Die Schweiz wird durch Gewalttrennung regiert:
+- Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
+- Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
+- Judikative (Bundesgericht) Gesetzte Prüfen, urteilen, richten, strafen, schützen
 
-Titel 2 umschreibt die Grundrechte (Art. 7–36), die Bürgerrechte (Art. 37–40) und die Sozialziele (Art. 41).
+Die [Bundesverfassung](https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft) besteht aus [6 Titel](https://www.fedlex.admin.ch/eli/cc/1999/404/de).
 
-Titel 3 nennt sich «Bund, Kantone und Gemeinden» und regelt in den Art. 43–135 die Kompetenzaufteilung zwischen den drei staatlichen Gliederungsebenen. Darin ist insbesondere die umfassende Liste der Zuständigkeiten des Bundes (Art. 54–125) von Bedeutung: Jeder Erlass des Bundes muss sich auf eine solche Norm stützen. Existiert keine explizite Bundeskompetenz in einem bestimmten Gebiet, so sind dafür die Kantone zuständig und der Bund ist darin nicht befugt, gesetzgeberisch tätig zu werden. Die Kompetenzen des Bundes sind im Laufe der Zeit ständig erweitert worden, und auch heute ist diese Liste relativ häufigen Änderungen unterworfen – sei es durch Anstoss der Bundesbehörden mittels obligatorischen Referendums oder durch Volksinitiativen.
+Titel 1 enthält allgemeine Bestimmungen, wie etwa zum Staatszweck (Art. 2), zur Stellung der Kantone (Art. 3), 
+zu den Landessprachen (Art. 4) und zu den Grundsätzen rechtsstaatlichen Handelns (Art. 5).
 
-Titel 4 ist mit «Volk und Stände» überschrieben und regelt in Art. 136 die politischen Rechte des Volkes und der Kantone, insbesondere die direktdemokratischen Volksrechte (Initiative und Referendum).
+Titel 2 umschreibt die Grundrechte (Art. 7–36), die Bürgerrechte (Art. 37–40) und die Sozialziele (Art. 41).
 
-Titel 5 ist den Bundesbehörden gewidmet und umreisst die Organisation und Kompetenzen der Bundesversammlung (Legislative, Art. 143–173), des Bundesrates und der Bundesverwaltung (Exekutive, Art. 174–187) sowie des Bundesgerichtes und der anderen richterlichen Behörden (Judikative, Art. 188–191 sowie Art. 191a–c).
+Titel 3 nennt sich «Bund, Kantone und Gemeinden» und regelt in den Art. 43–135 die Kompetenzaufteilung zwischen den drei staatlichen Gliederungsebenen. Darin ist insbesondere die umfassende Liste der Zuständigkeiten des Bundes (Art. 54–125) von Bedeutung: Jeder Erlass des Bundes muss sich auf eine solche Norm stützen. Existiert keine explizite Bundeskompetenz in einem bestimmten Gebiet, so sind dafür die Kantone zuständig und der Bund ist darin nicht befugt, gesetzgeberisch tätig zu werden. Die Kompetenzen des Bundes sind im Laufe der Zeit ständig erweitert worden, und auch heute ist diese Liste relativ häufigen Änderungen unterworfen – sei es durch Anstoss der Bundesbehörden mittels obligatorischen Referendums oder durch Volksinitiativen.
 
-Titel 6 enthält die Revisionsmöglichkeiten der Verfassung (Art. 192–195, siehe unten) und die Übergangsbestimmungen (Art. 196 und Art. 197).
+Titel 4 ist mit «Volk und Stände» überschrieben und regelt in Art. 136 die politischen Rechte des Volkes und der Kantone, insbesondere die direktdemokratischen Volksrechte (Initiative und Referendum).
 
-Bundesversammlung  https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)
-Bundesparlament / Bundesversammlung : Nationalrat + Ständerat
-wählt :	Bundesrat https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)
-Bundespräsident + Vize
-Bundesrichter
-General der Armee
+Titel 5 ist den Bundesbehörden gewidmet und umreisst die Organisation und Kompetenzen der Bundesversammlung (Legislative, Art. 143–173), des Bundesrates und der Bundesverwaltung (Exekutive, Art. 174–187) sowie des Bundesgerichtes und der anderen richterlichen Behörden (Judikative, Art. 188–191 sowie Art. 191a–c).
 
-https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude (in chrome)
+Titel 6 enthält die Revisionsmöglichkeiten der Verfassung (Art. 192–195, siehe unten) und die Übergangsbestimmungen (Art. 196 und Art. 197).
+
+[Bundesversammlung](https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)) oder Bundesparlament ist das Parlament der Schweizerischen Eidgenossenschaft
+**Legislative** der Schweiz auf Bundesebene.
+Es besteht aus zwei gleichgestellten Kammern: dem 200 Mitglieder zählenden **Nationalrat** und dem 46-köpfigen **Ständerat**.
+Die Bundesversammlung ist in erster Linie zuständig für die Gesetzgebung, 
+ist aber auch Wahlorgan für die anderen obersten Bundesbehörden (Bundesrat und Bundesgericht), übt die Oberaufsicht über diese aus.
+
+Das [Parlamentsgebäude](https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude) oder Bundeshaus liegt in Bern. 
 
 Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
-Aufgabenteilung:
-Bund: Militär + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, Wirtschaft- und Währungspolitik CHF, Aussenpolitik, Strassenverkehr, Berufsbildung
+Aufgaben der Legislative am Bund Ebene: Militär + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, 
+Wirtschaft- und Währungspolitik CHF, Aussenpolitik, Strassenverkehr, Berufsbildung
 
-Kantone: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei, Gesundheitswesen
+Aufgaben der Legislative am Kantone Ebene: Autonomie (Schulsystem , Ö.V., Gesundheit), Schule, Bauwesens, Umweltschutz, Polizei, Gesundheitswesen
+
+Aufgaben der Legislative am Gemeinde Ebene: Kehrichtabfuhr, localen Strassen Unterhaltung, Wasser und Elektrizitätsversorgung, bau von Schulhäusern, Feuerwehr
+
+
+Die Wahlkompetenz nimmt die Bundesversammlung als Vereinigte Bundesversammlung wahr, das heisst in gemeinsamer Sitzung von Nationalrat und Ständerat unter Leitung des Nationalratspräsidenten.
+Die Bundesversammlung wählt die sieben Mitglieder der **Regierung**, den Bundesrat, sowie den **[Bundeskanzler](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)#Rolle_des_Bundeskanzlers**. 
+Das Parlament wählt auch die Mitglieder der eidgenössischen Gerichte (**Bundesgericht**, Bundesstrafgericht, Bundesverwaltungsgericht). 
+Bei Kriegsgefahr wählt die Bundesversammlung den **General der Schweizer Armee**.
+
+Das [Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) ist die Regierung der Schweizerischen Eidgenossenschaft,
+**Exekutive** der Schweiz auf Bundesebene.
+Mitglieder: Bundespräsident + Vize
+
 
 https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten
 
-Gemeinde: Kehrichtabfuhr, localen Strassen Unterhaltung, Wasser und Elektrizitätsversorgung, bau von Schulhäusern, Feuerwehr
 
 
-Gewalttrennung:
-Executive (Regierung + Bundesrat) Gesetzte durchsetzen, den Staat vertreten
-Legislative (Bundesparlament) Gesetzte bestimmen, Regierung und Verwaltung kontrollieren
-Judikative (Bundesgericht) Prüfen gesetzte, Urteilen, richten, strafen, schützen
 
 
 LEGISLATIVE
@@ -524,11 +538,11 @@ Jede Mittwoch sie haben Sitzung. Kollegialitätsprinzip: auch wenn sie nicht zus
 Stadtrat ZH (EXECUTIVE)  9+2 https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
 André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel Leupi, Raphael Golta, Corine Mauch, Michael Baumer, Karin Rykart, Andrea Töndury (Rechtskonsulent), Filippo Leutenegger, Andreas Hauri
 
-"Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. Jedes Mitglied steht einem Departement vor.
+"Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. Jedes Mitglied steht einem Departement vor.
 
-Üblicherweise tritt der Stadtrat jeweils am Mittwochmorgen im Stadtratssaal des Stadthauses zu einer ordentlichen Sitzung zusammen. Den Vorsitz führt die Stadtpräsidentin. 
+Üblicherweise tritt der Stadtrat jeweils am Mittwochmorgen im Stadtratssaal des Stadthauses zu einer ordentlichen Sitzung zusammen. Den Vorsitz führt die Stadtpräsidentin. 
 
-Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
+Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
 
 
 Nationalrat Zürich 36 Sitze (ab 2023)
@@ -972,8 +986,8 @@ Henri Guisan https://de.wikipedia.org/wiki/Henri_Guisan WWII General
 
 Chrüzberg https://de.wikipedia.org/wiki/Chr%C3%BCzberg StGallen
 Piz Palü https://de.wikipedia.org/wiki/Piz_Pal%C3%BC  3900 m, Graubünden
-Piz Bernina  https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
-Gross Spannort https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
+Piz Bernina  https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
+Gross Spannort https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
 Mönch https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg) 4107 Berner Alpen
 
 Volkszählung in der Schweiz https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz
