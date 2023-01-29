@@ -476,8 +476,8 @@ Aufgaben der Legislative am Kantone Ebene: Autonomie (Schulsystem , Ö.V., Gesun
 Aufgaben der Legislative am Gemeinde Ebene: Kehrichtabfuhr, localen Strassen Unterhaltung, Wasser und Elektrizitätsversorgung, bau von Schulhäusern, Feuerwehr
 
 
-Die Wahlkompetenz nimmt die Bundesversammlung als Vereinigte Bundesversammlung wahr, das heisst in gemeinsamer Sitzung von Nationalrat und Ständerat unter Leitung des Nationalratspräsidenten.
-Die Bundesversammlung wählt die sieben Mitglieder der **Regierung**, den Bundesrat, sowie den **[Bundeskanzler](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)#Rolle_des_Bundeskanzlers**. 
+Die Bundesversammlung als **Vereinigte Bundesversammlung**, in gemeinsamer Sitzung von Nationalrat und Ständerat unter Leitung des **Nationalratspräsidenten**,
+wählt die sieben Mitglieder der **Regierung**, den Bundesrat, sowie den **[Bundeskanzler](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)#Rolle_des_Bundeskanzlers**. 
 Das Parlament wählt auch die Mitglieder der eidgenössischen Gerichte (**Bundesgericht**, Bundesstrafgericht, Bundesverwaltungsgericht). 
 Bei Kriegsgefahr wählt die Bundesversammlung den **General der Schweizer Armee**.
 
@@ -485,16 +485,12 @@ Das [Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) ist die Regie
 **Exekutive** der Schweiz auf Bundesebene.
 Mitglieder: Bundespräsident + Vize
 
-
-https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten
-
-
-
+Wie viele [Mitglieder der Ständerat](https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten) hat jeder Kanton? 
 
 
 LEGISLATIVE
 BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246
-KANTON PARLAMENT : Kantonsrat (Grosser Rat, Landesrat) 180 in ZH, 4 Jahre
+KANTON PARLAMENT : Kantonsrat (oder Grosser Rat oder Landesrat) 180 in ZH, 4 Jahre
 GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
 
 	Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen (Pukelsheim, Oberzuteilung/Unterzuteilung)
