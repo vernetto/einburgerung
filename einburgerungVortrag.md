@@ -466,6 +466,11 @@ ist aber auch Wahlorgan für die anderen obersten Bundesbehörden (Bundesrat und
 
 Das [Parlamentsgebäude](https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude) oder Bundeshaus liegt in Bern. 
 
+Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
+
+Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
+Wie viele [Mitglieder der Ständerat](https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten) hat jeder Kanton?
+
 Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
 Aufgaben der Legislative am Bund Ebene: Militär + Sicherheit, Krankenkassen und Sozialversicherung, Diplomatie, Staatshaushalt, Mehrwertsteuer und Zoll, 
@@ -485,23 +490,12 @@ Das [Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) ist die Regie
 **Exekutive** der Schweiz auf Bundesebene.
 Mitglieder: Bundespräsident + Vize
 
-Wie viele [Mitglieder der Ständerat](https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten) hat jeder Kanton? 
 
 
 LEGISLATIVE
 BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246
 KANTON PARLAMENT : Kantonsrat (oder Grosser Rat oder Landesrat) 180 in ZH, 4 Jahre
 GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
-
-	Legislative: Kantonsrat 180 ZH, 18 Wahlkreisen, Doppelproportionalen (Pukelsheim, Oberzuteilung/Unterzuteilung)
-	Einzelinitiative, Zuteilungsverfahren
-		Doppelproportionalen https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
-
-
-Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
-
-Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
-
 
 
 EXECUTIVE
@@ -569,6 +563,13 @@ Dr. Silvia Steiner Vorsteherin der Bildungsdirektion
 Jacqueline Fehr Vorsteherin der Direktion der Justiz und des Innern
 Natalie Rickli Vorsteherin der Gesundheitsdirektion
 Dr. Martin Neukom Vorsteher der Baudirektion
+
+Einzelinitiative, Zuteilungsverfahren
+Doppelproportionalen https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
+
+
+
+
 
 ==========
 
