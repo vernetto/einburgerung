@@ -767,7 +767,7 @@ Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, A
 * Alpen - 60% Fläche
 * Jura - 10% Fläche
 
-Kantonen: 
+Kantone mit ihrer Sprache und grössten Städte: 
 
 AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
 AI Appenzeller Innerhoden DE : Appenzell
@@ -815,13 +815,12 @@ https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
 Kanton ZH: 162 Gemeinden, 12 Bezirke
 Bezirke: Zürich, Winterthur, Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen, Hinwil, Pfäffikon, Andelfingen
 
-
+Sprache in der Schweiz:
 62% Deutsch
 23% Französisch
 8% Italienisch
 0.5% Rätoromanisch
-24.8% Andere
-
+6.5% Andere
 
 Zürich Kreise:
 1 Altstadt
@@ -844,175 +843,174 @@ Zürich Kreise:
 MUSIKER:
 
 Komponisten:
-Arthur Honegger https://de.wikipedia.org/wiki/Arthur_Honegger Komponist ( Pacific 231)
-Othmar Schoeck https://de.wikipedia.org/wiki/Othmar_Schoeck Komponist und Dirigen aus Zürich (Penthesilea 1924)
-Frank Martin https://de.wikipedia.org/wiki/Frank_Martin_(Komponist) Komponist (Messe pour double choeur)
-Joseph Bovet https://de.wikipedia.org/wiki/Joseph_Bovet Komponist (Le vieux chalet)
-Ernest Ansermet https://de.wikipedia.org/wiki/Ernest_Ansermet Dirigent
+[Arthur Honegger](https://de.wikipedia.org/wiki/Arthur_Honegger) Komponist ( Pacific 231)
+[Othmar Schoeck](https://de.wikipedia.org/wiki/Othmar_Schoeck) Komponist und Dirigen aus Zürich (Penthesilea 1924)
+[Frank Martin](https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)) Komponist (Messe pour double choeur)
+[Joseph Bovet](https://de.wikipedia.org/wiki/Joseph_Bovet) Komponist (Le vieux chalet)
+[Ernest Ansermet](https://de.wikipedia.org/wiki/Ernest_Ansermet) Dirigent
 
-Mani Matter https://de.wikipedia.org/wiki/Mani_Matter
-Berner Troubadours https://de.wikipedia.org/wiki/Berner_Troubadours
-Stephan Eicher https://de.wikipedia.org/wiki/Stephan_Eicher (Déjeuner En Paix)
-Yello (The Race): Boris Blank & Dieter Meier https://de.wikipedia.org/wiki/Boris_Blank_(Musiker)
-Sophie Hunger https://de.wikipedia.org/wiki/Sophie_Hunger (Le vent nous portera)
+[Mani Matter](https://de.wikipedia.org/wiki/Mani_Matter)
+[Berner Troubadours](https://de.wikipedia.org/wiki/Berner_Troubadours)
+[Stephan Eicher](https://de.wikipedia.org/wiki/Stephan_Eicher) (Déjeuner En Paix)
+[Yello (The Race): Boris Blank & Dieter Meier](https://de.wikipedia.org/wiki/Boris_Blank_(Musiker))
+[Sophie Hunger](https://de.wikipedia.org/wiki/Sophie_Hunger) (Le vent nous portera)
 
 
 KUNSTLER:
-Konrad Witz https://de.wikipedia.org/wiki/Konrad_Witz Maler (Der wunderbare Fischzug 1444)
-Hans Asper https://de.wikipedia.org/wiki/Hans_Asper Maler (Ulrich Zwingli, 1549)
-Hans Holbein der Jüngere https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere Maler (Heinrich VIII. (Porträt) 1537)
-Johann Heinrich Füssli https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli Maler (Nachtmahr ~1790)
-Arnold Böcklin https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin Maler (Die Toteninsel 1880)
-Albert Anker https://de.wikipedia.org/wiki/Albert_Anker Maler (Das Schulexamen 1862)
-Ferdinand Hodler https://de.wikipedia.org/wiki/Ferdinand_Hodler Maler (Die Nacht 1889, Der Tag 1900)
-Alberto Giacometti https://de.wikipedia.org/wiki/Alberto_Giacometti Bildhauer (Frau auf dem Wagen 1942)
-Frank Buchser https://de.wikipedia.org/wiki/Frank_Buchser Maler (Der Kuss, 1878)
-Giovanni Segantini https://de.wikipedia.org/wiki/Giovanni_Segantini Maler (Engadin) (Die Heuernte, Mittag in den Alpen)
+[Konrad Witz](https://de.wikipedia.org/wiki/Konrad_Witz) Maler (Der wunderbare Fischzug 1444)
+[Hans Asper](https://de.wikipedia.org/wiki/Hans_Asper) Maler (Ulrich Zwingli, 1549)
+[Hans Holbein der Jüngere](https://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere) Maler (Heinrich VIII. (Porträt) 1537)
+[Johann Heinrich Füssli](https://de.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli) Maler (Nachtmahr ~1790)
+[Arnold Böcklin](https://de.wikipedia.org/wiki/Arnold_B%C3%B6cklin) Maler (Die Toteninsel 1880)
+[Albert Anker](https://de.wikipedia.org/wiki/Albert_Anker) Maler (Das Schulexamen 1862)
+[Ferdinand Hodler](https://de.wikipedia.org/wiki/Ferdinand_Hodler) Maler (Die Nacht 1889, Der Tag 1900)
+[Alberto Giacometti](https://de.wikipedia.org/wiki/Alberto_Giacometti) Bildhauer (Frau auf dem Wagen 1942)
+[Frank Buchser](https://de.wikipedia.org/wiki/Frank_Buchser) Maler (Der Kuss, 1878)
+[Giovanni Segantini](https://de.wikipedia.org/wiki/Giovanni_Segantini) Maler (Engadin) (Die Heuernte, Mittag in den Alpen)
 
-H.R. Giger https://de.wikipedia.org/wiki/HR_Giger  bildender Künstler  (Alien)
-Paul Klee https://de.wikipedia.org/wiki/Paul_Klee Maler
-Jean Tinguely https://de.wikipedia.org/wiki/Jean_Tinguely Bildhauer (kinetischen Kunst)
-Meret Oppenheim, Feldtasse https://de.wikipedia.org/wiki/Meret_Oppenheim Künstlerin (Tisch mit Vogelfüssen)
-Sophie Täuber-Arp https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp Künstlerin (Dada-Kopf, König Deramo)
-Pipilotti Rist https://de.wikipedia.org/wiki/Pipilotti_Rist Künstlerin (Pixel light show)
-Niki de Saint Phalle https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle Künstlerin (Nana-Engel, "Die Sonne, dargestellt als Vogel")
-Werner Witschi https://de.wikipedia.org/wiki/Werner_Witschi Maler, Eisenplastiker
-
+[H.R. Giger](https://de.wikipedia.org/wiki/HR_Giger)  bildender Künstler  (Alien)
+[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) Maler
+[Jean Tinguely](https://de.wikipedia.org/wiki/Jean_Tinguely) Bildhauer (kinetischen Kunst)
+[Meret Oppenheim](https://de.wikipedia.org/wiki/Meret_Oppenheim) Künstlerin (Tisch mit Vogelfüssen)
+[Sophie Täuber-Arp](https://de.wikipedia.org/wiki/Sophie_Taeuber-Arp) Künstlerin (Dada-Kopf, König Deramo)
+[Pipilotti Rist](https://de.wikipedia.org/wiki/Pipilotti_Rist) Künstlerin (Pixel light show)
+[Niki de Saint Phalle](https://de.wikipedia.org/wiki/Niki_de_Saint_Phalle) Künstlerin (Nana-Engel, "Die Sonne, dargestellt als Vogel")
+[Werner Witschi](https://de.wikipedia.org/wiki/Werner_Witschi) Maler, Eisenplastiker
 
 Architekten:
-Francesco Borromini https://de.wikipedia.org/wiki/Francesco_Borromini  Architekt ( San Carlo alle Quattro Fontane ~1650)
-Mario Botta https://de.wikipedia.org/wiki/Mario_Botta Architekt
-Le Corbusier https://de.wikipedia.org/wiki/Le_Corbusier Architekt (Chapelle Notre-Dame-du-Haut de Ronchamp)
-Atelier 5 https://de.wikipedia.org/wiki/Atelier_5 Architekten (Hauptbahnhof Bern)
-Diener & Diener https://de.wikipedia.org/wiki/Diener_%26_Diener Architekten (Novartis Campus Basel)
-Herzog & de Meuron https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron (Elbphilharmonie in Hamburg)
-Max Bill https://de.wikipedia.org/wiki/Max_Bill Architekt (Pavillon-Skulptur in Zürich)
+[Francesco Borromini](https://de.wikipedia.org/wiki/Francesco_Borromini)  Architekt ( San Carlo alle Quattro Fontane ~1650)
+[Mario Botta](https://de.wikipedia.org/wiki/Mario_Botta) Architekt
+[Le Corbusier](https://de.wikipedia.org/wiki/Le_Corbusier) Architekt (Chapelle Notre-Dame-du-Haut de Ronchamp)
+[Atelier 5](https://de.wikipedia.org/wiki/Atelier_5) Architekten (Hauptbahnhof Bern)
+[Diener & Diener](https://de.wikipedia.org/wiki/Diener_%26_Diener) Architekten (Novartis Campus Basel)
+[Herzog & de Meuron](https://de.wikipedia.org/wiki/Herzog_%26_de_Meuron) (Elbphilharmonie in Hamburg)
+[Max Bill](https://de.wikipedia.org/wiki/Max_Bill) Architekt (Pavillon-Skulptur in Zürich)
 
 
 Schriftstellers:
-Jeremias Gotthelf https://de.wikipedia.org/wiki/Jeremias_Gotthelf Schriftsteller (Uli der Pächter 1849)
-Conrad Ferdinand Meyer https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer Dichter (das Amulet (Huguenotten), 1873)
-Blaise Cendrars https://de.wikipedia.org/wiki/Blaise_Cendrars Schriftsteller, Reiser (La-Chaux-de-Fonds. Moravagine  1926)
-Germaine de Staël https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl Schriftstellerin (De l’Allemagne, 1813)
-Armon Planta https://de.wikipedia.org/wiki/Armon_Planta Heimatforscher Engadin
-Kurt Marti https://de.wikipedia.org/wiki/Kurt_Marti Pfarrer
-Max Frisch https://de.wikipedia.org/wiki/Max_Frisch  Schriftsteller und Architekt (Biedermann und die Brandstifter)
-Friedrich Dürrenmatt https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt  (Das Versprechen 1958 - Krimi)
-Johanna Spyri https://de.wikipedia.org/wiki/Johanna_Spyri  Heidi 1880
-Milena Moser https://de.wikipedia.org/wiki/Milena_Moser Schriftstellerin (Putzfraueninsel 1991)
-Lina Bögli https://de.wikipedia.org/wiki/Lina_B%C3%B6gli Reiseschriftstellerin (Vorwärts  1902)
-Gottfried Keller https://de.wikipedia.org/wiki/Gottfried_Keller Maler Dichter und Politiker (Kleider machen Leute 1874)
-Thomas Meyer https://de.wikipedia.org/wiki/Thomas_Meyer_(Schriftsteller)
+[Jeremias Gotthelf](https://de.wikipedia.org/wiki/Jeremias_Gotthelf) Schriftsteller (Uli der Pächter 1849)
+[Conrad Ferdinand Meyer](https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer) Dichter (das Amulet (Huguenotten), 1873)
+[Blaise Cendrars](https://de.wikipedia.org/wiki/Blaise_Cendrars) Schriftsteller, Reiser (La-Chaux-de-Fonds. Moravagine  1926)
+[Germaine de Staël](https://de.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl) Schriftstellerin (De l’Allemagne, 1813)
+[Armon Planta](https://de.wikipedia.org/wiki/Armon_Planta) Heimatforscher Engadin
+[Kurt Marti](https://de.wikipedia.org/wiki/Kurt_Marti) Pfarrer
+[Max Frisch](https://de.wikipedia.org/wiki/Max_Frisch)  Schriftsteller und Architekt (Biedermann und die Brandstifter)
+[Friedrich Dürrenmatt](https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt)  (Das Versprechen 1958 - Krimi)
+[Johanna Spyri](https://de.wikipedia.org/wiki/Johanna_Spyri)  Heidi 1880
+[Milena Moser](https://de.wikipedia.org/wiki/Milena_Moser) Schriftstellerin (Putzfraueninsel 1991)
+[Lina Bögli](https://de.wikipedia.org/wiki/Lina_B%C3%B6gli) Reiseschriftstellerin (Vorwärts  1902)
+[Gottfried Keller](https://de.wikipedia.org/wiki/Gottfried_Keller) Maler Dichter und Politiker (Kleider machen Leute 1874)
+[Thomas Meyer](https://de.wikipedia.org/wiki/Thomas_Meyer_(Schriftsteller))
 
 KOMIK:
-Hazel Brugger https://de.wikipedia.org/wiki/Hazel_Brugger Kabarettistin
-Marco Rima (Corona-Skeptiker) https://de.wikipedia.org/wiki/Marco_Rima Kabarettist
-Emil Steinberger  https://de.wikipedia.org/wiki/Die_Schweizermacher (Die Schweizermacher)
-Ursus und Nadeschkin https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin Kabarett
+[Hazel Brugger](https://de.wikipedia.org/wiki/Hazel_Brugger) Kabarettistin
+[Marco Rima](https://de.wikipedia.org/wiki/Marco_Rima) Kabarettist (Corona-Skeptiker)
+[Emil Steinberger](https://de.wikipedia.org/wiki/Die_Schweizermacher) (Die Schweizermacher)
+[Ursus und Nadeschkin](https://de.wikipedia.org/wiki/Ursus_%26_Nadeschkin) Kabarett
 
 
 FILMS:
-Xavier Koller https://de.wikipedia.org/wiki/Xavier_Koller Regisseur (Reise der Hoffnung)
-Joel Basman https://de.wikipedia.org/wiki/Joel_Basman Schauspieler (Wolkenbruch 2018)
-Rolf Lissy https://de.wikipedia.org/wiki/Rolf_Lyssy Regisseur (Die Schweizermacher)
-Liselotte Pulver (lachend) https://de.wikipedia.org/wiki/Liselotte_Pulver (Uli der Pächter) https://de.wikipedia.org/wiki/Uli_der_P%C3%A4chter_(Film)
-Bruno Ganz https://de.wikipedia.org/wiki/Bruno_Ganz Schauspieler (Hitler in "Der Untergang" 2004)
-Mummenschanz https://de.wikipedia.org/wiki/Mummenschanz
+[Xavier Koller](https://de.wikipedia.org/wiki/Xavier_Koller) Regisseur (Reise der Hoffnung)
+[Joel Basman](https://de.wikipedia.org/wiki/Joel_Basman) Schauspieler (Wolkenbruch 2018)
+[Rolf Lissy](https://de.wikipedia.org/wiki/Rolf_Lyssy) Regisseur (Die Schweizermacher)
+[Liselotte Pulver](https://de.wikipedia.org/wiki/Liselotte_Pulver) (Uli der Pächter) https://de.wikipedia.org/wiki/Uli_der_P%C3%A4chter_(Film)
+[Bruno Ganz](https://de.wikipedia.org/wiki/Bruno_Ganz) Schauspieler (Hitler in "Der Untergang" 2004)
+[Mummenschanz](https://de.wikipedia.org/wiki/Mummenschanz)
 
 SPORT:
-Roger Federer (Tennis) https://de.wikipedia.org/wiki/Roger_Federer
-Simone Niggli-Luder https://de.wikipedia.org/wiki/Simone_Niggli-Luder Orientierung Laufer (Karte und Kompass)
-Nicola Spirig Hug https://de.wikipedia.org/wiki/Nicola_Spirig_Hug Triathletin
-Ueli Steck https://de.wikipedia.org/wiki/Ueli_Steck
+[Roger Federer](https://de.wikipedia.org/wiki/Roger_Federer) (Tennis)
+[Simone Niggli-Luder](https://de.wikipedia.org/wiki/Simone_Niggli-Luder) Orientierung Laufer (Karte und Kompass)
+[Nicola Spirig Hug](https://de.wikipedia.org/wiki/Nicola_Spirig_Hug) Triathletin
+[Ueli Steck](https://de.wikipedia.org/wiki/Ueli_Steck)
 
 WEITER PERSÖNLICHKEITEN:
-Henry Dunant (Rotes Kreuz) https://de.wikipedia.org/wiki/Henry_Dunant IKRK
-Michel Mayor https://de.wikipedia.org/wiki/Michel_Mayor Astronom
-Didier Queloz https://de.wikipedia.org/wiki/Didier_Queloz Astronom
-Ursula Keller https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin) Physikerin (laser light)
-Carla del Ponte (ONU) https://de.wikipedia.org/wiki/Carla_Del_Ponte  Botschafterin
-Emilie Lieberherr https://de.wikipedia.org/wiki/Emilie_Lieberherr Politikerin (Frauenstimmerecht, Stadtrat)
+[Henry Dunant](https://de.wikipedia.org/wiki/Henry_Dunant) IKRK  (Rotes Kreuz)
+[Michel Mayor](https://de.wikipedia.org/wiki/Michel_Mayor) Astronom
+[Didier Queloz](https://de.wikipedia.org/wiki/Didier_Queloz) Astronom
+[Ursula Keller](https://de.wikipedia.org/wiki/Ursula_Keller_(Physikerin)) Physikerin (laser light)
+[Carla del Ponte](https://de.wikipedia.org/wiki/Carla_Del_Ponte)  Botschafterin  (ONU)
+[Emilie Lieberherr](https://de.wikipedia.org/wiki/Emilie_Lieberherr) Politikerin (Frauenstimmerecht, Stadtrat)
 
 ===========
 
 Miscellaneous
 
-Ganterbrücke https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke
-Genf https://de.wikipedia.org/wiki/Genf
+[Ganterbrücke](https://de.wikipedia.org/wiki/Ganterbr%C3%BCcke)
+[Genf](https://de.wikipedia.org/wiki/Genf)
 
-Rütli https://de.wikipedia.org/wiki/R%C3%BCtli Bergwiese in Uri
-Mythen https://de.wikipedia.org/wiki/Mythen  Schwyz
-Pilatus https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv) Luzern
-Rhonegletscher https://de.wikipedia.org/wiki/Rhonegletscher Wallis
+[Rütli](https://de.wikipedia.org/wiki/R%C3%BCtli) Bergwiese in Uri
+[Mythen](https://de.wikipedia.org/wiki/Mythen)  Schwyz
+[Pilatus](https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv)) Luzern
+[Rhonegletscher](https://de.wikipedia.org/wiki/Rhonegletscher) Wallis
 
-Louis Favre https://de.wikipedia.org/wiki/Louis_Favre Bauunternehmer Gotthardtunnels
+[Louis Favre](https://de.wikipedia.org/wiki/Louis_Favre) Bauunternehmer Gotthardtunnels
 
-Staubbachfall https://de.wikipedia.org/wiki/Staubbachfall Wasserfall im Berner Oberland
-Lauterbrunnental https://de.wikipedia.org/wiki/Lauterbrunnental  Berner Oberland
+[Staubbachfall](https://de.wikipedia.org/wiki/Staubbachfall) Wasserfall im Berner Oberland
+[Lauterbrunnental](https://de.wikipedia.org/wiki/Lauterbrunnental)  Berner Oberland
 
-Chillon Castle https://de.wikipedia.org/wiki/Schloss_Chillon Waadt Genfersee
+[Chillon Castle](https://de.wikipedia.org/wiki/Schloss_Chillon) Waadt Genfersee
 
-Gotthardbahn https://de.wikipedia.org/wiki/Gotthardbahn Immensee- Arth-Goldau - Chiasso
-Gotthard-Basistunnel https://de.wikipedia.org/wiki/Gotthard-Basistunnel Altdorf-Biasca
-Ceneri-Basistunnel https://de.wikipedia.org/wiki/Ceneri-Basistunnel Giubiasco-Lugano
+[Gotthardbahn](https://de.wikipedia.org/wiki/Gotthardbahn) Immensee- Arth-Goldau - Chiasso
+[Gotthard-Basistunnel](https://de.wikipedia.org/wiki/Gotthard-Basistunnel) Altdorf-Biasca
+[Ceneri-Basistunnel](https://de.wikipedia.org/wiki/Ceneri-Basistunnel) Giubiasco-Lugano
 
-Viamala https://de.wikipedia.org/wiki/Viamala Graubünden (Chur-Splügen/San Bernardino)
+[Viamala](https://de.wikipedia.org/wiki/Viamala) Graubünden (Chur-Splügen/San Bernardino)
 
-Rheinfall https://de.wikipedia.org/wiki/Rheinfall Schaffhausen
+[Rheinfall](https://de.wikipedia.org/wiki/Rheinfall) Schaffhausen
 
-Säntis https://de.wikipedia.org/wiki/S%C3%A4ntis  2501m Berg in Appenzellen/StGallen
-Lugano https://de.wikipedia.org/wiki/Lugano
-Luganersee https://de.wikipedia.org/wiki/Luganersee
+[Säntis](https://de.wikipedia.org/wiki/S%C3%A4ntis) 2501m Berg in Appenzellen/StGallen
+[Lugano](https://de.wikipedia.org/wiki/Lugano)
+[Luganersee](https://de.wikipedia.org/wiki/Luganersee)
 
-Landi 39 https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939
-Genfer Abkommen 1864 https://de.wikipedia.org/wiki/Genfer_Konventionen
+[Landi 39](https://fr.wikipedia.org/wiki/Exposition_nationale_suisse_de_1939)
+[Genfer Abkommen 1864](https://de.wikipedia.org/wiki/Genfer_Konventionen)
 
-Ludwig Pfyffer von Altishofen https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen Staatsmann und Heerführer, "Schweizerkönig"
+[Ludwig Pfyffer von Altishofen](https://de.wikipedia.org/wiki/Ludwig_Pfyffer_von_Altishofen) Staatsmann und Heerführer, "Schweizerkönig"
 
-Jörg Jenatsch https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch evangelischer Pfarrer, Militärführer und Politiker,  Retter Graubündens im Dreissigjährigen Krieg 1630
+[Jörg Jenatsch](https://de.wikipedia.org/wiki/J%C3%B6rg_Jenatsch) evangelischer Pfarrer, Militärführer und Politiker,  Retter Graubündens im Dreissigjährigen Krieg 1630
 
-Pestalozzi https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi Pädagoge
+[Pestalozzi](https://de.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi) Pädagoge
 
-Wettstein https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker)
+[Wettstein](https://de.wikipedia.org/wiki/Johann_Rudolf_Wettstein_(Politiker))
 
-Schloss Neuenburg https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz)
+[Schloss Neuenburg](https://de.wikipedia.org/wiki/Schloss_Neuenburg_(Schweiz))
 
-Engadin  https://de.wikipedia.org/wiki/Engadin
-Inn https://de.wikipedia.org/wiki/Inn
-Nyon https://de.wikipedia.org/wiki/Nyon
-Finsteraarhorn https://de.wikipedia.org/wiki/Finsteraarhorn 4273m
-San Bernardino Pass https://de.wikipedia.org/wiki/San-Bernardino-Pass Graubünden
+[Engadin](https://de.wikipedia.org/wiki/Engadin)
+[Inn](https://de.wikipedia.org/wiki/Inn)
+[Nyon](https://de.wikipedia.org/wiki/Nyon)
+[Finsteraarhorn](https://de.wikipedia.org/wiki/Finsteraarhorn) 4273m
+[San Bernardino Pass](https://de.wikipedia.org/wiki/San-Bernardino-Pass) Graubünden
 
-Henri Guisan https://de.wikipedia.org/wiki/Henri_Guisan WWII General
+[Henri Guisan](https://de.wikipedia.org/wiki/Henri_Guisan) WWII General
 
-Chrüzberg https://de.wikipedia.org/wiki/Chr%C3%BCzberg StGallen
-Piz Palü https://de.wikipedia.org/wiki/Piz_Pal%C3%BC  3900 m, Graubünden
-Piz Bernina  https://de.wikipedia.org/wiki/Piz_Bernina 4048  m , Graubünden
-Gross Spannort https://de.wikipedia.org/wiki/Gross_Spannort 3198 Urner Alpen
-Mönch https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg) 4107 Berner Alpen
+[Chrüzberg](https://de.wikipedia.org/wiki/Chr%C3%BCzberg) StGallen
+[Piz Palü](https://de.wikipedia.org/wiki/Piz_Pal%C3%BC)  3900 m, Graubünden
+[Piz Bernina](https://de.wikipedia.org/wiki/Piz_Bernina) 4048  m , Graubünden
+[Gross Spannort](https://de.wikipedia.org/wiki/Gross_Spannort) 3198 Urner Alpen
+[Mönch](https://de.wikipedia.org/wiki/M%C3%B6nch_(Berg)) 4107 Berner Alpen
 
-Volkszählung in der Schweiz https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz
+[Volkszählung in der Schweiz](https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_in_der_Schweiz)
 
-Alexandre Émile Jean Yersin https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin Arzt (Pest)
-Auguste Forel https://de.wikipedia.org/wiki/Auguste_Forel Psychiater, Abstinenzbewegung
-Jules Gonin https://de.wikipedia.org/wiki/Jules_Gonin Augenarzt
+[Alexandre Émile Jean Yersin](https://de.wikipedia.org/wiki/Alexandre_%C3%89mile_Jean_Yersin) Arzt (Pest)
+[Auguste Forel](https://de.wikipedia.org/wiki/Auguste_Forel) Psychiater, Abstinenzbewegung
+[Jules Gonin](https://de.wikipedia.org/wiki/Jules_Gonin) Augenarzt
 
-Leuk https://de.wikipedia.org/wiki/Leuk Wallis
-Sottoceneri https://de.wikipedia.org/wiki/Sottoceneri Tessin
-Sopraceneri https://de.wikipedia.org/wiki/Sopraceneri Tessin
-Toggenburg https://de.wikipedia.org/wiki/Toggenburg StGallen
-La_Chaux-de-Fonds https://de.wikipedia.org/wiki/La_Chaux-de-Fonds Neuenburg
-Internationales Uhrenmuseum https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum La Chaux-de-Fonds
+[Leuk](https://de.wikipedia.org/wiki/Leuk) Wallis
+[Sottoceneri](https://de.wikipedia.org/wiki/Sottoceneri) Tessin
+[Sopraceneri](https://de.wikipedia.org/wiki/Sopraceneri) Tessin
+[Toggenburg](https://de.wikipedia.org/wiki/Toggenburg) StGallen
+[La_Chaux-de-Fonds](https://de.wikipedia.org/wiki/La_Chaux-de-Fonds) Neuenburg
+[Internationales Uhrenmuseum](https://de.wikipedia.org/wiki/Internationales_Uhrenmuseum) La Chaux-de-Fonds
 
-St. Moritz https://de.wikipedia.org/wiki/St._Moritz Graubünden Engadin
-Saint-Ursanne https://de.wikipedia.org/wiki/Saint-Ursanne Jura
-Brig https://de.wikipedia.org/wiki/Brig Wallis
-Winterthur https://de.wikipedia.org/wiki/Winterthur
+[St. Moritz](https://de.wikipedia.org/wiki/St._Moritz) Graubünden Engadin
+[Saint-Ursanne](https://de.wikipedia.org/wiki/Saint-Ursanne) Jura
+[Brig](https://de.wikipedia.org/wiki/Brig) Wallis
+[Winterthur](https://de.wikipedia.org/wiki/Winterthur)
 
-Eugène Borel https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel Politiker Neuenburg
+[Eugène Borel](https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel) Politiker Neuenburg
 
-Beat Fischer https://de.wikipedia.org/wiki/Beat_Fischer Gründer der Post Bern 1673
-Oskar Bider https://de.wikipedia.org/wiki/Oskar_Bider Flugpionier
+[Beat Fischer](https://de.wikipedia.org/wiki/Beat_Fischer) Gründer der Post Bern 1673
+[Oskar Bider](https://de.wikipedia.org/wiki/Oskar_Bider) Flugpionier
 
 Rilke https://de.wikipedia.org/wiki/Rainer_Maria_Rilke Lyriker
 Othmar Ammann https://de.wikipedia.org/wiki/Othmar_Ammann Brückenbauer (Verrazzano)
