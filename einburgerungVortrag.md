@@ -203,6 +203,8 @@ unter Nutztieren zur schlimmsten Hungersnot des 19. Jahrhunderts. Armut in der S
 1830-47 [Regeneration](https://de.wikipedia.org/wiki/Regeneration_(Schweizergeschichte))  ist die Zeit zwischen dem Ende der Restauration und dem Ende des Sonderbundskriegs,
 einer Reihe von konservativen Gegenbewegungen.
 
+[Ustertag 1830](https://de.wikipedia.org/wiki/Ustertag) zehntausend Männer der zürcherischen Landschaft verlangten mit dem «Memorial von Uster» eine neue Verfassung
+
 1845 [Sonderbund](https://de.wikipedia.org/wiki/Sonderbund) Verteidigungsbündnis der sieben katholischen Schweizer Kantone Luzern, Uri, Schwyz, Unterwalden, Zug, Freiburg und Wallis 
 
 1847 [Sonderbundskrieg](https://de.wikipedia.org/wiki/Sonderbundskrieg) war ein Bürgerkrieg in der Schweiz, die konservativ regierten katholischen Kantone
@@ -577,11 +579,6 @@ Regierungsrat Kanton Zürich:
 
 Einzelinitiative, Zuteilungsverfahren, [Doppelproportionalen](https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren) 
 
-==========
-
-Bücher:
-* Schweiz in sicht (Komik Buch)
-* Auf zur Schweiz (Geschichte)
 
 =========
 
@@ -600,159 +597,163 @@ Gebräuche und Feste
 [Räbechilbi](https://de.wikipedia.org/wiki/R%C3%A4bechilbi) Richterswil
 [Samichlaus und Schmutzli](https://www.samichlaus-langnau.ch/)
 
-Guetzli https://de.wikipedia.org/wiki/Guetzli
-Sternsinger und Dreikönigssingen https://de.wikipedia.org/wiki/Sternsinger
+[Guetzli](https://de.wikipedia.org/wiki/Guetzli)
+[Sternsinger und Dreikönigssingen](https://de.wikipedia.org/wiki/Sternsinger) 
 
-https://de.wikipedia.org/wiki/Silvesterklaus
+[Silvesterklaus](https://de.wikipedia.org/wiki/Silvesterklaus) 
 
+==========
 
-https://www.bielertagblatt.ch/sites/bielertagblatt.ch/files/31/4f/314fdac1366aff7dda08e7a021a55031.pdf  tests Kanton Bern
+Bücher:
+* [Schweiz in sicht](https://www.editionslep.ch/schweiz-in-sicht) (Komik Buch)
+* [Auf zur Schweiz](https://www.editionslep.ch/auf-zur-schweiz) (Geschichte)
+
+[tests Kanton Bern](https://www.bielertagblatt.ch/sites/bielertagblatt.ch/files/31/4f/314fdac1366aff7dda08e7a021a55031.pdf)   
+
 
 ===========
 
-Wahlrecht: Regierung (KG) und Parlament (KGB) , 4 Jahren
-Stimmrecht: Abstimmung. Auch Änderungen in Bundesverfassung KG
-Initiativrecht: Volksinitiative (Volksmehr + Ständemehr)
-Referendumsrecht
+**Wahlrecht**: Regierung (KG) und Parlament (KGB) , alle 4 Jahre
 
+**Stimmrecht**: Abstimmung. Auch Änderungen in Bundesverfassung KG
+
+**Initiativrecht**: [Volksinitiative](https://www.bk.admin.ch/bk/de/home/politische-rechte/volksinitiativen.html#:~:text=Die%20gesammelten%20Unterschriften%20werden%2C%20nachdem,die%20Volksinitiative%20zustande%20gekommen%20ist) (Volksmehr + Ständemehr). 
 Volksinitiative -> Gesetz vorschlagen, Bundesverfassung ändern, 100K Unterschriften innerhalb von 18 Monaten
 
-https://www.bk.admin.ch/bk/de/home/politische-rechte/volksinitiativen.html#:~:text=Die%20gesammelten%20Unterschriften%20werden%2C%20nachdem,die%20Volksinitiative%20zustande%20gekommen%20ist.
+**Referendumsrecht** 
 
-Bund:	Volksmehr, Ständemehr (Kanton Mehrheit)
-Kanton:	in Kanton ZH 6K Unterschriften
-Gemeinde:	in Stadt ZH 3K Unterschriften
+Bund:	100000 Unterschriften, nötig ist Volksmehr und Ständemehr (Ständemehr  = Kanton Mehrheit)
+Kanton:	in Kanton Zürich nötig sind 6000 Unterschriften
+Gemeinde: in Stadt Zürich nötig sind 3000 Unterschriften
 
 Referendum = neue Gesetzte, 100 Tage Zeit, 50K Unterschrift
 
-Parteien
+=== Parteien
 
-BDP Bürgerlich-Demokratische Partei  https://de.wikipedia.org/wiki/B%C3%BCrgerlich-Demokratische_Partei
-CVP Christlichdemokratische Volkspartei https://de.wikipedia.org/wiki/Christlichdemokratische_Volkspartei
+[BDP Bürgerlich-Demokratische Partei](https://de.wikipedia.org/wiki/B%C3%BCrgerlich-Demokratische_Partei)  
+[CVP Christlichdemokratische Volkspartei](https://de.wikipedia.org/wiki/Christlichdemokratische_Volkspartei)
 
-BDP+CVP -> Die Mitte (2021) https://de.wikipedia.org/wiki/Die_Mitte 13.8%
+[BDP+CVP -> Die Mitte (2021)](https://de.wikipedia.org/wiki/Die_Mitte) 13.8%
 
-EVP Evangelische Partei https://de.wikipedia.org/wiki/Evangelische_Volkspartei
+[EVP Evangelische Partei](https://de.wikipedia.org/wiki/Evangelische_Volkspartei)
 
-FDP Die Liberalen  https://de.wikipedia.org/wiki/FDP.Die_Liberalen 15.1%
+[FDP Die Liberalen](https://de.wikipedia.org/wiki/FDP.Die_Liberalen) 15.1%
 
-GLP Grünliberale Partei https://de.wikipedia.org/wiki/Gr%C3%BCnliberale_Partei
+[GLP Grünliberale Partei](https://de.wikipedia.org/wiki/Gr%C3%BCnliberale_Partei)
 
 GP Grüne Partei
 
-Grüne Schweiz https://de.wikipedia.org/wiki/Gr%C3%BCne_Schweiz 13.2%
+[Grüne Schweiz](https://de.wikipedia.org/wiki/Gr%C3%BCne_Schweiz) 13.2%
 
-SP Sozialdemokratische Partei der Schweiz  https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz 16.8%
+[SP Sozialdemokratische Partei der Schweiz](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz) 16.8%
 
-SVP Schweizerische Volkspartei https://de.wikipedia.org/wiki/Schweizerische_Volkspartei 25.6%
+[SVP Schweizerische Volkspartei](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei) 25.6%
 
-AL Alternative Liste https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz)
+[AL Alternative Liste](https://de.wikipedia.org/wiki/Alternative_Liste_(Schweiz))
 
-
-
-https://www.youtube.com/watch?v=qjQHcphS0lY Das politische System der Schweiz
+[Video : Das politische System der Schweiz](https://www.youtube.com/watch?v=qjQHcphS0lY)
 
 1869 erste ZH Kantonsverfassung
 2006 neue Verfassung des Kantons Zürich
 
 ====
 
-Bundesverfassung:
-Rechten:
-Recht am Leben und Freiheit
-Rechtsgleicheit (no Discriminierung)
-Niederlassungsfreiheit
-Gleichberechtigung (Equal Opportunities) 1981
-Recht auf Ehe 1988
-Glaubensfreiheit und Gewissensfreiheit
-Meinungsfreiheit und Informationsfreiheit
-Medien Freiheit
-Versammlungsfreiheit
-Vereinigungsfreiheit
+**Bundesverfassung**:
+**Rechten**:
+* Recht am Leben und Freiheit
+* Rechtsgleicheit (no Discriminierung)
+* Niederlassungsfreiheit
+* Gleichberechtigung (Equal Opportunities) 1981
+* Recht auf Ehe 1988
+* Glaubensfreiheit und Gewissensfreiheit
+* Meinungsfreiheit und Informationsfreiheit
+* Medien Freiheit
+* Versammlungsfreiheit
+* Vereinigungsfreiheit
 
 Pflichten:
-an das Schweizer Gesetze halten
-Steuern
-Schulpflicht
-Militärdienst
-Versicherungspflicht
-Meldepflicht
+* an das Schweizer Gesetze halten
+* Steuern
+* Schulpflicht
+* Militärdienst
+* Versicherungspflicht
+* Meldepflicht
 
-  Zivilgesetzbuch ZGB
-  Obligationenrech OR
-  Strafgesetzbuch StGB
-  Strassenverkehrsgesetz SVG
-  Berufbildungsgesetz BBG
-  Ausländer- und Integrationsgesetz AIG
-
+Gesetz Bücher:
+* Zivilgesetzbuch ZGB
+* Obligationenrech OR
+* Strafgesetzbuch StGB
+* Strassenverkehrsgesetz SVG
+* Berufbildungsgesetz BBG
+* Ausländer- und Integrationsgesetz AIG
 
 ====
 
-Sozialversicherung
-1 Säule
+== Sozialversicherung
+* 1 Säule
 AHV 1948 Alter Hinterlassene Vorsorge (Grundrente > 64/65).  Bezahlen müssen alle arbeitender Personen > 18 oder alle > 21
 IV Invaliden Vorsorge :
 EL Ergänzungsleistung (wenn die Renten und das Einkommen die minimalen Lebenskosten nicht decken)
 
-2 Säule
+* 2 Säule
 BVG PK Pensionskasse Berufliche Vorsorge
 
-3 Säule
-Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden.
+* 3 Säule
+  - Gebundene Vorsorge, Saule 3A. Die Säule 3a wird deshalb gebundene Vorsorge genannt, weil sie primär zur Altersvorsorge dient und deshalb vom Bund steuerlich gefördert wird. Einzahlungen in die Säule 3a sind nur bis zum festgelegten Maximalbeitrag möglich und können jährlich vom steuerbaren Einkommen abgezogen werden.
+  - Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
 
-	Freie Vorsorge, Saule 3B. In der Säule 3b gibt es keine jährlichen Maximalbeiträge. Die Beiträge können allerdings nicht von den Steuern abgezogen werden. Das Guthaben muss als Vermögen versteuert werden. Die Auszahlung hingegen ist steuerfrei und der Zeitpunkt ist frei wählbar.
-EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
+  - EO Erwerbsersatzordnung inkl Mutterschaftsentschädigung (Militärdienst, Zivildienst oder Zivilschutz, Mutterschaft, Vaterschaftsurlaub )
+  - FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre) 
 
-FZ Familienzulagen (Kinderzulage von 200 Franken für Kinder bis 16 Jahre, Ausbildungszulage von 250 Franken für Jugendliche bis 25 Jahre)
+== ALV Arbeitslosenversicherung
+== UVG [Unfallversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html) Berufsunfall und Nichtberufsunfallversicherung (BU NBU) 
+== KV Krankenversicherung: Grundversicherung, Zusatzversicherung
 
-ALV Arbeitslosenversicherung
-UVG Unfallversicherung Berufsunfall und Nichtberufsunfallversicherung (BU NBU) https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html
-KV Krankenversicherung: Grundversicherung, Zusatzversicherung
 Sozialhilfe
 
-RAV Regionales Arbeitsvermittlungszentrum
+* RAV Regionales Arbeitsvermittlungszentrum
 
 ==========
 
 Bund ist für Berufsbildung zuständig
-Vorschule (Kindergarden) 2 Jahre
-Primarschule (4-6 Jahre) + Sekundarstufe I (3-5 Jahre) : 9 Jahre
-Sekundarstufe II 5 Jahre (Maturitätsschulen, Fachmittelschulen, Berufsfachschule, Lehre, Berufsmaturität)
-Tertiärstufe 9 Jahre (Universität, Fachhochschulen, Höhere Fachschulen)
+* Vorschule (Kindergarden) 2 Jahre
+* Primarschule (4-6 Jahre) + Sekundarstufe I (3-5 Jahre) : 9 Jahre
+* Sekundarstufe II 5 Jahre (Maturitätsschulen, Fachmittelschulen, Berufsfachschule, Lehre, Berufsmaturität)
+* Tertiärstufe 9 Jahre (Universität, Fachhochschulen, Höhere Fachschulen)
 
-Betriebslehre
-Gymnasien
-Fachmittelschulen
-Weiterbildung, Erwachsenenbildung
+* Betriebslehre
+* Gymnasien
+* Fachmittelschulen
+* Weiterbildung, Erwachsenenbildung
 
 ====
 
 Feste
-Nationalfeiertag 1 Aug (Bundesfeier)
-Weihnachten (25 Dez)
-Stephanstag (26 Dec)
-Neujahrstag (1 Jan)
-- Ostern (4 Apr)
-- Tag der Arbeit (1 Mai)
-- Auffahrt (13 Mai)
-- Pfingsten (23 Mai)
-- Samichlaus (6 Dez)
-- Berhtoldstag (2 Jan)
-- Karfreitag
-- Fronleichnam (Corpus Christi)
-- Mariä Himmelsfahrt
+* Nationalfeiertag 1 Aug (Bundesfeier)
+* Weihnachten (25 Dez)
+* Stephanstag (26 Dec)
+* Neujahrstag (1 Jan)
+* Ostern (4 Apr)
+* Tag der Arbeit (1 Mai)
+* Auffahrt (13 Mai)
+* Pfingsten (23 Mai)
+* Samichlaus (6 Dez)
+* Berhtoldstag (2 Jan)
+* Karfreitag
+* Fronleichnam (Corpus Christi)
+* Mariä Himmelsfahrt
 
 ====
 
-Küche
-Käsefondue
-Caquelon
-Raclette
-Rösti
-Birchermüesli
-Schokolade
+[Schweizer klassiker Rezepte](https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/)
 
-https://www.swissmilk.ch/de/rezepte-kochideen/schweizer-klassiker-rezepte/
+* Küche
+* Käsefondue
+* Caquelon
+* Raclette
+* Rösti
+* Birchermüesli
+* Schokolade
 
 ========
 
@@ -760,11 +761,13 @@ Geographie
 
 Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, Alpen
 
-+ Po Ebene (Tessin) und Oberrhein (Basel)
+* Po Ebene (Tessin) und 
+* Oberrhein (Basel)
+* Mittelland - 30% Fläche, 66% Bevölkerung
+* Alpen - 60% Fläche
+* Jura - 10% Fläche
 
-Mittelland - 30% Fläche, 66% Bevölkerung
-Alpen - 60% Fläche
-Jura - 10% Fläche
+Kantonen: 
 
 AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
 AI Appenzeller Innerhoden DE : Appenzell
@@ -793,27 +796,25 @@ VS Wallis DE+FR : Brig, Visp, Zermatt
 ZG Zug DE : Zugersee
 ZH Zürich  DE
 
-ZH Zürich : 1728 Km2, 1.5 M ,
+ZH Zürich : 1729 Km2, 1.5 Millionen Einwohner ,
 Flüsse: Limmat, Sihl, Glatt, Töss, Rhein
-Berge: Schnebelhorn 1292, Bachtel 1115, und das Hörnli 1133m, Hinwil, Albiskette (Uetlieberg 869), Lägern (Juraausläufer) 866m
+Berge: Schnebelhorn 1292 m, Bachtel 1115 m, und das Hörnli 1133 m, Hinwil, Albiskette (Uetlieberg 869 m), Lägern (Juraausläufer) 866 m
 See: Zürichsee, Pfäffikersee, Greifensee, Türlersee
-Städte: Zürich (420k) Winterthur (114k) Uster (35k) Dübendorf (29k) Dietikon (28k) ( Effretikon ??? Horgen ???)
+Städte: Zürich (420k) Winterthur (114k) Uster (35k) Dübendorf (29k) Dietikon (28k) ( Effretikon Horgen )
 
 Zürcher Weinland
 Goldküuste (Zollikon, Küusnacht, Erlenbach)
 Penüselküste
 
-Kantonen: St Gallen, Schaffausen, Aargau, Zug, Thurgau, Schwyz
+Angrenzende Kantone: St Gallen, Schaffausen, Aargau, Zug, Thurgau, Schwyz
 
+[Religionen in der Schweiz](https://de.wikipedia.org/wiki/Religionen_in_der_Schweiz)
 29% Evangelisch, 26% Catholisch
-https://de.wikipedia.org/wiki/Religionen_in_der_Schweiz
 
 https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich
 Kanton ZH: 162 Gemeinden, 12 Bezirke
-Zürich, Winterthur, Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen, Hinwil, Pfäffikon, Andelfingen
+Bezirke: Zürich, Winterthur, Horgen, Affoltern, Dietikon, Dielsdorf, Bülach, Uster, Meilen, Hinwil, Pfäffikon, Andelfingen
 
-
-Ustertag 1830 https://de.wikipedia.org/wiki/Ustertag ->  zehntausend Männer der zürcherischen Landschaft verlangten mit dem «Memorial von Uster» eine neue Verfassung
 
 62% Deutsch
 23% Französisch
