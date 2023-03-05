@@ -466,10 +466,12 @@ ist aber auch Wahlorgan für die anderen obersten Bundesbehörden (Bundesrat und
 
 Das [Parlamentsgebäude](https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude) oder Bundeshaus liegt in Bern. 
 
-Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
+Nationalrat=Präsident Martin Candinas (die Mitte), Vizepräsident(in) Eric Nussbaumer   , Maja Riniker
 
 Ständerat=46 Mitgliedern (1 in Obwalden, Nidwalden, Basel-Stadt, Basel-Landschaft, Appenzell Ausserrhoden und Appenzell Innerrhoden, 2 in den Anderen). Präsident Thomas Hefti. Vizepräsident Élisabeth Baume-Schneider , Brigitte Häberli-Koller
 Wie viele [Mitglieder der Ständerat](https://de.wikipedia.org/wiki/Kanton_(Schweiz)#Liste_der_Schweizer_Kantone_mit_ihren_Eckdaten) hat jeder Kanton?
+ZH BE LU UR SZ GL ZG FR SO SH SG GR AG TG TI VD VS NE GE JU : 2
+OW NW BS BL AR AI : 1 
 
 Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
@@ -488,88 +490,92 @@ Bei Kriegsgefahr wählt die Bundesversammlung den **General der Schweizer Armee*
 
 Das [Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) ist die Regierung der Schweizerischen Eidgenossenschaft,
 **Exekutive** der Schweiz auf Bundesebene.
-Mitglieder: Bundespräsident + Vize
-
-
+7 Mitglieder + Bundespräsident + Vize + Bundeskanzler
 
 LEGISLATIVE
-BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246
-KANTON PARLAMENT : Kantonsrat (oder Grosser Rat oder Landesrat) 180 in ZH, 4 Jahre
-GEMEINDE PARLAMENT : Gemeinde/Stadt Parlament. Gemeinderat 125 in ZH
-
+BUND PARLAMENT : Nationalrat 200, Ständerat 46. Bundesversammlung 246, alle 4 Jahre gewählt 
+KANTON PARLAMENT : Kantonsrat (oder Grosser Rat oder Landesrat) 180 in ZH, alle 4 Jahre gewählt
+GEMEINDE PARLAMENT : Gemeinde oder Stadt Parlament. genannt Gemeinderat mit 125 Mitglieder in ZH, alle 4 Jahre gewählt
 
 EXECUTIVE
-BUND REGIERUNG : Bundesrat 7
-KANTON REGIERUNG : Regierungsrat https://www.zh.ch/de/regierungsrat.html 7 ZH, 4 Jahre: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
-GEMEINDE REGIERUNG - Stadtrat 9 ZH, Corine Mauch (SP), Stadtpräsidentin
+BUND REGIERUNG : Bundesrat 7 Mitglieder
+KANTON REGIERUNG : [Regierungsrat](https://www.zh.ch/de/regierungsrat.html) 7 in ZH, alle 4 Jahre gewählt: Dr. Kathrin Arioli (Staatsschreiberin), Natalie Rickli, Dr. Silvia Steiner, Mario Fehr (Vizepräsident 2022/2023), Ernst Stocker (Präsident 2022/2023), Carmen Walker Späh, Jacqueline Fehr, Dr. Martin Neukom. vom Volk gewählt
+GEMEINDE REGIERUNG - Stadtrat 9 Mitglieder in ZH, Corine Mauch (SP), Stadtpräsidentin
 
 JUDIKATIVE
-BUND GERICHT : Bundesgericht 38/41 Mitglieder (6 Jahren)
+BUND GERICHT : Bundesgericht 38/41 Mitglieder (alle 6 Jahre gewählt)
 KANTON GERICHT : Kantonsgericht/Obergericht (von Kantonsrat gewählt)
 GEMEINDE GERICHT : Amtgericht/Bezirksgericht
 
-					  (alle Rat)       ( alle Gericht)
-Bundesversammlung 246 Bundesrat  7       Bundesgericht 41
-Kantonsrat 180        Regierungsrat 7    Kantonsgericht/Obergericht 40
-Gemeinderat 125       Stadtrat  9        Bezirksgericht
+Zusammenfassung:
+
+| Parlament             | Rat             | Gericht                       |
+|-----------------------|-----------------|-------------------------------|
+| Bundesversammlung 246 | Bundesrat  7    | Bundesgericht 41              |
+| Kantonsrat 180        | Regierungsrat 7 | Kantonsgericht/Obergericht 40 |
+| Gemeinderat 125       | Stadtrat  9     | Bezirksgericht                |
 
 
 Bundesrat:
-Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
-Simonetta Sommaruga -> UVEK Umwelt Verkehr Energie Kommunikation
-Alain Berset -> EDI Intern
-Ignazio Cassis -> EDA Auswärtige (Bundespräsident)
-Ueli Maurer -> EFD Finanz
-Guy Parmelin -> WFB Wirtschaft Bildung Forschung
-Karin Keller-Sutter -> EJPD  Justiz & Polizei
 
-Jede Mittwoch sie haben Sitzung. Kollegialitätsprinzip: auch wenn sie nicht zustimmen, sie müssen die Entscheidungen vertreten "wir sind ser Meinung, dass..."
+| Mitglied            | Departement                                   |
+|---------------------|-----------------------------------------------|
+| Viola Amherd        | VBS Verteidigung Bevölkerungsschutz und Sport |
+| Simonetta Sommaruga | UVEK Umwelt Verkehr Energie Kommunikation     |
+| Alain Berset        | EDI Intern                                    |
+| Ignazio Cassis      | EDA Auswärtige (Bundespräsident)              |
+| Ueli Maurer         | EFD Finanz                                    |
+| Guy Parmelin        | WFB Wirtschaft Bildung Forschung              |
+| Karin Keller-Sutter | EJPD  Justiz & Polizei                        |
 
-Stadtrat ZH (EXECUTIVE)  9+2 https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
+Jede Mittwoch haben sie Sitzung. 
+Kollegialitätsprinzip: auch wenn sie nicht zustimmen, sie müssen die Entscheidungen vertreten "wir sind der Meinung, dass..."
+
+[Stadtrat](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html) in Zürich (EXECUTIVE)  9 + 2 
 André Odermatt, Claudia Cuche-Curti (Stadtschreiberin), Simone Brander, Daniel Leupi, Raphael Golta, Corine Mauch, Michael Baumer, Karin Rykart, Andrea Töndury (Rechtskonsulent), Filippo Leutenegger, Andreas Hauri
 
-"Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. Jedes Mitglied steht einem Departement vor.
+"Der Stadtrat bildet die Regierung der Stadt Zürich und arbeitet als Kollegialbehörde. Seine neun Mitglieder sind vollamtlich tätig. 
+Jedes Mitglied steht einem Departement vor.
 
-Üblicherweise tritt der Stadtrat jeweils am Mittwochmorgen im Stadtratssaal des Stadthauses zu einer ordentlichen Sitzung zusammen. Den Vorsitz führt die Stadtpräsidentin. 
+Üblicherweise tritt der Stadtrat jeweils am Mittwochmorgen im Stadtratssaal des Stadthauses zu einer ordentlichen Sitzung zusammen. 
+Den Vorsitz führt die **Stadtpräsidentin**. 
 
-Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
+Die Wahl des Stadtrats durch die Stimmberechtigten findet alle vier Jahre statt. 
+Im Gegensatz zu dem gleichzeitig im Proporz- oder Verhältnissystem gewählten Gemeinderat gilt bei den Stadtratswahlen das Majorz- oder Mehrheitsprinzip."
 
 
-Nationalrat Zürich 36 Sitze (ab 2023)
-https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich
+[Nationalrat Zürich](https://www.parlament.ch/de/organe/nationalrat/mitgliederverzeichnis-nationalrat-nach-kantonen/mitglieder-nationalrat-kanton-zurich) 36 Sitze (ab 2023)
 
+
+[Mitglieder des Gemeinderats von Zürich](https://www.gemeinderat-zuerich.ch/mitglieder/)
+[Mitglieder des Stadtrats von Zürich](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html)
+
+[Stadtpolizei Zürich](https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html)
 Bundespolizei. Kantonspolizei. Stadt oder Gemeindepolizei. Verkehrspolizei.
 
-Mitglieder des Gemeinderats von Zürich https://www.gemeinderat-zuerich.ch/mitglieder/
-Mitglieder des Stadtrats von Zürich https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/mitglieder.html
-
-https://www.parlament.ch/de
-
+Quelle:  https://www.parlament.ch/de,
 https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
-Stadtpolizei Zürich: https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/organisation_stapozuerich.html
+[Staatskalender](sk.zh.ch)
 
+=== Zürich
 
-sk.zh.ch Staatskalender
+Kanton Zürich : 1729 Quadrat Km, 1.5 Millionen Einwohner ( 400.0000 die Stadt)
+12 sind die Bezirke
+162 sind die Gemeinde
 
-Kanton Zürich : 1729 Km2, 1.5 M ( 400K die Stadt)
-12 die Bezirke (der Bezirk)
-162 die Gemeinde (die Gemeinde)
-Regierungsrat Kanton Zürich :
+Regierungsrat Kanton Zürich:
 
-Ernst Stocker Präsident und Vorsteher der Finanzdirektion
-Mario Fehr Vizepräsident und Vorsteher der Sicherheitsdirektion
-Carmen Walker Späh Vorsteherin der Volkswirtschaftsdirektion
-Dr. Silvia Steiner Vorsteherin der Bildungsdirektion
-Jacqueline Fehr Vorsteherin der Direktion der Justiz und des Innern
-Natalie Rickli Vorsteherin der Gesundheitsdirektion
-Dr. Martin Neukom Vorsteher der Baudirektion
+| Mitglieder         | Direktion                                            |
+|--------------------|------------------------------------------------------|
+| Ernst Stocker      | Präsident und Vorsteher der Finanzdirektion          |
+| Mario Fehr         | Vizepräsident und Vorsteher der Sicherheitsdirektion |
+| Carmen Walker Späh | Vorsteherin der Volkswirtschaftsdirektion            |
+| Dr. Silvia Steiner | Vorsteherin der Bildungsdirektion                    |
+| Jacqueline Fehr    | Vorsteherin der Direktion der Justiz und des Innern  |
+| Natalie Rickli     | Vorsteherin der Gesundheitsdirektion                 |
+| Dr. Martin Neukom  | Vorsteher der Baudirektion                           |
 
-Einzelinitiative, Zuteilungsverfahren
-Doppelproportionalen https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren
-
-
-
-
+Einzelinitiative, Zuteilungsverfahren, [Doppelproportionalen](https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren) 
 
 ==========
 
@@ -577,25 +583,22 @@ Bücher:
 * Schweiz in sicht (Komik Buch)
 * Auf zur Schweiz (Geschichte)
 
-Bundestaller (Münze zu Ehren der Schweiz) 1500 Jakob Stanfer, Soldaten
-Schweiz ist eine Willensnation. Eidgenossen.
-
 =========
 
 Gebräuche und Feste
 
-Morgestraich https://de.wikipedia.org/wiki/Morgestraich Basler Fasnacht
-Tschäggätta https://de.wikipedia.org/wiki/L%C3%B6tschental#Tsch%C3%A4gg%C3%A4tta Lötschental
-Sechseläuten https://de.wikipedia.org/wiki/Sechsel%C3%A4uten Zürich
-Chalandamarz https://de.wikipedia.org/wiki/Chalandamarz Graubünden
-Zwänzgerle https://de.wikipedia.org/wiki/Zw%C3%A4nzgerle Zürich
-Unspunnenfest https://de.wikipedia.org/wiki/Unspunnenfest Interlaken
-Kuhkämpfe https://de.wikipedia.org/wiki/Kuhkampf Wallis
-Almauftrieb https://de.wikipedia.org/wiki/Almauftrieb Alpen
-Zibelemärit https://de.wikipedia.org/wiki/Zibelem%C3%A4rit Bern
-Räbenlicht https://de.wikipedia.org/wiki/R%C3%A4benlicht
-Räbechilbi https://de.wikipedia.org/wiki/R%C3%A4bechilbi Richterswil
-Samichlaus und Schmutzli https://www.samichlaus-langnau.ch/
+[Morgestraich](https://de.wikipedia.org/wiki/Morgestraich) Basler Fasnacht
+[Tschäggätta](https://de.wikipedia.org/wiki/L%C3%B6tschental#Tsch%C3%A4gg%C3%A4tta) Lötschental
+[Sechseläuten](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten) Zürich
+[Chalandamarz](https://de.wikipedia.org/wiki/Chalandamarz) Graubünden
+[Zwänzgerle](https://de.wikipedia.org/wiki/Zw%C3%A4nzgerle) Zürich
+[Unspunnenfest](https://de.wikipedia.org/wiki/Unspunnenfest) Interlaken
+[Kuhkämpfe](https://de.wikipedia.org/wiki/Kuhkampf) Wallis
+[Almauftrieb](https://de.wikipedia.org/wiki/Almauftrieb) Alpen
+[Zibelemärit](https://de.wikipedia.org/wiki/Zibelem%C3%A4rit) Bern
+[Räbenlicht](https://de.wikipedia.org/wiki/R%C3%A4benlicht)
+[Räbechilbi](https://de.wikipedia.org/wiki/R%C3%A4bechilbi) Richterswil
+[Samichlaus und Schmutzli](https://www.samichlaus-langnau.ch/)
 
 Guetzli https://de.wikipedia.org/wiki/Guetzli
 Sternsinger und Dreikönigssingen https://de.wikipedia.org/wiki/Sternsinger
@@ -675,7 +678,7 @@ Militärdienst
 Versicherungspflicht
 Meldepflicht
 
-+ Zivilgesetzbuch ZGB
+  Zivilgesetzbuch ZGB
   Obligationenrech OR
   Strafgesetzbuch StGB
   Strassenverkehrsgesetz SVG
