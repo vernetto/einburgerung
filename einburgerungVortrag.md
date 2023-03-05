@@ -559,6 +559,8 @@ Quelle:  https://www.parlament.ch/de,
 https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20210613.html
 [Staatskalender](sk.zh.ch)
 
+[Gemeinderat Zürich](https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/)
+
 === Zürich
 
 Kanton Zürich : 1729 Quadrat Km, 1.5 Millionen Einwohner ( 400.0000 die Stadt)
@@ -578,6 +580,18 @@ Regierungsrat Kanton Zürich:
 | Dr. Martin Neukom  | Vorsteher der Baudirektion                           |
 
 Einzelinitiative, Zuteilungsverfahren, [Doppelproportionalen](https://de.wikipedia.org/wiki/Doppeltproportionales_Zuteilungsverfahren) 
+
+Fakultatives Referendum 100 Tagen 50k Unterschriften
+
+Wenn die Stimmberechtigten gegen Beschlüsse des Parlaments sind, können sie das Referendum ergreifen (fakultatives Referendum). Die Stimmberechtigten müssen dann innerhalb von 100 Tagen 50000 gültige Unterschriften sammeln. Diese Frist beginnt zu laufen mit dem Tag, an dem der betreffende Erlass amtlich veröffentlicht wird. Das Referendum kann auch von acht Kantonen gemeinsam verlangt werden. Das Gesetz tritt nur in Kraft, wenn es von der Mehrheit der Abstimmenden angenommen wird.
+
+Obligatorisches Referendum
+
+Eine Volksabstimmung muss durchgeführt werden, wenn das Parlament gewisse Erlasse verabschiedet, insbesondere wenn es die Verfassung ändert. Verfassungsänderungen treten nur in Kraft, wenn sie von der Mehrheit des Stimmvolks und der Mehrheit der Kantone in der Volksabstimmung angenommen werden.
+
+[Kollegialitätsprinzip](https://de.wikipedia.org/wiki/Kollegialit%C3%A4tsprinzip)
+[Konkordanzdemokratie](https://de.wikipedia.org/wiki/Konkordanzdemokratie)
+[Bundesgericht](https://de.wikipedia.org/wiki/Bundesgericht_(Schweiz))
 
 
 =========
@@ -1012,18 +1026,11 @@ Miscellaneous
 [Beat Fischer](https://de.wikipedia.org/wiki/Beat_Fischer) Gründer der Post Bern 1673
 [Oskar Bider](https://de.wikipedia.org/wiki/Oskar_Bider) Flugpionier
 
-Rilke https://de.wikipedia.org/wiki/Rainer_Maria_Rilke Lyriker
-Othmar Ammann https://de.wikipedia.org/wiki/Othmar_Ammann Brückenbauer (Verrazzano)
-Sulzer AG https://de.wikipedia.org/wiki/Sulzer_AG Industriekonzern  Winterthur
-Schweizerische Lokomotiv- und Maschinenfabrik https://de.wikipedia.org/wiki/Schweizerische_Lokomotiv-_und_Maschinenfabrik Winterthur
-Rieter https://de.wikipedia.org/wiki/Rieter Textilmaschinenbau  Winterthur
-Swica https://de.wikipedia.org/wiki/Swica Versicherungsgesellschaft Winterthur
-Zimmer Biomet Holdings https://de.wikipedia.org/wiki/Zimmer_Biomet Winterthur
-Veloland Schweiz https://de.wikipedia.org/wiki/Veloland_Schweiz
+[Rilke](https://de.wikipedia.org/wiki/Rainer_Maria_Rilke) Lyriker
+[Othmar Ammann](https://de.wikipedia.org/wiki/Othmar_Ammann) Brückenbauer (Verrazzano)
 
 
-HYMN Schweiz
-https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/schweizer-landeshymne.html
+[HYMN der Schweiz](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/schweizer-landeshymne.html)
 
 Trittst im Morgenrot daher,
 Seh'ich dich im Strahlenmeer,
@@ -1075,46 +1082,42 @@ https://www.zh.ch/de/migration-integration/einbuergerung/grundkenntnistest.html
 
 Zeitungen
 
-https://de.wikipedia.org/wiki/Liste_von_Schweizer_Zeitungen
-Tages-Anzeiger , az Nordwestschweiz ( Aargauer Zeitung), Neue Zürcher Zeitung, Blick, 20min
-https://www.tagesanzeiger.ch/schweiz
+[Liste von Schweizer Zeitungen](https://de.wikipedia.org/wiki/Liste_von_Schweizer_Zeitungen)
+[Tages-Anzeiger](https://www.tagesanzeiger.ch/schweiz) , AZ Nordwestschweiz ( Aargauer Zeitung), Neue Zürcher Zeitung, Blick, 20min
 
-https://www.swissinfo.ch/ger/direkte-demokratie_so-funktioniert-das-politische-system-der-schweiz/31029048
-
-https://www.youtube.com/watch?v=9D6jhjAn38M Ausstellung "Geschichte Schweiz" für Schulen
-
-https://www.youtube.com/watch?v=hYLXPpLKZ5Y «Swissness. Tradition und Innovation»
 
 ===========
 
-Uster https://de.wikipedia.org/wiki/Uster
-Bülach https://de.wikipedia.org/wiki/B%C3%BClach
-Sechseläutenplatz https://de.wikipedia.org/wiki/Sechsel%C3%A4utenplatz
-Robert Grimm https://de.wikipedia.org/wiki/Robert_Grimm Politiker
-Lac des Dix https://de.wikipedia.org/wiki/Lac_des_Dix Staudamm Grande Dixence
-Cosey https://de.wikipedia.org/wiki/Cosey  Comiczeichner
+[Uster](https://de.wikipedia.org/wiki/Uster)
+[Bülach](https://de.wikipedia.org/wiki/B%C3%BClach)
+[Sechseläutenplatz](https://de.wikipedia.org/wiki/Sechsel%C3%A4utenplatz)
+[Robert Grimm](https://de.wikipedia.org/wiki/Robert_Grimm) Politiker
+[Lac des Dix](https://de.wikipedia.org/wiki/Lac_des_Dix) Staudamm Grande Dixence
+[Cosey](https://de.wikipedia.org/wiki/Cosey)  Comiczeichner
 
 
-Exuperantius https://de.wikipedia.org/wiki/Exuperantius
-Felix und Regula https://de.wikipedia.org/wiki/Felix_und_Regula
+[Exuperantius](https://de.wikipedia.org/wiki/Exuperantius)
+[Felix und Regula](https://de.wikipedia.org/wiki/Felix_und_Regula)
 
-Landsgemeinde https://de.wikipedia.org/wiki/Landsgemeinde Appenzell Versammlung
+[Landsgemeinde](https://de.wikipedia.org/wiki/Landsgemeinde) Appenzell Versammlung
 
-Grosse Burgunderchronik https://de.wikipedia.org/wiki/Grosse_Burgunderchronik Zürcher Schilling
+[Grosse Burgunderchronik](https://de.wikipedia.org/wiki/Grosse_Burgunderchronik) Zürcher Schilling
 
-Elisabeth Kopp https://de.wikipedia.org/wiki/Elisabeth_Kopp Politikerin, erste Frau der Schweiz in Bundesrat
+[Elisabeth Kopp](https://de.wikipedia.org/wiki/Elisabeth_Kopp) Politikerin, erste Frau der Schweiz in Bundesrat
 
-Topographische Karte der Schweiz https://de.wikipedia.org/wiki/Topographische_Karte_der_Schweiz Dufour
+[Topographische Karte der Schweiz](https://de.wikipedia.org/wiki/Topographische_Karte_der_Schweiz) Dufour
 
-Meyer Guggenheim https://de.wikipedia.org/wiki/Meyer_Guggenheim schweizerisch-amerikanischer Industrieller
+[Meyer Guggenheim](https://de.wikipedia.org/wiki/Meyer_Guggenheim) schweizerisch-amerikanischer Industrieller
 
-Josephine Zürcher https://de.wikipedia.org/wiki/Josephine_Z%C3%BCrcher Ärztin
+[Josephine Zürcher](https://de.wikipedia.org/wiki/Josephine_Z%C3%BCrcher) Ärztin
 
-Bruno Manser https://de.wikipedia.org/wiki/Bruno_Manser (Malaysia) Ethnologe und Umwelt- und Menschenrechtsaktivist.
+[Bruno Manser](https://de.wikipedia.org/wiki/Bruno_Manser) (Malaysia) Ethnologe und Umwelt- und Menschenrechtsaktivist.
 
 
 =========
+
 ZÜRICH STADT
+
 Lindenhof  https://de.wikipedia.org/wiki/Lindenhof_(Stadt_Z%C3%BCrich)
 Schipfe https://de.wikipedia.org/wiki/Schipfe
 
@@ -1124,18 +1127,6 @@ https://www.e-rara.ch/
 
 ===========
 
-Fakultatives Referendum 100 Tagen 50k Unterschriften
-
-Wenn die Stimmberechtigten gegen Beschlüsse des Parlaments sind, können sie das Referendum ergreifen (fakultatives Referendum). Die Stimmberechtigten müssen dann innerhalb von 100 Tagen 50000 gültige Unterschriften sammeln. Diese Frist beginnt zu laufen mit dem Tag, an dem der betreffende Erlass amtlich veröffentlicht wird. Das Referendum kann auch von acht Kantonen gemeinsam verlangt werden. Das Gesetz tritt nur in Kraft, wenn es von der Mehrheit der Abstimmenden angenommen wird.
-
-Obligatorisches Referendum
-
-Eine Volksabstimmung muss durchgeführt werden, wenn das Parlament gewisse Erlasse verabschiedet, insbesondere wenn es die Verfassung ändert. Verfassungsänderungen treten nur in Kraft, wenn sie von der Mehrheit des Stimmvolks und der Mehrheit der Kantone in der Volksabstimmung angenommen werden.
-
-Kollegialitätsprinzip https://de.wikipedia.org/wiki/Kollegialit%C3%A4tsprinzip
-Konkordanzdemokratie https://de.wikipedia.org/wiki/Konkordanzdemokratie
-Bundesgericht  https://de.wikipedia.org/wiki/Bundesgericht_(Schweiz)
-
 https://www.youtube.com/watch?v=ctig2b2bPLY  Die Schweiz und ihr Nein zu Europa | 20 Jahre nach der EWR Abstimmung
 https://www.youtube.com/watch?v=OiVKr8mngFw Die Akte UBS – Das Ende des Schweizer Bankgeheimnisses | Doku | SRF Dok
 https://www.youtube.com/watch?v=8RsD2j2dvTU Die Macht des Volkes | Direkte Demokratie in der Schweiz | Doku | SRF Dok
@@ -1144,133 +1135,121 @@ https://www.youtube.com/watch?v=9lchmlwUX5A Verteidigungsministerin Viola Amherd
 
 ==========
 
-Niklaus von Flüe https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe Schutzpatron Schweiz
+[Niklaus von Flüe](https://de.wikipedia.org/wiki/Niklaus_von_Fl%C3%BCe) Schutzpatron Schweiz
 
-https://www.gemeinderat-zuerich.ch/ueber-den-gemeinderat/
 
 Museen
-Kunstmuseum Basel https://de.wikipedia.org/wiki/Kunstmuseum_Basel
-Kunsthaus Zürich https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich
-https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY
-Museum Rietberg https://de.wikipedia.org/wiki/Museum_Rietberg "Kunst aus Asien, Afrika, Amerika und Ozeanien"
-Museum Tinguely https://de.wikipedia.org/wiki/Museum_Tinguely Basel
-Landesmuseum Zürich https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich
-https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html
-Kunstmuseum Bern https://de.wikipedia.org/wiki/Kunstmuseum_Bern
-Zentrum Paul Klee https://de.wikipedia.org/wiki/Zentrum_Paul_Klee Bern
+[Kunstmuseum Basel](https://de.wikipedia.org/wiki/Kunstmuseum_Basel)
+[Kunsthaus Zürich](https://de.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich) und hier ein [Dokufilm](https://www.ardmediathek.de/video/museums-check/mit-patti-basler-im-kunsthaus-zuerich/3sat/Y3JpZDovL3N3ci5kZS9hZXgvbzE1ODIzMDY)
+[Museum Rietberg](https://de.wikipedia.org/wiki/Museum_Rietberg) "Kunst aus Asien, Afrika, Amerika und Ozeanien"
+[Museum Tinguely](https://de.wikipedia.org/wiki/Museum_Tinguely) Basel
+[Landesmuseum Zürich](https://de.wikipedia.org/wiki/Landesmuseum_Z%C3%BCrich) und hier [Dokufilm](https://www.3sat.de/kultur/museums-check/museums-check-mit-markus-brock-142.html)
+[Kunstmuseum Bern](https://de.wikipedia.org/wiki/Kunstmuseum_Bern)
+[Zentrum Paul Klee](https://de.wikipedia.org/wiki/Zentrum_Paul_Klee) Bern
 
 Theater
-Opernhaus Zürich https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich
-Schauspielhaus Zürich https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich
+[Opernhaus Zürich](https://de.wikipedia.org/wiki/Opernhaus_Z%C3%BCrich)
+[Schauspielhaus Zürich](https://de.wikipedia.org/wiki/Schauspielhaus_Z%C3%BCrich)
 
-Emil Georg Bührle https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle
-Limmatquai https://de.wikipedia.org/wiki/Limmatquai
+[Emil Georg Bührle](https://de.wikipedia.org/wiki/Emil_Georg_B%C3%BChrle)
+[Limmatquai](https://de.wikipedia.org/wiki/Limmatquai)
 
 
-Haus zum Rüden https://de.wikipedia.org/wiki/Haus_zum_R%C3%BCden
-Zunfthaus zur Zimmerleuten https://de.wikipedia.org/wiki/Zunfthaus_zur_Zimmerleuten
+[Haus zum Rüden](https://de.wikipedia.org/wiki/Haus_zum_R%C3%BCden)
+[Zunfthaus zur Zimmerleuten](https://de.wikipedia.org/wiki/Zunfthaus_zur_Zimmerleuten)
 
-Stadthaus Zürich https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich Gustav Gull 1898, 300 Mitarbeiter des Präsidialdepartements – darunter die Dienstabteilungen Bevölkerungsamt, Kultur, Stadtentwicklung und Fachstelle für Gleichstellung – des Finanzdepartements und der Stadtkanzlei.
+[Stadthaus Zürich](https://de.wikipedia.org/wiki/Stadthaus_Z%C3%BCrich) Gustav Gull 1898, 300 Mitarbeiter des Präsidialdepartements – 
+darunter die Dienstabteilungen Bevölkerungsamt, Kultur, Stadtentwicklung und Fachstelle für Gleichstellung – des Finanzdepartements und der Stadtkanzlei.
 
-Rudolf-Brun-Brücke https://de.wikipedia.org/wiki/Rudolf-Brun-Br%C3%BCcke
+[Rudolf-Brun-Brücke](https://de.wikipedia.org/wiki/Rudolf-Brun-Br%C3%BCcke)
 
-Schloss Greyerz https://de.wikipedia.org/wiki/Schloss_Greyerz Freiburg
+[Schloss Greyerz](https://de.wikipedia.org/wiki/Schloss_Greyerz) Freiburg
 
-Zug https://de.wikipedia.org/wiki/Zug_(Stadt)
-Stiftsbibliothek St. Gallen https://de.wikipedia.org/wiki/Stiftsbibliothek_St._Gallen
-Gallus https://de.wikipedia.org/wiki/Gallus_(Heiliger)
+[Zug](https://de.wikipedia.org/wiki/Zug_(Stadt))
+[Stiftsbibliothek St. Gallen](https://de.wikipedia.org/wiki/Stiftsbibliothek_St._Gallen)
+[Gallus](https://de.wikipedia.org/wiki/Gallus_(Heiliger))
 
-Augusta Raurica https://de.wikipedia.org/wiki/Augusta_Raurica Basel
+[Augusta Raurica](https://de.wikipedia.org/wiki/Augusta_Raurica) Basel
 
-Marie Goegg-Pouchoulin https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin Frauenstimmrecht
-Meta von Salis https://de.wikipedia.org/wiki/Meta_von_Salis Frauenstimmrecht
-Katharina Zenhäusern https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern Stimmzettel
+[Marie Goegg-Pouchoulin](https://de.wikipedia.org/wiki/Marie_Goegg-Pouchoulin) Frauenstimmrecht
+[Meta von Salis](https://de.wikipedia.org/wiki/Meta_von_Salis) Frauenstimmrecht
+[Katharina Zenhäusern](https://de.wikipedia.org/wiki/Katharina_Zenh%C3%A4usern) Stimmzettel
 
-Rhätische Bahn https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn Graubünden
-Berninabahn https://de.wikipedia.org/wiki/Berninabahn Graubünden
-Bernina Express https://de.wikipedia.org/wiki/Bernina_Express Graubünden
+[Rhätische Bahn](https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn) Graubünden
+[Berninabahn](https://de.wikipedia.org/wiki/Berninabahn) Graubünden
+[Bernina Express](https://de.wikipedia.org/wiki/Bernina_Express) Graubünden
 
-Albulabahn https://de.wikipedia.org/wiki/Albulabahn Graubünden
+[Albulabahn](https://de.wikipedia.org/wiki/Albulabahn) Graubünden
 
-Der Munot https://de.wikipedia.org/wiki/Munot Schaffhausen
-Wildkirchli https://de.wikipedia.org/wiki/Wildkirchli  Appenzell Innerrhoden
-Titlis https://de.wikipedia.org/wiki/Titlis Obwalden
-Greyerz  https://de.wikipedia.org/wiki/Schloss_Greyerz Freiburg
+[Der Munot](https://de.wikipedia.org/wiki/Munot) Schaffhausen
+[Wildkirchli](https://de.wikipedia.org/wiki/Wildkirchli)  Appenzell Innerrhoden
+[Titlis](https://de.wikipedia.org/wiki/Titlis) Obwalden
+[Schloss Greyerz](https://de.wikipedia.org/wiki/Schloss_Greyerz) Freiburg
 
 
 
 Kirche
-Grossmünster https://de.wikipedia.org/wiki/Grossm%C3%BCnster
-Wasserkirche https://de.wikipedia.org/wiki/Wasserkirche
-Fraumünster https://de.wikipedia.org/wiki/Fraum%C3%BCnster
-St. Peter https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich)
+[Grossmünster](https://de.wikipedia.org/wiki/Grossm%C3%BCnster)
+[Wasserkirche](https://de.wikipedia.org/wiki/Wasserkirche)
+[Fraumünster](https://de.wikipedia.org/wiki/Fraum%C3%BCnster)
+[St. Peter](https://de.wikipedia.org/wiki/St._Peter_(Z%C3%BCrich))
 
 
-Schweiz https://de.wikipedia.org/wiki/Schweiz
-Kantone der Schweiz  https://de.wikipedia.org/wiki/Kanton_(Schweiz)
-Zürich https://de.wikipedia.org/wiki/Z%C3%BCrich
-Alte Eidgenossenschaft https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft
-Bundesverfassung der Schweizerischen Eidgenossenschaft https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
-Geschichte der Schweiz https://de.wikipedia.org/wiki/Geschichte_der_Schweiz
-Geographie der Schweiz https://de.wikipedia.org/wiki/Geographie_der_Schweiz
-Fürstabtei St. Gallen https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen
+[Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+[Kantone der Schweiz](https://de.wikipedia.org/wiki/Kanton_(Schweiz))
+[Zürich](https://de.wikipedia.org/wiki/Z%C3%BCrich)
+[Alte Eidgenossenschaft](https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft)
+[Bundesverfassung der Schweizerischen Eidgenossenschaft](https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft)
+[Geschichte der Schweiz](https://de.wikipedia.org/wiki/Geschichte_der_Schweiz)
+[Geographie der Schweiz](https://de.wikipedia.org/wiki/Geographie_der_Schweiz)
+[Fürstabtei St. Gallen](https://de.wikipedia.org/wiki/F%C3%BCrstabtei_St._Gallen)
 
-Major Davel https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel (Lausanne, Waadt von der Herrschaft Berns zu befreien)
+[Major Davel](https://de.wikipedia.org/wiki/Jean_Daniel_Abraham_Davel) (Lausanne, Waadt von der Herrschaft Berns zu befreien)
 
-Fahne und Wappen des Kantons und der Stadt Zürich https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich
+[Fahne und Wappen des Kantons und der Stadt Zürich](https://de.wikipedia.org/wiki/Fahne_und_Wappen_des_Kantons_und_der_Stadt_Z%C3%BCrich)
 
-
-Schweizerische Nationalpark https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark Graubünden
-Frauenwinkel https://en.wikipedia.org/wiki/Frauenwinkel Schwyz
-
-
-https://www.stadt-zuerich.ch/einbuergerungen
-
-https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
-
+[Schweizerische Nationalpark](https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark) Graubünden
+[Frauenwinkel](https://en.wikipedia.org/wiki/Frauenwinkel) Schwyz
 
 
 Sports
-Jassen https://de.wikipedia.org/wiki/Jass
-Hornussen https://de.wikipedia.org/wiki/Hornussen_(Sport)
-Schwingen https://de.wikipedia.org/wiki/Schwingen
-Steinwerfen https://de.wikipedia.org/wiki/Steinwerfen
+[Jassen](https://de.wikipedia.org/wiki/Jass)
+[Hornussen](https://de.wikipedia.org/wiki/Hornussen_(Sport))
+[Schwingen](https://de.wikipedia.org/wiki/Schwingen)
+[Steinwerfen](https://de.wikipedia.org/wiki/Steinwerfen)
+
+[Musikalische Instrumente](https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik)
+[Alphorn](https://de.wikipedia.org/wiki/Alphorn)
+[Schwyzerörgeli](https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli)
+[Büchel](https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument))  
 
 
-
-Musikalische Instrumente
-Alphorn https://de.wikipedia.org/wiki/Alphorn
-Schwyzerörgeli https://de.wikipedia.org/wiki/Schwyzer%C3%B6rgeli
-Büchel https://de.wikipedia.org/wiki/B%C3%BCchel_(Musikinstrument)  
-https://houseofswitzerland.org/de/swissstories/gesellschaft/5-typische-instrumente-der-schweizer-volksmusik
-
-Flüsse
-Längste Flüsse (der):  https://de.wikipedia.org/wiki/Liste_der_Fl%C3%BCsse_in_der_Schweiz
-Hydrographie_der_Schweiz https://de.wikipedia.org/wiki/Hydrographie_der_Schweiz
-der Rhein (375 km) https://de.wikipedia.org/wiki/Rhein  (Quelle : Tomasee, Graubünden)
-die Aare (288) https://de.wikipedia.org/wiki/Aare -> Unteraargletscher -> Thun, Bern, Biel, Aarau, Koblenz  Rhein
-die Rhone https://de.wikipedia.org/wiki/Rhone (264) (Rotten, Rhonegletscher, Wallis)
-Reuss (158) https://de.wikipedia.org/wiki/Reuss_(Fluss) (Luzern) entspringt im Gotthardmassiv im Südwesten des Kantons Uri und mündet bei Windisch und Gebenstorf im Kanton Aargau als rechter Nebenfluss in die Aare
-Limmat (140) https://de.wikipedia.org/wiki/Limmat -> Aare
+[Längste Flüsse der Schweiz](https://de.wikipedia.org/wiki/Liste_der_Fl%C3%BCsse_in_der_Schweiz)
+[Hydrographie_der_Schweiz](https://de.wikipedia.org/wiki/Hydrographie_der_Schweiz)
+[der Rhein](https://de.wikipedia.org/wiki/Rhein) 375 km   (Quelle : Tomasee, Graubünden)
+[die Aare](https://de.wikipedia.org/wiki/Aare) 288 km -> Unteraargletscher -> Thun, Bern, Biel, Aarau, Koblenz  Rhein
+[die Rhone](https://de.wikipedia.org/wiki/Rhone) 264 km (Rotten, Rhonegletscher, Wallis)
+[Reuss](https://de.wikipedia.org/wiki/Reuss_(Fluss)) 158 km (Luzern) entspringt im Gotthardmassiv im Südwesten des Kantons Uri und mündet bei Windisch und Gebenstorf im Kanton Aargau als rechter Nebenfluss in die Aare
+[Limmat](https://de.wikipedia.org/wiki/Limmat) 140 km -> Aare
 Saane (Röstigraben) 128
 Thur (125)-> Rhein
-https://de.wikipedia.org/wiki/Glatt_(Rhein)
-https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss) Töss -> Rhein
+[Glatt](https://de.wikipedia.org/wiki/Glatt_(Rhein))
+[Töss](https://de.wikipedia.org/wiki/T%C3%B6ss_(Fluss))  -> Rhein
 Sihl (-> Limmat)
 
 Seen in ZH:
 Zürichsee (Gebiet Schwyz/St Gallen)  Greifensee  Pfäffikersee
 
-Grösste Berge: https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz
-Dufourspitze https://de.wikipedia.org/wiki/Dufourspitze   Gornerhorn  4638m Wallis
-Dom https://de.wikipedia.org/wiki/Dom_(Berg) 4545m Wallis
-Liskamm 4527m
-Weisshorn 4505m
-Matterhorn 4478m
+[Grösste Berge ind er Schweiz](https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz)
+[Dufourspitze](https://de.wikipedia.org/wiki/Dufourspitze)    Gornerhorn  4638 m Wallis
+[Dom](https://de.wikipedia.org/wiki/Dom_(Berg)) 4545 m Wallis
+Liskamm 4527 m
+Weisshorn 4505 m
+Matterhorn 4478 m
 Dent Blanche
 
 
-Grösste Seen (der): https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Seen_in_der_Schweiz
+[Grösste Seen in der Schweiz](https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Seen_in_der_Schweiz)
 der Genfersee (345 Km2)
 Neuenburgersee (215 Km2) (innerhalb die Schweiz)
 Bodensee (172 Km2)
@@ -1280,7 +1259,7 @@ Thunersee (47)
 Lago Maggiore (Langensee) (42 in der Schweiz)
 
 
-Grösste Städte: https://de.wikipedia.org/wiki/Liste_der_St%C3%A4dte_in_der_Schweiz
+[Grösste Städte in der Schweiz](https://de.wikipedia.org/wiki/Liste_der_St%C3%A4dte_in_der_Schweiz)
 Zürich 415K
 Genf 200K
 Basel 172K
@@ -1296,11 +1275,19 @@ Biel (Bienne) 55K
 Grössten Unternehmen in der Schweiz https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Unternehmen_in_der_Schweiz
 UBS, Credit Suisse, Julius Baer, Flughafen, Spitälern, Migros, SIY, ABB, Coop, Emil Frey, DKHS, Denner, Google, digitec, Siemens, Barry Callebaut, AMAG-Gruppe, Raiffeisen Schweiz, Zürcher Kantonalbank, Lindt & Sprüngli
 
+Grosse Firmen in Kanton Zürich
+[Sulzer AG](https://de.wikipedia.org/wiki/Sulzer_AG) Industriekonzern  Winterthur
+[Schweizerische Lokomotiv- und Maschinenfabrik](https://de.wikipedia.org/wiki/Schweizerische_Lokomotiv-_und_Maschinenfabrik) Winterthur
+[Rieter](https://de.wikipedia.org/wiki/Rieter) Textilmaschinenbau  Winterthur
+[Swica](https://de.wikipedia.org/wiki/Swica) Versicherungsgesellschaft Winterthur
+[Zimmer Biomet Holdings](https://de.wikipedia.org/wiki/Zimmer_Biomet) Winterthur
+[Veloland Schweiz](https://de.wikipedia.org/wiki/Veloland_Schweiz)
 
+Autobahn 1540 Km in der Schweiz
 
 ===========
 
-Schweizer machen
+Schweizer machen Dokufilm
 https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-1?urn=urn:srf:video:68be69b6-05fd-4885-aecb-6e5d861c6e64
 
 https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-2?urn=urn:srf:video:afa84b9e-7bac-4220-a4c6-5141d36fced6
@@ -1309,15 +1296,22 @@ https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-3?urn=urn:srf:video:
 
 https://www.srf.ch/play/tv/dok/video/schweizer-machen-folge-4?urn=urn:srf:video:60a3a7f8-4a8c-403f-8811-72bb2bb4ba59&aspectRatio=16_9
 
-
 https://www.youtube.com/watch?v=eB7woQYdYbU  Come ha fatto la Svizzera a diventare ricca?
 
-Autobahn 1540 Km in der Schweiz
+https://www.swissinfo.ch/ger/direkte-demokratie_so-funktioniert-das-politische-system-der-schweiz/31029048
 
-https://ttsfree.com/ Schweizer Deutsch Stimme
+https://www.youtube.com/watch?v=9D6jhjAn38M Ausstellung "Geschichte Schweiz" für Schulen
+
+https://www.youtube.com/watch?v=hYLXPpLKZ5Y «Swissness. Tradition und Innovation»
+
+https://www.stadt-zuerich.ch/einbuergerungen
+
+https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat.html
+
 
 ============
-DIE NAMEN
+
+DIE NAMEN zu erinnern
 
 Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
 Ständerat = Präsident Thomas Hefti.
@@ -1343,8 +1337,6 @@ Präsident des Gemeinderats ist Matthias Probst
 
 to remove all wikipedia links:
 sed 's/http[^ ]*//g'
-
-
 
 
 ### FAZIT
