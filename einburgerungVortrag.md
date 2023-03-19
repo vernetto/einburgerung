@@ -1,6 +1,9 @@
 Grüezi wohl und herzlich willkommen.
 
-Ich habe vor kurzem ein [Einbürgerungsgespräch](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/einbuergerungen.html#) beim Bevölkerungsamt in Stadthaus Zürich geführt, ich ich teile gerne meine Erfahrung und meinen Vorbereitungsprozess mit ihnen.
+Ich habe vor kurzem ein [Einbürgerungsgespräch](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/einbuergerungen.html#) beim Bevölkerungsamt in Stadthaus Zürich geführt, 
+ich ich teile gerne meine Erfahrung und meinen Vorbereitungsprozess mit ihnen.
+
+Here https://github.com/vernetto/einburgerung/blob/master/einburgerungVortrag.md findend sie diese Text. 
 
 ## VORBEREITUNG
 
@@ -30,7 +33,7 @@ Dann üben sie die [Stadt Zürich Grundkenntnistest](https://www.zh.ch/de/migrat
 
 Nach dem test, haben sie ein 30 Minuten Gespräch. Die erste, sehr wichtige Frage wird wahrscheinlich sein "Warum wollen sie sich einbürgern lassen ? Warum wollen Sie Schweizer werden ? Warum sind sie in die Schweiz gekommen?"
 
-Antworten wie "Die Schweiz ist ein sicheres Ort" oder "Ich verdiene viel Geld in der Schweiz" oder "Ein Schweizer Pass kann praktisch sein" sind SCHLECHTE ANTWORTEN. Sie müssen zeigen, dass sie LIEBEN die Schweiz, ihre Werte und Kultur und ihre Politische System.
+Antworten wie "Die Schweiz ist ein sicheres Ort" oder "Ich verdiene viel Geld in der Schweiz" oder "Ein Schweizer Pass kann praktisch sein" sind SCHLECHTE ANTWORTEN. Sie müssen zeigen, dass Sie die Schweiz LIEBEN, ihre Werte und Kultur und ihre Politischen System.
 
 Ganz wichtig is zeigen, dass sie ein soziales Leben in der Schweiz haben. Haben Sie Schweizer Freunde? Sind sie Mitglied in einem Verein? Sind sie Freiwillig (ins Krankenhauser, bei Caritas, Rote Kreuz, Quartierverein)? Gehst du zum Nachbarschaftsverein? Kennen Sie Ihre Nachbarn? Nehmen sie zu Veranstaltungen teil? 
 
@@ -54,7 +57,7 @@ Die **Römer** mit Julius Caesar haben 52 v.Chr. [die Helvetien untergeworfen](h
 
 Nach der Untergang des Römischen Reiches am Jahr 400, verschiedene Völker wurden das Schweizer Gebiet herrschen: 
 [Burgunder](https://de.wikipedia.org/wiki/Burgunden)  [Alamannen](https://de.wikipedia.org/wiki/Alamannen) . 
-Im Jahr 746 n.Chr. fiel die Schweiz unter das [Fränkischea Reich](https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich),
+Im Jahr 746 n.Chr. fiel die Schweiz unter das [Fränkisches Reich](https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich),
 und später zwischen [Burgunder](https://de.wikipedia.org/wiki/Burgunden) und [Habsburger](https://de.wikipedia.org/wiki/Habsburg) aufgeteilt. 
 Manche Schweizer Städte - die **Zähringerstädte** - (Bern) wurden von Deutsche Adelgeschlechter [Zähringer](https://de.wikipedia.org/wiki/Z%C3%A4hringer) beherrscht-
 
