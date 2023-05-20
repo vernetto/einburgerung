@@ -55,11 +55,30 @@ Im Schweizer Raum siedelten sich verschiedene keltische Stämme an: [Helvetier](
 
 Die **Römer** mit Julius Caesar haben 52 v.Chr. [die Helvetien untergeworfen](https://de.wikipedia.org/wiki/Die_Schweiz_in_r%C3%B6mischer_Zeit) (Gallia est omnis divisa in partes tres: Belgae, Aquitani, Celtae)
 
+Die Helvetier, ein keltischer Stamm, der in der Schweiz ansässig war, versuchten im 1. Jahrhundert v. Chr. ihre Unabhängigkeit zu wahren. Unter der Führung von Orgetorix unternahmen sie den Versuch, nach Westen in das gallische Gebiet zu expandieren. Doch ihre Pläne wurden von Julius Caesar und den römischen Truppen vereitelt. Die Helvetier wurden besiegt, und ihr Territorium wurde von den Römern annektiert.
+
+Mit der römischen Besatzung begann eine Periode des römischen Einflusses und der Romanisierung in der Schweiz. Die Römer bauten Straßen und Siedlungen und führten ihre Verwaltungsstrukturen ein. Die Stadt Aventicum (heute Avenches) wurde zur Hauptstadt der römischen Provinz Helvetia erhoben. Weitere wichtige römische Städte in der Schweiz waren Augusta Raurica (heute Kaiseraugst) und Vindonissa (heute Windisch).
+
+Während der römischen Herrschaft florierte der Handel, und die Schweiz wurde zu einem wichtigen Knotenpunkt in den römischen Handelsrouten. Landwirtschaft, Weinbau und Bergbau wurden intensiv betrieben. Die römische Kultur und Sprache prägten die Region nachhaltig.
+
+Dennoch gab es auch Widerstand gegen die römische Besatzung. Im Jahr 69 n. Chr. brach der sogenannte Helvetische Aufstand aus, bei dem die Helvetier versuchten, ihre Unabhängigkeit zurückzugewinnen. Der Aufstand wurde jedoch schnell niedergeschlagen, und die römische Herrschaft setzte sich fort.
+
+Die römische Besatzung der Schweiz dauerte bis zum 5. Jahrhundert n. Chr., als das Römische Reich allmählich zerfiel und von germanischen Stämmen bedroht wurde. In dieser Zeit begannen die Alemannen, ein germanischer Stamm, in die Schweiz vorzudringen und sich dort niederzulassen.
+
 Nach der Untergang des Römischen Reiches am Jahr 400, verschiedene Völker wurden das Schweizer Gebiet herrschen: 
 [Burgunder](https://de.wikipedia.org/wiki/Burgunden)  [Alamannen](https://de.wikipedia.org/wiki/Alamannen) . 
 Im Jahr 746 n.Chr. fiel die Schweiz unter das [Fränkisches Reich](https://de.wikipedia.org/wiki/Fr%C3%A4nkisches_Reich),
+Karl der Große, 
 und später zwischen [Burgunder](https://de.wikipedia.org/wiki/Burgunden) und [Habsburger](https://de.wikipedia.org/wiki/Habsburg) aufgeteilt. 
+
+Mit der fränkischen Expansion wurde das Christentum in der Region verbreitet, und zahlreiche Klöster und Bistümer entstanden.
+
+Im 9. und 10. Jahrhundert n. Chr. gewannen lokale Adelsfamilien an Einfluss und begannen, sich in der Region auszubreiten. Diese Adelsfamilien, darunter die Habsburger, die Kyburger und die Zähringer, herrschten über verschiedene Teile der heutigen Schweiz und kämpften untereinander um Macht und Territorium.
+
 Manche Schweizer Städte - die **Zähringerstädte** - (Bern) wurden von Deutsche Adelgeschlechter [Zähringer](https://de.wikipedia.org/wiki/Z%C3%A4hringer) beherrscht-
+
+Im 13. Jahrhundert n. Chr. begann sich ein gemeinsamer Geist des Widerstands gegen die zunehmende Herrschaft der Habsburger zu entwickeln. Insbesondere in den ländlichen Regionen entstanden sogenannte "Landsgemeinden", bei denen die männlichen Bürger zusammenkamen, um über politische Angelegenheiten zu beraten und Entscheidungen zu treffen.
+
 
 
 ### 1291 bis 1789
