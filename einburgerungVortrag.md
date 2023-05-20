@@ -47,9 +47,9 @@ Cro-Magnon-Menschen lebten schon in Jura-Gebirges 35000 v.Chr
 
 Am [Kesslerloch](https://de.wikipedia.org/wiki/Kesslerloch) (eine Höhle im Kanton Schaffhausen), vor 15'000 Jahren schon von Jägern bewohnt; sie gehörten vermutlich zur [Magdalénienkultur](https://de.wikipedia.org/wiki/Magdal%C3%A9nien).
 
-Dann **Pfahlbauersiedlung** im Neuenburgersee und Thurgau wurden entdeckt ( 4500 v.Chr. bis 800 v.Chr.)
+Dann **Pfahlbauersiedlung** im Neuenburgersee und Thurgau wurden entdeckt ( 4500 v.Chr. bis 800 v.Chr.). Diese Menschen errichteten Siedlungen auf Pfählen in Seen und Flüssen und waren für ihre Fähigkeiten in der Landwirtschaft, Viehzucht und Keramikherstellung bekannt.
 
-Die [Kelten](https://de.wikipedia.org/wiki/Kelten) haben die Schweiz kolonisiert, ein beispiel ist in [Latène](https://de.wikipedia.org/wiki/La_T%C3%A8ne_(Fundplatz)) (Kanton Neuenburg)
+Die [Kelten](https://de.wikipedia.org/wiki/Kelten) haben die Schweiz kolonisiert, ein beispiel ist in [Latène](https://de.wikipedia.org/wiki/La_T%C3%A8ne_(Fundplatz)) (Kanton Neuenburg) . Diese Kultur war durch fortschrittliche Metallverarbeitungstechniken gekennzeichnet, einschließlich der Herstellung von kunstvollen Schmuckstücken und Waffen.
 
 Im Schweizer Raum siedelten sich verschiedene keltische Stämme an: [Helvetier](https://de.wikipedia.org/wiki/Helvetier) Mittelland, Raetier (Ostschweiz), Seduner (Wallis), Lepontier (Tessin), Insubrer 
 
