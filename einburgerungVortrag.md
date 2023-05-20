@@ -77,16 +77,23 @@ Im 9. und 10. Jahrhundert n. Chr. gewannen lokale Adelsfamilien an Einfluss und 
 
 Manche Schweizer Städte - die **Zähringerstädte** - (Bern) wurden von Deutsche Adelgeschlechter [Zähringer](https://de.wikipedia.org/wiki/Z%C3%A4hringer) beherrscht-
 
-Im 13. Jahrhundert n. Chr. begann sich ein gemeinsamer Geist des Widerstands gegen die zunehmende Herrschaft der Habsburger zu entwickeln. Insbesondere in den ländlichen Regionen entstanden sogenannte "Landsgemeinden", bei denen die männlichen Bürger zusammenkamen, um über politische Angelegenheiten zu beraten und Entscheidungen zu treffen.
+Diese war eine Zeit des Wandels, der territorialen Expansion und der Suche nach politischer Autonomie.
 
+Im 13. Jahrhundert n. Chr. begann sich ein gemeinsamer Geist des Widerstands gegen die zunehmende Herrschaft der Habsburger zu entwickeln. 
+Insbesondere in den ländlichen Regionen entstanden sogenannte "Landsgemeinden", 
+bei denen die männlichen Bürger zusammenkamen, um über politische Angelegenheiten zu beraten und Entscheidungen zu treffen.
 
 
 ### 1291 bis 1789
 
-1291 Find der [Rütlischwur](https://de.wikipedia.org/wiki/R%C3%BCtlischwur) am Rütli statt (Kanton Uri), am Ufer der Vierwaldstättersees. Die 3 Kantonen 
-**Uri, Schwyz und Unterwalden** - _Urkantonen_ genannt - versprochen gegenseitige Hilfe zu geben. Der Name der 3 Menschen war: Walter Fürst, Werner Stauffacher, Arnold von Melchtal
+1291 Find der [Rütlischwur](https://de.wikipedia.org/wiki/R%C3%BCtlischwur) am Rütli statt (Kanton Uri), 
+am Ufer der Vierwaldstättersees, und wurde der Bund der Eidgenossen gegründet. Es sollte als Grundlage für den späteren schweizerischen Bundesstaat dienen.
+Die 3 Kantonen **Uri, Schwyz und Unterwalden** - _Urkantonen_ genannt - versprochen gegenseitige Hilfe zu geben. 
+Der Name der 3 Menschen war: Walter Fürst, Werner Stauffacher, Arnold von Melchtal.
 
-1291 der [Bundesbrief](https://de.wikipedia.org/wiki/Bundesbrief_von_1291) wurde geschrieben, ein Rechtsdokument der den Grundstein legt für eine bürgerliche, 
+
+1291 der [Bundesbrief](https://de.wikipedia.org/wiki/Bundesbrief_von_1291) wurde geschrieben, 
+ein Rechtsdokument der den Grundstein legt für eine bürgerliche, 
 wirtschaftliche und militärische Union zwischen den 3 Kantonen. 
 Der text ist sehr interessant zu lesen.
 
