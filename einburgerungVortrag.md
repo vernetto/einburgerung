@@ -105,7 +105,10 @@ Das [Weisses Buch von Sarnen](https://de.wikipedia.org/wiki/Weisses_Buch_von_Sar
 1291-1352 Ausdehnung der Urkantonen zu **[Acht Alte Orte](https://de.wikipedia.org/wiki/Acht_Alte_Orte)**  
 Uri (1291) Schwyz (1291) Unterwalden (Ob- und Nidwalden) (1291) Luzern (1332) Zürich (1351) Zug (1352) Bern (1353) Glarus (1352/86)
 
-1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Konflikt zwischen Bern einerseits und einer breiten Koalition von Westschweizer Adeligen. Bern hat gewonnen.
+1339 [Laupenkrieg](https://de.wikipedia.org/wiki/Laupenkrieg)  Konflikt zwischen Bern einerseits und einer breiten Koalition von Westschweizer Adeligen,
+hauptsächlich die Stadt Freiburg.
+Bern hatte zuvor versucht, eine Allianz mit Freiburg zu schmieden, um gemeinsam gegen den Grafen von Savoyen vorzugehen. Als Freiburg jedoch eine unabhängige Allianz mit Savoyen einging, fühlte sich Bern verraten und griff Freiburg an.
+Bern hat die Stadt Laupen angegriffen und erobert. Der Krieg hatte weitreichende Auswirkungen auf die Region und stärkte die Stellung von Bern als politische und militärische Macht.
 
 #### HABSBURGERKRIEGE 1291–1474 bis 1511
 
