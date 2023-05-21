@@ -112,6 +112,22 @@ Bern hat die Stadt Laupen angegriffen und erobert. Der Krieg hatte weitreichende
 
 #### HABSBURGERKRIEGE 1291–1474 bis 1511
 
+Die Habsburgerkriege in der Schweiz waren eine Reihe von Konflikten zwischen dem Haus Habsburg und den Eidgenossen, den freien Städten und Kantonen der heutigen Schweiz, die von 1291 bis 1511 stattfanden.
+
+Die Geschichte dieser Konflikte beginnt mit der Gründung der Schweizerischen Eidgenossenschaft im Jahr 1291. Die Eidgenossenschaft, bestehend aus Bauern und Stadtbewohnern, strebte nach Unabhängigkeit und Selbstbestimmung. Die Habsburger, eine aufstrebende Adelsfamilie mit territorialen Ambitionen, versuchten jedoch, politische Kontrolle über die Region zu erlangen.
+
+Im 14. Jahrhundert erreichten die Konflikte zwischen den Habsburgern und den Eidgenossen ihren Höhepunkt. Die Eidgenossen leisteten Widerstand gegen die Ansprüche der Habsburger und verteidigten ihre Unabhängigkeit in einer Reihe von Schlachten. Eine der bekanntesten Schlachten war die Schlacht bei Morgarten im Jahr 1315, in der die Eidgenossen einen entscheidenden Sieg über die Habsburger errangen. Dieser Sieg stärkte den Glauben der Eidgenossen an ihre militärische Fähigkeit und ihre Entschlossenheit, ihre Freiheit zu verteidigen.
+
+Eine weitere wichtige Schlacht fand 1386 bei Sempach statt. Auch dort kämpften die Eidgenossen gegen die Habsburger und erzielten einen weiteren bedeutenden Sieg. Dieser Sieg bei Sempach festigte die Unabhängigkeit der Eidgenossenschaft und führte zur Ausweitung ihres Territoriums.
+
+Im 15. Jahrhundert konzentrierten sich die Konflikte zwischen den Habsburgern und den Eidgenossen auf politische und territoriale Fragen. Die Eidgenossenschaft erweiterte ihr Gebiet durch den Erwerb neuer Kantone und strebte nach einer stärkeren politischen Stellung. Die Habsburger hingegen versuchten, ihren Einfluss in der Region zu bewahren und ihre Kontrolle über die Eidgenossenschaft wiederherzustellen.
+
+Die Habsburgerkriege in der Schweiz kulminierten im späten 15. und frühen 16. Jahrhundert in den sogenannten Schwabenkriegen. Diese Kriege wurden zwischen 1499 und 1511 ausgetragen und waren geprägt von verschiedenen militärischen Auseinandersetzungen zwischen den Eidgenossen und den Habsburgern sowie deren Verbündeten. Die Eidgenossenschaft behauptete ihre Unabhängigkeit erfolgreich und zwang die Habsburger, auf ihre Ansprüche zu verzichten.
+
+Die Habsburgerkriege in der Schweiz von 1291 bis 1511 waren von großer Bedeutung für die Entwicklung der Schweiz als unabhängige Nation. Die Siege der Eidgenossen über die Habsburger festigten nicht nur ihre Unabhängigkeit, sondern auch ihre Reputation als tapfere Kämpfer. Diese Konflikte trugen zur Bildung der Schweizerischen Eidgenossenschaft bei und legten den Grundstein für die politische und militärische Tradition, die das Land bis heute prägt.
+
+
+
 [Habsburgerkriege]((https://de.wikipedia.org/wiki/Schweizer_Habsburgerkriege)) eine Reihe von bewaffneten Konflikten zwischen der entstehenden Schweizerischen Eidgenossenschaft 
 und dem Fürstengeschlecht der Habsburger, die mit der faktischen Unabhängigkeit der Eidgenossenschaft endeten.
 
@@ -134,6 +150,23 @@ genannt: Freiburg (1481) Solothurn (1481) Schaffhausen (1501) Basel (1501) Appen
 #### ENDE HABSBURGERKRIEGE
 
 #### MAILÄNDERKRIEGE
+
+Die Mailänderkriege waren eine Reihe von Konflikten zwischen der Schweizer Eidgenossenschaft und dem Herzogtum Mailand, die von 1403 bis 1516 stattfanden. Diese Kriege waren hauptsächlich auf territoriale Ansprüche und wirtschaftliche Interessen beider Seiten zurückzuführen.
+
+Im Jahr 1403 brachen die Kämpfe aus, als die Stadt Zürich versuchte, ihre Unabhängigkeit von der Vorherrschaft des Herzogtums Mailand zu erlangen. Die Eidgenossen, bestehend aus den acht Gründungskantonen der Schweiz, unterstützten Zürich in ihrem Kampf. Dies führte zur Schlacht bei St. Jakob an der Sihl, bei der die Schweizer einen entscheidenden Sieg über die mailändischen Truppen errangen.
+
+In den folgenden Jahren kämpften die Schweizer und die Mailänder in mehreren Schlachten, darunter die Schlacht bei Arbedo im Jahr 1422 und die Schlacht bei Giornico im Jahr 1478. Die Schweizer erweiterten ihr Territorium und erlangten strategisch wichtige Gebiete wie das Misox und das Bleniotal.
+
+Im Jahr 1499 erreichte der Konflikt zwischen der Schweiz und Mailand einen Höhepunkt. Die Truppen des französischen Königs Ludwig XII., der eine Allianz mit der Eidgenossenschaft eingegangen war, drangen in Norditalien ein und eroberten Mailand. Dies markierte das vorläufige Ende der mailändischen Vorherrschaft über die Schweiz.
+
+Trotzdem setzten sich die Kämpfe in den kommenden Jahrzehnten fort. Im Jahr 1512 marschierten die Franzosen erneut in Italien ein und eroberten Mailand erneut. Dies führte zur zweiten mailändischen Herrschaft über die Schweiz. Die Schweizer Eidgenossenschaft verbündete sich mit den kaiserlichen Truppen des Heiligen Römischen Reiches, um die französische Besetzung zu bekämpfen.
+
+Die letzte Schlacht der Mailänderkriege fand im Jahr 1515 statt, als die Eidgenossen und ihre Verbündeten in der Schlacht bei Marignano gegen die französischen Truppen kämpften. Obwohl die Schlacht unentschieden endete, führte sie zu einem Friedensvertrag, der den Franzosen die Kontrolle über Mailand sicherte.
+
+Die Mailänderkriege hatten bedeutende Auswirkungen auf die Schweiz. Die Eidgenossenschaft erlangte durch diese Kriege territoriale Gewinne, festigte ihre Unabhängigkeit und etablierte sich als wichtige militärische Macht in Europa. Diese Konflikte trugen auch zur Entwicklung des schweizerischen Söldnerwesens bei, das in den folgenden Jahrhunderten eine herausragende Rolle in europäischen Kriegen spielte.
+
+Das ist eine Zusammenfassung der Mailänderkriege in der Schweiz von 1403 bis 1516. Es war eine Zeit intensiver Auseinandersetzungen und politischer Veränderungen, die die Geschichte der Schweiz nachhaltig prägten.
+
 
 1403-1478 [Ennetbirgische Feldzüge](https://de.wikipedia.org/wiki/Ennetbirgische_Feldz%C3%BCge) - Expansion ins Tessin, 
 im Zuge der Ennetbirgischen Feldzüge eroberten die Eidgenossenschaft und ihre Verbündeten das Tessin, Veltlin und Chiavenna.
