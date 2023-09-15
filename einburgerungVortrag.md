@@ -1392,21 +1392,26 @@ DIE NAMEN zu erinnern
 Nationalrat=Präsident Martin Candinas (die Mitte), Eric Nussbaumer Vizepräsident(in)  , Maja Riniker
 Ständerat = Präsident Thomas Hefti.
 
-Bundesrat:
-Viola Amherd -> VBS Verteidigung Bevölkerungsschutz und Sport
-Simonetta Sommaruga -> UVEK Umwelt Verkehr Energie Kommunikation
-Alain Berset -> EDI Intern
-Ignazio Cassis -> EDA Auswärtige (Bundespräsident)
-Ueli Maurer -> EFD Finanz
-Guy Parmelin -> WFB Wirtschaft Bildung Forschung
-Karin Keller-Sutter -> EJPD  Justiz & Polizei
+
+|  Bundesrat   |     |
+|-----|-----|
+|  Viola Amherd   |  VBS Verteidigung Bevölkerungsschutz und Sport   |
+|  Simonetta Sommaruga   |  UVEK Umwelt Verkehr Energie Kommunikation   |
+|  Alain Berset   |   EDI Intern  |
+|   Ignazio Cassis  |   EDA Auswärtige (Bundespräsident)  |
+|   Ueli Maurer  |   EFD Finanz  |
+|  Guy Parmelin   |   WFB Wirtschaft Bildung Forschung  |
+|   Karin Keller-Sutter  | EJPD  Justiz & Polizei    |
+
 
 Ständerat für Zürich Kanton: Daniel Jositsch, Ruedi Noser
 
 Regierungsrat ZH  Ernst Stocker
+
 Stadtrat 9 ZH, Corine Mauch
 
 Kantonsratspräsidentin: Esther Guyer
+
 Präsident des Gemeinderats ist Matthias Probst
 
 =======
