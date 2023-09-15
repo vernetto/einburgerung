@@ -846,34 +846,41 @@ Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, A
 * Alpen - 60% Fläche
 * Jura - 10% Fläche
 
-Kantone mit ihrer Sprache und grössten Städte: 
+ mit ihrer  und : 
 
-AG Aargau DE : Baden, Brugg, Vindonissa, Koblenz, Jura
-AI Appenzeller Innerhoden DE : Appenzell
-AR Appenzeller Ausserhoden DE : Herisau-Trogen
-BE Bern DE+FR: Finsteraarhorn 4278 m, Jungfrau 4158, Mönch 4107, Eiger; Bielersee, Neuenburgsee
-BL Basel Landschaft DE
-BS Basel Stadt DE
-FR Freiburg DE+FR
-GE Genf FR
-GL Glarus DE : Glarus
-GR Graubunden DE+RO+IT
-JU Jura FR : Delsberg
-LU Luzern DE : Kappelbrücke, Pilatus, Rigi
-NE Neuenburg FR : La Chaud de Fonds, Neuenburg
-NW Nidwalden (Unterwalden) DE : Stans
-OW Obwalden (Unterwalden) DE : Sarnen, Vierwaldstättensee, Brünigpass, Titlis, Engelberg
-SG Saint Gallen DE : St Gallen, Stiftskirche
-SH Schaffhausen DE : Rheinfall
-SO Soloturn DE : Olten
-SZ Schwyz DE : Freinbach
-TG Thurgau DE : Frauenfeld
-TI Tessin IT :
-UR Uri DE : Altdorf
-VD Waadt FR : Genfersee (Rhône, Dranse), Lausanne, Vevey, Montreux
-VS Wallis DE+FR : Brig, Visp, Zermatt
-ZG Zug DE : Zugersee
-ZH Zürich  DE
+| Kantone                    | Sprache | grössten Städte                                                                  |
+|----------------------------|---------|----------------------------------------------------------------------------------|
+| AG Aargau                  | DE      | Baden, Brugg, Vindonissa, Koblenz, Jura                                          |
+| AI Appenzeller Innerhoden  | DE      | Appenzell                                                                        |
+| AR Appenzeller Ausserhoden | DE      | Herisau-Trogen                                                                   |
+| BE Bern                    | BE Bern | Finsteraarhorn 4278 m, Jungfrau 4158, Mönch 4107, Eiger; Bielersee, Neuenburgsee |
+| BL Basel                   | DE      | Landschaft                                                                       |
+| BS Basel Stadt               | DE      | Basel                                                                              |
+|        FR Freiburg                    | DE+FR   |                                                                                  |
+|             GE Genf               | FR      |                                                                                  |
+|               GL Glarus             |       DE    |      Glarus                                                                            |
+|               GR Graubunden            |   DE+RO+IT    |                                                                                  |
+|                 JU Jura        |     FR      |         Delsberg                                                                         |
+|                  LU Luzern       |       DE    |          Kappelbrücke, Pilatus, Rigi                                                                        |
+|      NE Neuenburg                    |     FR      |         La Chaud de Fonds, Neuenburg  |
+|                NW Nidwalden  (Unterwalden)         |  DE         |       Stans                                                                           |
+|    OW Obwalden (Unterwalden)                     |     DE      |      Sarnen, Vierwaldstättensee, Brünigpass, Titlis, Engelberg                                                                            |
+|         SG Saint Gallen                 |   DE        |        St Gallen, Stiftskirche                                                                          |
+|         SH Schaffhausen                |    DE       |         Rheinfall                                                                         |
+|       SO Soloturn                  |     DE      |         Olten                                                                         |
+|        SZ Schwyz                  |      DE     |          Freinbach                                                                        |
+|        TG Thurgau                 |     DE      |            Frauenfeld                                                                      |
+|       TI Tessin                  |   IT        |                                                                                  |
+|         UR Uri                |      DE     |        Altdorf                                                                          |
+|         VD Waadt                |   FR        |          Genfersee (Rhône, Dranse), Lausanne, Vevey, Montreux                                                                        |
+|       VS Wallis                  |     DE+FR       |            Brig, Visp, Zermatt                                                                      |
+|         ZG Zug                |     DE      |         Zugersee                                                                         |
+|          ZH Zürich               |  DE         |                                                                                  |
+|                         |           |                                                                                  |
+|                         |           |                                                                                  |
+
+
+
 
 ZH Zürich : 1729 Km2, 1.5 Millionen Einwohner ,
 Flüsse: Limmat, Sihl, Glatt, Töss, Rhein
