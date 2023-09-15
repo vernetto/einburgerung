@@ -883,9 +883,13 @@ Regionen:  Genfersee, Espace Mittleland, Nordwestschweiz, Zürich, Ostschweiz, A
 
 
 ZH Zürich : 1729 Km2, 1.5 Millionen Einwohner ,
+
 Flüsse: Limmat, Sihl, Glatt, Töss, Rhein
+
 Berge: Schnebelhorn 1292 m, Bachtel 1115 m, und das Hörnli 1133 m, Hinwil, Albiskette (Uetlieberg 869 m), Lägern (Juraausläufer) 866 m
+
 See: Zürichsee, Pfäffikersee, Greifensee, Türlersee
+
 Städte: Zürich (420k) Winterthur (114k) Uster (35k) Dübendorf (29k) Dietikon (28k) ( Effretikon Horgen )
 
 Zürcher Weinland
